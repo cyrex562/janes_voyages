@@ -1,0 +1,214 @@
+{% extends 'jv_dj_app/base.html' %}
+{% load static %}
+{% block title %}Voyage List{% endblock %}
+{% block script %}
+    <script type="text/javascript"
+            src="{% static 'jv_dj_app/js/voyage_detail_view.js' %}">
+    </script>
+{% endblock %}
+{% block content %}
+    <h2>Voyage {{ voyage.id }}</h2>
+    <!-- START DATE -->
+    <h4>Dates</h4>
+    <div class="form-group">
+        <label for="voyage_start_date">Start Date</label>
+        <input type="date" id="voyage_start_date" class="form-control" value="{{ voyage.start_date }}">
+    </div>
+    <div class="btn-group" role="group">
+        <button id="update_start_date_btn" class="btn btn-primary">Update</button>
+    </div>
+
+    <!-- END DATE -->
+    <div class="form-group">
+        <label for="voyage_end_date">End Date</label>
+        <input type="date" id="voyage_end_date" class="form-control" value="{{ voyage.end_date }}">
+    </div>
+    <div class="btn-group" role="group">
+        <button id="update_end_date_btn" class="btn btn-primary">Update</button>
+    </div>
+
+    <!-- SHIP -->
+    <h4>Ship</h4>
+    <div class="form-group">
+        <label for="voyage_ship">Ship</label>
+        <select id="voyage_ship" class="form-control">
+            {% for sh in ships.all %}
+                <option id="{{ sh.id }}" {% if sh == voyage.ship %} selected {% endif %}>sh.name</option>
+            {% endfor %}
+        </select>
+    </div>
+    <!-- action button group -->
+    <div class="btn-group" role="group">
+        <button id="ship_detail_btn" class="btn btn-info">Info</button>
+        <button id="ship_delete_btn" class="btn btn-danger">Delete</button>
+    </div>
+    <!-- inline form -->
+    <div class="form-inline">
+        <div class="form-group">
+            <label for="ship_name">Name</label>
+            <input type="text" class="form-control" id="ship_name">
+        </div>
+        <div class="form-group">
+            <label for="ship_flag">Flag</label>
+            <input type="text" class="form-control" id="ship_flag">
+        </div>
+        <div class="form-group">
+            <label for="ship_home_port">Home Port</label>
+            <select class="form-control" id="ship_home_port">
+                {% for hp in ports.all %}
+                    <option id="{{ hp.id }}">{{ hp.name }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <div class="form-gorup">
+            <label for="ship_description">Description</label>
+            <textarea id="ship_description" class="form-control"></textarea>
+        </div>
+        <div class="btn-group" role="group">
+            <button id="inline_create_ship_btn" class="btn btn-primary">Create</button>
+            <button id="inline_update_ship_btn" class="btn btn-secondary">Update</button>
+        </div>
+    </div>
+
+
+    <!-- CAPTAIN -->
+    <h4>Captain</h4>
+    <div class="form-group">
+        <label for="voyage_captain">Captain</label>
+        <select id="voyage_captain" class="form-control">
+            {% for c in captains.all %}
+                <option id="{{ c.id }}" {% if c == voyage.captain %}selected{% endif %}>c.name</option>
+            {% endfor %}
+        </select>
+    </div>
+    <!-- action button group -->
+    <div class="btn-group" role="group">
+        <button id="captain_detail_btn" class="btn btn-info">Info</button>
+        <button id="captain_delete_btn" class="btn btn-danger">Delete</button>
+    </div>
+    <!-- inline form -->
+    <div class="form-inline">
+        <div class="form-group">
+            <label for="captain_name">Name</label>
+            <input type="text" class="form-control" id="captain_name">
+        </div>
+        <div class="form-group">
+            <label for="captain_description">Description</label>
+            <textarea class="form-control" id="captain_description"></textarea>
+        </div>
+        <div class="btn-group" role="group">
+            <button id="create_captain_btn" class="btn btn-primary">Create</button>
+            <button id="update_captain_btn" class="btn btn-secondary">Update</button>
+        </div>
+    </div>
+
+
+    <!-- PORT VISITS -->
+    <h4>Port Visits</h4>
+    <div class="form-group">
+        <label for="voyage_port_visits">Port Visits</label>
+        <select id="voyage_port_visits" class="form-control">
+            {% for pv in voyage.portvisit_set.all %}
+                <option id="{{ pv.id }}">{{ pv.start_date }}-{{ pv.end_date }}: {{ pv.port }},</option>
+            {% endfor %}
+        </select>
+    </div>
+    <!-- action button group -->
+    <div class="btn-group" role="group">
+        <button id="port_visit_detail_btn" class="btn btn-info">Info</button>
+        <button id="port_visit_delete_btn" class="btn btn-danger">Delete</button>
+    </div>
+    <!-- inline form -->
+    <div class="form-inline">
+        <!-- start date -->
+        <div class="form-group">
+            <label for="port_visit_start_date">Start Date</label>
+            <input type="date" class="form-control" id="port_visit_start_date">
+        </div>
+        <!-- end date -->
+        <div class="form-group">
+            <label for="port_visit_end_date">End Date</label>
+            <input type="date" class="form-control" id="port_visit_end_date">
+        </div>
+        <!-- port -->
+        <div class="form-group">
+            <label for="port_visit_port">Port</label>
+            <select class="form-control" id="port_visit_port">
+                {% for port in ports %}
+                    <option id="{{ port.id }}">{{ port.name }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        <!-- start_port -->
+        <div class="form-group">
+            <label for="port_visit_home_port">Home Port?</label>
+            <input type="checkbox" id="port_visit_home_port" class="form-control">
+        </div>
+        <!-- end_port -->
+        <div class="form-group">
+            <label for="port_visit_end_port">End Port?</label>
+            <input type="checkbox" id="port_visit_end_port" class="form-control">
+        </div>
+        <!-- description -->
+        <div class="form-group">
+            <label for="port_visit_description">Description</label>
+            <textarea id="port_visit_description" class="form-control"></textarea>
+        </div>
+        <!-- button group -->
+        <div class="btn-group" role="group">
+            <button id="port_visit_inline_create_btn" class="btn btn-primary">Create</button>
+            <button id="port_visit_inline_update_btn" class="btn btn-secondary">Update</button>
+        </div>
+    </div>
+
+    <!-- DESCRIPTION -->
+    <h4>Description</h4>
+    <div class="form-group">
+        <label for="voyage_description">Description</label>
+        <textarea id="voyage_description" class="form-control">{{ voyage.description }}</textarea>
+    </div>
+    <!-- action button group -->
+    <div class="btn-group" role="group">
+        <button id="voyage_description_update_btn" class="btn btn-primary">Update</button>
+    </div>
+
+
+    <!-- SOURCES -->
+    <h4>Sources</h4>
+    <div class="form-group">
+        <label for="voyage_sources">Sources</label>
+        <select id="voyage_sources" class="form-control">
+            {% for src in voyage.sources.all %}
+                <option id="{{ src.id }}">src.source</option>
+            {% endfor %}
+        </select>
+    </div>
+    <!-- action button group -->
+    <div class="btn-group" role="group">
+        <button id="src_detail_btn" class="btn btn-info">Info</button>
+        <button id="src_delete_btn" class="btn btn-danger">Delete</button>
+    </div>
+    <!-- inline form -->
+    <div class="form-inline">
+        <div class="form-group">
+            <label for="source_source">Source</label>
+            <input type="text" id="source_source" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="source_description">Description</label>
+            <textarea id="source_description" class="form-control"></textarea>
+        </div>
+        <div class="btn-group" role="group">
+            <button id="source_create_btn" class="btn btn-primary">Create</button>
+            <button id="source_update_btn" class="btn btn-secondary">Update</button>
+        </div>
+    </div>
+
+
+
+    <!-- button group -->
+    <br/><br/>
+    <div class="btn-group" role="group">
+        <button class="btn btn-primary" id="return_btn">Return</button>
+    </div>
+{% endblock %}

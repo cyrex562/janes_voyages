@@ -1,0 +1,100 @@
+{% extends 'jv_dj_app/base.html' %}
+{% load static %}
+{% block title %}Voyage List{% endblock %}
+{% block script %}
+    <script type="text/javascript"
+            src="{% static 'jv_dj_app/js/voyage_list_view.js' %}">
+    </script>
+{% endblock %}
+{% block content %}
+    <h2>Voyages</h2>
+    <div class="btn-group">
+        <!-- refresh button -->
+        <button class="btn btn-primary" id="refresh_voyage_table">Refresh</button>
+    </div>
+
+    <table class="table">
+        <tr>
+            <th>ID</th>
+            <th>Ship</th>
+            <th>Captain</th>
+            <th>Port Visits</th>
+            <th>Sources</th>
+            <th>Description</th>
+            <th>Action</th>
+        </tr>
+        {% for v in voyages %}
+            <tr>
+                <th>{{ v.id }}</th>
+                <td>{{ v.ship }}</td>
+                <td>{{ v.captain }}</td>
+                <td>
+                    <!-- port visits -->
+                    {% for pv in v.portvisit_set.all %}
+                        <p>{{ pv.start_date }} - {{ pv.end_date }}: {{ pv.location }}</p>
+                    {% endfor %}
+                </td>
+                <td>
+                    {% for s in v.sources.all %}
+                        <p>s</p>
+                    {% endfor %}
+                </td>
+                <td>{{ v.description }}</td>
+                <td>
+                    <!-- todo: replace text with glyphs -->
+                    <div class="btn-group" role="group">
+                        <button type="button"
+                                class="btn btn-secondary voyage_detail_btn"
+                                action_id="{{ v.id }}">Detail
+                        </button>
+                        <button type="button"
+                                class="btn btn-secondary voyage_delete_btn"
+                                action_id="{{ v.id }}">Delete
+                        </button>
+                    </div>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+    <!-- inline form for creating new voyage -->
+    <div>
+        <form class="form-inline">
+            <!-- ship -->
+            <div class="form-group">
+                <label for="voyage_ship">Ship</label>
+                <select id="voyage_ship" class="form-control">
+                    {% for s in ships %}
+                        <option value="{{ s.id }}">{{ s.ship_name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <!-- captain -->
+            <div class="form-group">
+                <label for="voyage_captain">Captain</label>
+                <select id="voyage_captain" class="form-control">
+                    {% for c in captains %}
+                        <option value="{{ c.id }}">{{ c.name }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <!-- source -->
+            <div class="form-group">
+                <label for="voyage_sources">Sources</label>
+                <select multiple id="voyage_sources" class="form-control">
+                    {% for so in sources %}
+                        <option value="{{ so.id }}">{{ so.source }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <!-- description -->
+            <div class="form-group">
+                <label for="voyage_description">Description</label>
+                <textarea id="voyage_description" class="form-control"></textarea>
+            </div>
+            <!-- todo; replace "create" with glyph -->
+            <button id="create_voyage_inline"
+                    class="btn btn-primary">Create</button>
+        </form>
+    </div>
+
+{% endblock %}

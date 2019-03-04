@@ -1,0 +1,27 @@
+{% load static %}
+
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet"
+          href="{% static 'jv_dj_app/css/bootstrap.css' %}">
+    {% block stylesheet %}
+    {% endblock %}
+    <script type="text/javascript"
+            src="{% static 'jv_dj_app/js/jquery-3.3.1.js' %}"></script>
+    <script type="text/javascript"
+            src="{% static 'jv_dj_app/js/popper.js' %}"></script>
+    <script type="text/javascript"
+            src="{% static 'jv_dj_app/js/bootstrap.js' %}"></script>
+    {% block script %}
+    {% endblock %}
+</head>
+<body>
+<div class="container">
+    {% include 'jv_dj_app/header.html' %}
+    {% block content %}
+    {% endblock %}
+</div>
+</body>
+</html>
