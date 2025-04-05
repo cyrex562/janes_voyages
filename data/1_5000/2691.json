@@ -1,0 +1,2059 @@
+{
+  "id": 2691,
+  "sources": [
+    {
+      "id": 1564,
+      "page_ranges": [
+        "IUP,ST,6/214,357",
+        "IUP,ST,21/A1/84-6",
+        null,
+        null
+      ],
+      "short_ref": {
+        "id": 760,
+        "name": "IUP,ST"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\"><i>Irish University Press Series of British Parliamentary Papers: Slave Trade</i>. Shannon, Irish University Press, n.d.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "E7432857",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/E7432857",
+      "title": "Irish University Press Series of British Parliamentary Papers: Slave Trade",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:37.947153Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: Great Britain, <i>Irish University Press Series of British Parliamentary Papers: Slave Trade</i>, vols. 1-90 (Shannon, 1969-74).\\DOC TYPE: Published source",
+      "order_in_shortref": null,
+      "source_type": 4,
+      "date": 12152
+    },
+    {
+      "id": 1996,
+      "page_ranges": [
+        "PP,1842,XLIV:20",
+        null
+      ],
+      "short_ref": {
+        "id": 1189,
+        "name": "PP"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\"><i>Great Britain, <span style=\"font-style:normal;\">Parliamentary Papers</span>:&#xA0; 1777, Accounts and Papers, No 9 1788, XXII&#xA0; 1789, XXIV, XXV, XXVI 1790, XXIX, XXX, XXXI 1790-91, XXXIV 1792, XXXV 1795-96, XLII&#xA0; 1798-99, XLVIII 1799 XLVIII 1801-2, IV&#xA0; 1803-4, X 1806, XII 1813-14, XII 181</i>, n.d.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "X6N58B3D",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/X6N58B3D",
+      "title": "Great Britain, <i>Parliamentary Papers</i>:  1777, Accounts and Papers, No 9 1788, XXII  1789, XXIV, XXV, XXVI 1790, XXIX, XXX, XXXI 1790-91, XXXIV 1792, XXXV 1795-96, XLII  1798-99, XLVIII 1799 XLVIII 1801-2, IV  1803-4, X 1806, XII 1813-14, XII 181",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:36.309527Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: Great Britain, <i>Parliamentary Papers</i>:  1777, Accounts and Papers, No 9 1788, XXII  1789, XXIV, XXV, XXVI 1790, XXIX, XXX, XXXI 1790-91, XXXIV 1792, XXXV 1795-96, XLII  1798-99, XLVIII 1799 XLVIII 1801-2, IV  1803-4, X 1806, XII 1813-14, XII 1816, VII 1823, XIX 1825, XXVII, XXIX  1826, XXIX 1826-7, XXII, XXVI 1828, XXVI 1829, XXVI  1830, X 1831, XIX 1831-32, XLVII 1842, XLIV 1845,XLIX 1847-8, XXII 1852-3, XXXIX\\DOC TYPE: Published source",
+      "order_in_shortref": null,
+      "source_type": 4,
+      "date": 11727
+    }
+  ],
+  "voyage_itinerary": {
+    "id": 2639,
+    "port_of_departure": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_first_port_emb": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_second_port_emb": null,
+    "int_first_region_purchase_slaves": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "int_second_region_purchase_slaves": null,
+    "int_first_port_dis": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_second_port_dis": null,
+    "int_first_region_slave_landing": {
+      "id": 53,
+      "uuid": "ed2b7ecb-f9db-45d7-944a-2894772ae9dd",
+      "name": "Cuba",
+      "longitude": -79.127686,
+      "latitude": 23.115613,
+      "value": 31300,
+      "parent": 3,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_principal_region_slave_dis": {
+      "id": 96,
+      "uuid": "3d8d483e-4229-4117-a968-abfc5f9f3209",
+      "name": "Sierra Leone",
+      "longitude": -13.67,
+      "latitude": 8.1,
+      "value": 60200,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "int_second_place_region_slave_landing": null,
+    "first_place_slave_purchase": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "second_place_slave_purchase": null,
+    "third_place_slave_purchase": null,
+    "first_region_slave_emb": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "second_region_slave_emb": null,
+    "third_region_slave_emb": null,
+    "port_of_call_before_atl_crossing": null,
+    "first_landing_place": {
+      "id": 1584,
+      "uuid": "833e7c5e-9f72-44c4-af8a-cd0cabbb70da",
+      "name": "Freetown",
+      "longitude": -13.23,
+      "latitude": 8.49,
+      "value": 60207,
+      "parent": 96,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "second_landing_place": null,
+    "third_landing_place": null,
+    "first_landing_region": {
+      "id": 96,
+      "uuid": "3d8d483e-4229-4117-a968-abfc5f9f3209",
+      "name": "Sierra Leone",
+      "longitude": -13.67,
+      "latitude": 8.1,
+      "value": 60200,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "second_landing_region": null,
+    "third_landing_region": null,
+    "place_voyage_ended": null,
+    "region_of_return": null,
+    "broad_region_of_return": null,
+    "imp_port_voyage_begin": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_region_voyage_begin": {
+      "id": 53,
+      "uuid": "ed2b7ecb-f9db-45d7-944a-2894772ae9dd",
+      "name": "Cuba",
+      "longitude": -79.127686,
+      "latitude": 23.115613,
+      "value": 31300,
+      "parent": 3,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_broad_region_voyage_begin": {
+      "id": 3,
+      "uuid": "5d8cf062-c542-4674-adab-2447f6597532",
+      "name": "Caribbean",
+      "longitude": -66.237461,
+      "latitude": 14.501708,
+      "value": 30000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "principal_place_of_slave_purchase": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_place_of_slave_purchase": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_region_of_slave_purchase": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_broad_region_of_slave_purchase": {
+      "id": 6,
+      "uuid": "31fbfb92-a521-4d83-a9a4-316ff7f56515",
+      "name": "Africa",
+      "longitude": 9.343897,
+      "latitude": 0.054033,
+      "value": 60000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "principal_port_of_slave_dis": {
+      "id": 1584,
+      "uuid": "833e7c5e-9f72-44c4-af8a-cd0cabbb70da",
+      "name": "Freetown",
+      "longitude": -13.23,
+      "latitude": 8.49,
+      "value": 60207,
+      "parent": 96,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_port_slave_dis": {
+      "id": 1584,
+      "uuid": "833e7c5e-9f72-44c4-af8a-cd0cabbb70da",
+      "name": "Freetown",
+      "longitude": -13.23,
+      "latitude": 8.49,
+      "value": 60207,
+      "parent": 96,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_broad_region_slave_dis": {
+      "id": 6,
+      "uuid": "31fbfb92-a521-4d83-a9a4-316ff7f56515",
+      "name": "Africa",
+      "longitude": 9.343897,
+      "latitude": 0.054033,
+      "value": 60000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "int_third_port_dis": null,
+    "int_fourth_port_dis": null,
+    "int_third_place_region_slave_landing": null,
+    "int_fourth_place_region_slave_landing": null,
+    "ports_called_buying_slaves": null,
+    "number_of_ports_of_call": null,
+    "voyage": 2691
+  },
+  "voyage_dates": {
+    "id": 2639,
+    "voyage_began_sparsedate": {
+      "id": 13139,
+      "day": null,
+      "month": 3,
+      "year": 1841
+    },
+    "slave_purchase_began_sparsedate": null,
+    "vessel_left_port_sparsedate": {
+      "id": 13140,
+      "day": 12,
+      "month": 4,
+      "year": 1841
+    },
+    "first_dis_of_slaves_sparsedate": {
+      "id": 13141,
+      "day": 12,
+      "month": 5,
+      "year": 1841
+    },
+    "date_departed_africa_sparsedate": {
+      "id": 13142,
+      "day": 12,
+      "month": 4,
+      "year": 1841
+    },
+    "arrival_at_second_place_landing_sparsedate": null,
+    "third_dis_of_slaves_sparsedate": null,
+    "departure_last_place_of_landing_sparsedate": null,
+    "voyage_completed_sparsedate": null,
+    "imp_voyage_began_sparsedate": {
+      "id": 13143,
+      "day": null,
+      "month": null,
+      "year": 1841
+    },
+    "imp_departed_africa_sparsedate": {
+      "id": 13144,
+      "day": null,
+      "month": null,
+      "year": 1841
+    },
+    "imp_arrival_at_port_of_dis_sparsedate": {
+      "id": 13145,
+      "day": null,
+      "month": null,
+      "year": 1841
+    },
+    "length_middle_passage_days": 33,
+    "imp_length_home_to_disembark": null,
+    "imp_length_leaving_africa_to_disembark": 30,
+    "voyage": 2691
+  },
+  "enslavers": [
+    {
+      "roles": "Captain",
+      "enslaver": {
+        "id": 1004790,
+        "birth_place": null,
+        "death_place": null,
+        "principal_location": null,
+        "principal_alias": "Pereira, Manoel Ant\u00f4nio dos Santos",
+        "birth_year": null,
+        "birth_month": null,
+        "birth_day": null,
+        "death_year": null,
+        "death_month": null,
+        "death_day": null,
+        "father_name": null,
+        "father_occupation": null,
+        "mother_name": null,
+        "probate_date": null,
+        "will_value_pounds": null,
+        "will_value_dollars": null,
+        "will_court": null,
+        "notes": null,
+        "is_natural_person": true,
+        "last_updated": "2023-11-04T02:28:51.129863Z",
+        "number_enslaved_people": null,
+        "human_reviewed": false,
+        "legacy_id": 1004790
+      }
+    }
+  ],
+  "named_enslaved_people": [
+    {
+      "id": 51872,
+      "enslaved_id": 51872,
+      "documented_name": "Ahmolita"
+    },
+    {
+      "id": 51873,
+      "enslaved_id": 51873,
+      "documented_name": "Mahlooloo"
+    },
+    {
+      "id": 51874,
+      "enslaved_id": 51874,
+      "documented_name": "Olahjoegoo"
+    },
+    {
+      "id": 51875,
+      "enslaved_id": 51875,
+      "documented_name": "Sodequah"
+    },
+    {
+      "id": 51876,
+      "enslaved_id": 51876,
+      "documented_name": "Ahdacholah"
+    },
+    {
+      "id": 51877,
+      "enslaved_id": 51877,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 51878,
+      "enslaved_id": 51878,
+      "documented_name": "Dayome"
+    },
+    {
+      "id": 51879,
+      "enslaved_id": 51879,
+      "documented_name": "Aguajew"
+    },
+    {
+      "id": 51880,
+      "enslaved_id": 51880,
+      "documented_name": "Fahdoya"
+    },
+    {
+      "id": 51881,
+      "enslaved_id": 51881,
+      "documented_name": "Ahcorbo"
+    },
+    {
+      "id": 51882,
+      "enslaved_id": 51882,
+      "documented_name": "Ahladay"
+    },
+    {
+      "id": 51883,
+      "enslaved_id": 51883,
+      "documented_name": "Daconlo"
+    },
+    {
+      "id": 51884,
+      "enslaved_id": 51884,
+      "documented_name": "Oloolah"
+    },
+    {
+      "id": 51885,
+      "enslaved_id": 51885,
+      "documented_name": "Charlie"
+    },
+    {
+      "id": 51886,
+      "enslaved_id": 51886,
+      "documented_name": "Farmasee"
+    },
+    {
+      "id": 51887,
+      "enslaved_id": 51887,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 51888,
+      "enslaved_id": 51888,
+      "documented_name": "Acouyarday"
+    },
+    {
+      "id": 51889,
+      "enslaved_id": 51889,
+      "documented_name": "Rotmee"
+    },
+    {
+      "id": 51890,
+      "enslaved_id": 51890,
+      "documented_name": "Ahjibogoo"
+    },
+    {
+      "id": 51891,
+      "enslaved_id": 51891,
+      "documented_name": "Ojo"
+    },
+    {
+      "id": 51892,
+      "enslaved_id": 51892,
+      "documented_name": "Ahkokoo"
+    },
+    {
+      "id": 51893,
+      "enslaved_id": 51893,
+      "documented_name": "Banbowee"
+    },
+    {
+      "id": 51894,
+      "enslaved_id": 51894,
+      "documented_name": "Dasomoo"
+    },
+    {
+      "id": 51895,
+      "enslaved_id": 51895,
+      "documented_name": "Fahdahroo"
+    },
+    {
+      "id": 51896,
+      "enslaved_id": 51896,
+      "documented_name": "Ateakoo"
+    },
+    {
+      "id": 51897,
+      "enslaved_id": 51897,
+      "documented_name": "Waree"
+    },
+    {
+      "id": 51898,
+      "enslaved_id": 51898,
+      "documented_name": "Ogoodepah"
+    },
+    {
+      "id": 51899,
+      "enslaved_id": 51899,
+      "documented_name": "Ahteao"
+    },
+    {
+      "id": 51900,
+      "enslaved_id": 51900,
+      "documented_name": "Fahtoye"
+    },
+    {
+      "id": 51901,
+      "enslaved_id": 51901,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 51902,
+      "enslaved_id": 51902,
+      "documented_name": "Ahtecoo"
+    },
+    {
+      "id": 51903,
+      "enslaved_id": 51903,
+      "documented_name": "Jokoonba"
+    },
+    {
+      "id": 51904,
+      "enslaved_id": 51904,
+      "documented_name": "Ahkeyoda"
+    },
+    {
+      "id": 51905,
+      "enslaved_id": 51905,
+      "documented_name": "Orsa"
+    },
+    {
+      "id": 51906,
+      "enslaved_id": 51906,
+      "documented_name": "Ocharabee"
+    },
+    {
+      "id": 51907,
+      "enslaved_id": 51907,
+      "documented_name": "Lahyokoo"
+    },
+    {
+      "id": 51908,
+      "enslaved_id": 51908,
+      "documented_name": "Farjimwah"
+    },
+    {
+      "id": 51909,
+      "enslaved_id": 51909,
+      "documented_name": "Ogodoloo"
+    },
+    {
+      "id": 51910,
+      "enslaved_id": 51910,
+      "documented_name": "Farchamera"
+    },
+    {
+      "id": 51911,
+      "enslaved_id": 51911,
+      "documented_name": "Ogochornee"
+    },
+    {
+      "id": 51912,
+      "enslaved_id": 51912,
+      "documented_name": "Ochardacor"
+    },
+    {
+      "id": 51913,
+      "enslaved_id": 51913,
+      "documented_name": "Ahbalahya"
+    },
+    {
+      "id": 51914,
+      "enslaved_id": 51914,
+      "documented_name": "Hyenah"
+    },
+    {
+      "id": 51915,
+      "enslaved_id": 51915,
+      "documented_name": "Ornosome"
+    },
+    {
+      "id": 51916,
+      "enslaved_id": 51916,
+      "documented_name": "Ornakoo"
+    },
+    {
+      "id": 51917,
+      "enslaved_id": 51917,
+      "documented_name": "Fahtosee"
+    },
+    {
+      "id": 51918,
+      "enslaved_id": 51918,
+      "documented_name": "Agemor"
+    },
+    {
+      "id": 51919,
+      "enslaved_id": 51919,
+      "documented_name": "Farhbame"
+    },
+    {
+      "id": 51920,
+      "enslaved_id": 51920,
+      "documented_name": "Lahkorroo"
+    },
+    {
+      "id": 51921,
+      "enslaved_id": 51921,
+      "documented_name": "Ogoodesee"
+    },
+    {
+      "id": 51922,
+      "enslaved_id": 51922,
+      "documented_name": "Adah"
+    },
+    {
+      "id": 51923,
+      "enslaved_id": 51923,
+      "documented_name": "Charfatame"
+    },
+    {
+      "id": 51924,
+      "enslaved_id": 51924,
+      "documented_name": "Ocoosonyah"
+    },
+    {
+      "id": 51925,
+      "enslaved_id": 51925,
+      "documented_name": "Ogarhah"
+    },
+    {
+      "id": 51926,
+      "enslaved_id": 51926,
+      "documented_name": "Osobah"
+    },
+    {
+      "id": 51927,
+      "enslaved_id": 51927,
+      "documented_name": "Mahjaba"
+    },
+    {
+      "id": 51928,
+      "enslaved_id": 51928,
+      "documented_name": "Ahrerkoo"
+    },
+    {
+      "id": 51929,
+      "enslaved_id": 51929,
+      "documented_name": "Fahlojew"
+    },
+    {
+      "id": 51930,
+      "enslaved_id": 51930,
+      "documented_name": "Ogone"
+    },
+    {
+      "id": 51931,
+      "enslaved_id": 51931,
+      "documented_name": "Ahtonda"
+    },
+    {
+      "id": 51932,
+      "enslaved_id": 51932,
+      "documented_name": "Myemimu"
+    },
+    {
+      "id": 51933,
+      "enslaved_id": 51933,
+      "documented_name": "Ogosonyar"
+    },
+    {
+      "id": 51934,
+      "enslaved_id": 51934,
+      "documented_name": "Naree"
+    },
+    {
+      "id": 51935,
+      "enslaved_id": 51935,
+      "documented_name": "Ahdosonee"
+    },
+    {
+      "id": 51936,
+      "enslaved_id": 51936,
+      "documented_name": "Droteme"
+    },
+    {
+      "id": 51937,
+      "enslaved_id": 51937,
+      "documented_name": "Ogoofatome"
+    },
+    {
+      "id": 51938,
+      "enslaved_id": 51938,
+      "documented_name": "Ahdabee"
+    },
+    {
+      "id": 51939,
+      "enslaved_id": 51939,
+      "documented_name": "Fibeeye"
+    },
+    {
+      "id": 51940,
+      "enslaved_id": 51940,
+      "documented_name": "Droteme"
+    },
+    {
+      "id": 51941,
+      "enslaved_id": 51941,
+      "documented_name": "Fahsonyah"
+    },
+    {
+      "id": 51942,
+      "enslaved_id": 51942,
+      "documented_name": "Ogoosonyah"
+    },
+    {
+      "id": 51943,
+      "enslaved_id": 51943,
+      "documented_name": "Howoosobah"
+    },
+    {
+      "id": 51944,
+      "enslaved_id": 51944,
+      "documented_name": "Ahdoo"
+    },
+    {
+      "id": 51945,
+      "enslaved_id": 51945,
+      "documented_name": "Fahbame"
+    },
+    {
+      "id": 51946,
+      "enslaved_id": 51946,
+      "documented_name": "Ahdaya"
+    },
+    {
+      "id": 51947,
+      "enslaved_id": 51947,
+      "documented_name": "Fahcheega"
+    },
+    {
+      "id": 51948,
+      "enslaved_id": 51948,
+      "documented_name": "Edoo"
+    },
+    {
+      "id": 51949,
+      "enslaved_id": 51949,
+      "documented_name": "Farchayee"
+    },
+    {
+      "id": 51950,
+      "enslaved_id": 51950,
+      "documented_name": "Laryookoo"
+    },
+    {
+      "id": 51951,
+      "enslaved_id": 51951,
+      "documented_name": "Ahdatelor"
+    },
+    {
+      "id": 51952,
+      "enslaved_id": 51952,
+      "documented_name": "Olojo"
+    },
+    {
+      "id": 51953,
+      "enslaved_id": 51953,
+      "documented_name": "Ogoochooloo"
+    },
+    {
+      "id": 51954,
+      "enslaved_id": 51954,
+      "documented_name": "Farchaonew"
+    },
+    {
+      "id": 51955,
+      "enslaved_id": 51955,
+      "documented_name": "Olutan"
+    },
+    {
+      "id": 51956,
+      "enslaved_id": 51956,
+      "documented_name": "Ahdayaree"
+    },
+    {
+      "id": 51957,
+      "enslaved_id": 51957,
+      "documented_name": "Orahdonen"
+    },
+    {
+      "id": 51958,
+      "enslaved_id": 51958,
+      "documented_name": "Dajewabee"
+    },
+    {
+      "id": 51959,
+      "enslaved_id": 51959,
+      "documented_name": "Farbonba"
+    },
+    {
+      "id": 51960,
+      "enslaved_id": 51960,
+      "documented_name": "Farbamoro"
+    },
+    {
+      "id": 51961,
+      "enslaved_id": 51961,
+      "documented_name": "Farchanew"
+    },
+    {
+      "id": 51962,
+      "enslaved_id": 51962,
+      "documented_name": "Ogodolu"
+    },
+    {
+      "id": 51963,
+      "enslaved_id": 51963,
+      "documented_name": "Farlahroo"
+    },
+    {
+      "id": 51964,
+      "enslaved_id": 51964,
+      "documented_name": "Ahloda"
+    },
+    {
+      "id": 51965,
+      "enslaved_id": 51965,
+      "documented_name": "Oneshe"
+    },
+    {
+      "id": 51966,
+      "enslaved_id": 51966,
+      "documented_name": "Oteafah"
+    },
+    {
+      "id": 51967,
+      "enslaved_id": 51967,
+      "documented_name": "Fahlotan"
+    },
+    {
+      "id": 51968,
+      "enslaved_id": 51968,
+      "documented_name": "Ochatan"
+    },
+    {
+      "id": 51969,
+      "enslaved_id": 51969,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 51970,
+      "enslaved_id": 51970,
+      "documented_name": "Hoosar"
+    },
+    {
+      "id": 51971,
+      "enslaved_id": 51971,
+      "documented_name": "Bointor"
+    },
+    {
+      "id": 51972,
+      "enslaved_id": 51972,
+      "documented_name": "Oboso"
+    },
+    {
+      "id": 51973,
+      "enslaved_id": 51973,
+      "documented_name": "Ahdayinda"
+    },
+    {
+      "id": 51974,
+      "enslaved_id": 51974,
+      "documented_name": "Gimoda"
+    },
+    {
+      "id": 51975,
+      "enslaved_id": 51975,
+      "documented_name": "Matonda"
+    },
+    {
+      "id": 51976,
+      "enslaved_id": 51976,
+      "documented_name": "Ahmooday"
+    },
+    {
+      "id": 51977,
+      "enslaved_id": 51977,
+      "documented_name": "Ahbameroo"
+    },
+    {
+      "id": 51978,
+      "enslaved_id": 51978,
+      "documented_name": "Oyawhara"
+    },
+    {
+      "id": 51979,
+      "enslaved_id": 51979,
+      "documented_name": "Oyokan"
+    },
+    {
+      "id": 51980,
+      "enslaved_id": 51980,
+      "documented_name": "Jenah"
+    },
+    {
+      "id": 51981,
+      "enslaved_id": 51981,
+      "documented_name": "Ogodarway"
+    },
+    {
+      "id": 51982,
+      "enslaved_id": 51982,
+      "documented_name": "Howodaya"
+    },
+    {
+      "id": 51983,
+      "enslaved_id": 51983,
+      "documented_name": "Ogoodanah"
+    },
+    {
+      "id": 51984,
+      "enslaved_id": 51984,
+      "documented_name": "Ahsang"
+    },
+    {
+      "id": 51985,
+      "enslaved_id": 51985,
+      "documented_name": "Ogooyado"
+    },
+    {
+      "id": 51986,
+      "enslaved_id": 51986,
+      "documented_name": "Isaaccoo"
+    },
+    {
+      "id": 51987,
+      "enslaved_id": 51987,
+      "documented_name": "Fahyome"
+    },
+    {
+      "id": 51988,
+      "enslaved_id": 51988,
+      "documented_name": "Fardoka"
+    },
+    {
+      "id": 51989,
+      "enslaved_id": 51989,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 51990,
+      "enslaved_id": 51990,
+      "documented_name": "Farlooboo"
+    },
+    {
+      "id": 51991,
+      "enslaved_id": 51991,
+      "documented_name": "Bahnchely"
+    },
+    {
+      "id": 51992,
+      "enslaved_id": 51992,
+      "documented_name": "Ogoolaya"
+    },
+    {
+      "id": 51993,
+      "enslaved_id": 51993,
+      "documented_name": "Ahdang"
+    },
+    {
+      "id": 51994,
+      "enslaved_id": 51994,
+      "documented_name": "Fardoree"
+    },
+    {
+      "id": 51995,
+      "enslaved_id": 51995,
+      "documented_name": "Ahdonerah"
+    },
+    {
+      "id": 51996,
+      "enslaved_id": 51996,
+      "documented_name": "Ahkulla"
+    },
+    {
+      "id": 51997,
+      "enslaved_id": 51997,
+      "documented_name": "Ochoo"
+    },
+    {
+      "id": 51998,
+      "enslaved_id": 51998,
+      "documented_name": "Ogooyakoo"
+    },
+    {
+      "id": 51999,
+      "enslaved_id": 51999,
+      "documented_name": "Towoocho"
+    },
+    {
+      "id": 52000,
+      "enslaved_id": 52000,
+      "documented_name": "Farchecoo"
+    },
+    {
+      "id": 52001,
+      "enslaved_id": 52001,
+      "documented_name": "Ochoo"
+    },
+    {
+      "id": 52002,
+      "enslaved_id": 52002,
+      "documented_name": "Ahkanloo"
+    },
+    {
+      "id": 52003,
+      "enslaved_id": 52003,
+      "documented_name": "Odongfah"
+    },
+    {
+      "id": 52004,
+      "enslaved_id": 52004,
+      "documented_name": "Ahdayabah"
+    },
+    {
+      "id": 52005,
+      "enslaved_id": 52005,
+      "documented_name": "Ogooloday"
+    },
+    {
+      "id": 52006,
+      "enslaved_id": 52006,
+      "documented_name": "Chargolalah"
+    },
+    {
+      "id": 52007,
+      "enslaved_id": 52007,
+      "documented_name": "Coomooloo"
+    },
+    {
+      "id": 52008,
+      "enslaved_id": 52008,
+      "documented_name": "Aseepoh"
+    },
+    {
+      "id": 52009,
+      "enslaved_id": 52009,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 52010,
+      "enslaved_id": 52010,
+      "documented_name": "Chiyome"
+    },
+    {
+      "id": 52011,
+      "enslaved_id": 52011,
+      "documented_name": "Ahyewee"
+    },
+    {
+      "id": 52012,
+      "enslaved_id": 52012,
+      "documented_name": "Ahcannah"
+    },
+    {
+      "id": 52013,
+      "enslaved_id": 52013,
+      "documented_name": "Ecooppoleze"
+    },
+    {
+      "id": 52014,
+      "enslaved_id": 52014,
+      "documented_name": "Fahtaracha"
+    },
+    {
+      "id": 52015,
+      "enslaved_id": 52015,
+      "documented_name": "Olortan"
+    },
+    {
+      "id": 52016,
+      "enslaved_id": 52016,
+      "documented_name": "Ahkilabee"
+    },
+    {
+      "id": 52017,
+      "enslaved_id": 52017,
+      "documented_name": "Farmotee"
+    },
+    {
+      "id": 52018,
+      "enslaved_id": 52018,
+      "documented_name": "Odaoba"
+    },
+    {
+      "id": 52019,
+      "enslaved_id": 52019,
+      "documented_name": "Tellah"
+    },
+    {
+      "id": 52020,
+      "enslaved_id": 52020,
+      "documented_name": "Nahkola"
+    },
+    {
+      "id": 52021,
+      "enslaved_id": 52021,
+      "documented_name": "Ahdoroo"
+    },
+    {
+      "id": 52022,
+      "enslaved_id": 52022,
+      "documented_name": "Farbameroo"
+    },
+    {
+      "id": 52023,
+      "enslaved_id": 52023,
+      "documented_name": "Ahgoolada"
+    },
+    {
+      "id": 52024,
+      "enslaved_id": 52024,
+      "documented_name": "Ogoosenor"
+    },
+    {
+      "id": 52025,
+      "enslaved_id": 52025,
+      "documented_name": "Dasomoo"
+    },
+    {
+      "id": 52026,
+      "enslaved_id": 52026,
+      "documented_name": "Ogoobie"
+    },
+    {
+      "id": 52027,
+      "enslaved_id": 52027,
+      "documented_name": "Edowoo"
+    },
+    {
+      "id": 52028,
+      "enslaved_id": 52028,
+      "documented_name": "Farcoojor"
+    },
+    {
+      "id": 52029,
+      "enslaved_id": 52029,
+      "documented_name": "Ahquiday"
+    },
+    {
+      "id": 52030,
+      "enslaved_id": 52030,
+      "documented_name": "Oja"
+    },
+    {
+      "id": 52031,
+      "enslaved_id": 52031,
+      "documented_name": "Lahfamwah"
+    },
+    {
+      "id": 52032,
+      "enslaved_id": 52032,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 52033,
+      "enslaved_id": 52033,
+      "documented_name": "Ahjibahda"
+    },
+    {
+      "id": 52034,
+      "enslaved_id": 52034,
+      "documented_name": "Mahgeaba"
+    },
+    {
+      "id": 52035,
+      "enslaved_id": 52035,
+      "documented_name": "Charbee"
+    },
+    {
+      "id": 52036,
+      "enslaved_id": 52036,
+      "documented_name": "Fartoocor"
+    },
+    {
+      "id": 52037,
+      "enslaved_id": 52037,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 52038,
+      "enslaved_id": 52038,
+      "documented_name": "Olujorbee"
+    },
+    {
+      "id": 52039,
+      "enslaved_id": 52039,
+      "documented_name": "Joekong"
+    },
+    {
+      "id": 52040,
+      "enslaved_id": 52040,
+      "documented_name": "Mahloobah"
+    },
+    {
+      "id": 52041,
+      "enslaved_id": 52041,
+      "documented_name": "Ojo"
+    },
+    {
+      "id": 52042,
+      "enslaved_id": 52042,
+      "documented_name": "Ochoobarmoo"
+    },
+    {
+      "id": 52043,
+      "enslaved_id": 52043,
+      "documented_name": "Artara"
+    },
+    {
+      "id": 52044,
+      "enslaved_id": 52044,
+      "documented_name": "Ahdabota"
+    },
+    {
+      "id": 52045,
+      "enslaved_id": 52045,
+      "documented_name": "Fiyomeno"
+    },
+    {
+      "id": 52046,
+      "enslaved_id": 52046,
+      "documented_name": "Hyenah"
+    },
+    {
+      "id": 52047,
+      "enslaved_id": 52047,
+      "documented_name": "Imalay"
+    },
+    {
+      "id": 52048,
+      "enslaved_id": 52048,
+      "documented_name": "Jarwaitme"
+    },
+    {
+      "id": 52049,
+      "enslaved_id": 52049,
+      "documented_name": "Ahladay"
+    },
+    {
+      "id": 52050,
+      "enslaved_id": 52050,
+      "documented_name": "Aholahpa"
+    },
+    {
+      "id": 52051,
+      "enslaved_id": 52051,
+      "documented_name": "Ahbuya"
+    },
+    {
+      "id": 52052,
+      "enslaved_id": 52052,
+      "documented_name": "Fahbulloo"
+    },
+    {
+      "id": 52053,
+      "enslaved_id": 52053,
+      "documented_name": "Katokoo"
+    },
+    {
+      "id": 52054,
+      "enslaved_id": 52054,
+      "documented_name": "Farnar"
+    },
+    {
+      "id": 52055,
+      "enslaved_id": 52055,
+      "documented_name": "Farbemlah"
+    },
+    {
+      "id": 52056,
+      "enslaved_id": 52056,
+      "documented_name": "Larchanee"
+    },
+    {
+      "id": 52057,
+      "enslaved_id": 52057,
+      "documented_name": "Ogootosee"
+    },
+    {
+      "id": 52058,
+      "enslaved_id": 52058,
+      "documented_name": "Ahkelargo"
+    },
+    {
+      "id": 52059,
+      "enslaved_id": 52059,
+      "documented_name": "Ienah"
+    },
+    {
+      "id": 52060,
+      "enslaved_id": 52060,
+      "documented_name": "Fartemanu"
+    },
+    {
+      "id": 52061,
+      "enslaved_id": 52061,
+      "documented_name": "Farnova"
+    },
+    {
+      "id": 52062,
+      "enslaved_id": 52062,
+      "documented_name": "Aroofor"
+    },
+    {
+      "id": 52063,
+      "enslaved_id": 52063,
+      "documented_name": "Fardobah"
+    },
+    {
+      "id": 52064,
+      "enslaved_id": 52064,
+      "documented_name": "Ahkeose"
+    },
+    {
+      "id": 52065,
+      "enslaved_id": 52065,
+      "documented_name": "Fartome"
+    },
+    {
+      "id": 52066,
+      "enslaved_id": 52066,
+      "documented_name": "Farkolor"
+    },
+    {
+      "id": 52067,
+      "enslaved_id": 52067,
+      "documented_name": "Asobame"
+    },
+    {
+      "id": 52068,
+      "enslaved_id": 52068,
+      "documented_name": "Farsono"
+    },
+    {
+      "id": 52069,
+      "enslaved_id": 52069,
+      "documented_name": "Farbamogo"
+    },
+    {
+      "id": 52070,
+      "enslaved_id": 52070,
+      "documented_name": "Fahtokase"
+    },
+    {
+      "id": 52071,
+      "enslaved_id": 52071,
+      "documented_name": "Larmanday"
+    },
+    {
+      "id": 52072,
+      "enslaved_id": 52072,
+      "documented_name": "Farsoyee"
+    },
+    {
+      "id": 52073,
+      "enslaved_id": 52073,
+      "documented_name": "Obing"
+    },
+    {
+      "id": 52074,
+      "enslaved_id": 52074,
+      "documented_name": "Osadota"
+    },
+    {
+      "id": 52075,
+      "enslaved_id": 52075,
+      "documented_name": "Fartoucha"
+    },
+    {
+      "id": 52076,
+      "enslaved_id": 52076,
+      "documented_name": "Ogonshar"
+    },
+    {
+      "id": 52077,
+      "enslaved_id": 52077,
+      "documented_name": "Oworobar"
+    },
+    {
+      "id": 52078,
+      "enslaved_id": 52078,
+      "documented_name": "Fahloro"
+    },
+    {
+      "id": 52079,
+      "enslaved_id": 52079,
+      "documented_name": "Ogoonbeye"
+    },
+    {
+      "id": 52080,
+      "enslaved_id": 52080,
+      "documented_name": "Farlorloo"
+    },
+    {
+      "id": 52081,
+      "enslaved_id": 52081,
+      "documented_name": "Olucha"
+    },
+    {
+      "id": 52082,
+      "enslaved_id": 52082,
+      "documented_name": "Ogoonlaya"
+    },
+    {
+      "id": 52083,
+      "enslaved_id": 52083,
+      "documented_name": "Degbarlar"
+    },
+    {
+      "id": 52084,
+      "enslaved_id": 52084,
+      "documented_name": "Faracha"
+    },
+    {
+      "id": 52085,
+      "enslaved_id": 52085,
+      "documented_name": "Ohdapah"
+    },
+    {
+      "id": 52086,
+      "enslaved_id": 52086,
+      "documented_name": "Ahladay"
+    },
+    {
+      "id": 52087,
+      "enslaved_id": 52087,
+      "documented_name": "Ahwoo"
+    },
+    {
+      "id": 52088,
+      "enslaved_id": 52088,
+      "documented_name": "Katacoo"
+    },
+    {
+      "id": 52089,
+      "enslaved_id": 52089,
+      "documented_name": "Jenah"
+    },
+    {
+      "id": 52090,
+      "enslaved_id": 52090,
+      "documented_name": "Farloye"
+    },
+    {
+      "id": 52091,
+      "enslaved_id": 52091,
+      "documented_name": "Ahmooye"
+    },
+    {
+      "id": 52092,
+      "enslaved_id": 52092,
+      "documented_name": "Farchawoo"
+    },
+    {
+      "id": 52093,
+      "enslaved_id": 52093,
+      "documented_name": "Farwoomelah"
+    },
+    {
+      "id": 52094,
+      "enslaved_id": 52094,
+      "documented_name": "Odamekang"
+    },
+    {
+      "id": 52095,
+      "enslaved_id": 52095,
+      "documented_name": "Bamejar"
+    },
+    {
+      "id": 52096,
+      "enslaved_id": 52096,
+      "documented_name": "Ahbanoya"
+    },
+    {
+      "id": 52097,
+      "enslaved_id": 52097,
+      "documented_name": "Fartomaye"
+    },
+    {
+      "id": 52098,
+      "enslaved_id": 52098,
+      "documented_name": "Ahdobaya"
+    },
+    {
+      "id": 52099,
+      "enslaved_id": 52099,
+      "documented_name": "Odah"
+    },
+    {
+      "id": 52100,
+      "enslaved_id": 52100,
+      "documented_name": "Achombeye"
+    },
+    {
+      "id": 52101,
+      "enslaved_id": 52101,
+      "documented_name": "Fambeye"
+    },
+    {
+      "id": 52102,
+      "enslaved_id": 52102,
+      "documented_name": "Myyor"
+    },
+    {
+      "id": 52103,
+      "enslaved_id": 52103,
+      "documented_name": "Farchanu"
+    },
+    {
+      "id": 52104,
+      "enslaved_id": 52104,
+      "documented_name": "Jenah"
+    },
+    {
+      "id": 52105,
+      "enslaved_id": 52105,
+      "documented_name": "Ahsonbaday"
+    },
+    {
+      "id": 52106,
+      "enslaved_id": 52106,
+      "documented_name": "Ogootala"
+    },
+    {
+      "id": 52107,
+      "enslaved_id": 52107,
+      "documented_name": "Farkela"
+    },
+    {
+      "id": 52108,
+      "enslaved_id": 52108,
+      "documented_name": "Vetoya"
+    },
+    {
+      "id": 52109,
+      "enslaved_id": 52109,
+      "documented_name": "Ocoonahday"
+    },
+    {
+      "id": 52110,
+      "enslaved_id": 52110,
+      "documented_name": "Gehighefor"
+    },
+    {
+      "id": 52111,
+      "enslaved_id": 52111,
+      "documented_name": "Ogondaye"
+    },
+    {
+      "id": 52112,
+      "enslaved_id": 52112,
+      "documented_name": "Allahbong"
+    },
+    {
+      "id": 52113,
+      "enslaved_id": 52113,
+      "documented_name": "Gartowoo"
+    },
+    {
+      "id": 52114,
+      "enslaved_id": 52114,
+      "documented_name": "Ogonbeye"
+    },
+    {
+      "id": 52115,
+      "enslaved_id": 52115,
+      "documented_name": "Ahlookong"
+    },
+    {
+      "id": 52116,
+      "enslaved_id": 52116,
+      "documented_name": "Ahsodoye"
+    },
+    {
+      "id": 52117,
+      "enslaved_id": 52117,
+      "documented_name": "Tywoo"
+    },
+    {
+      "id": 52118,
+      "enslaved_id": 52118,
+      "documented_name": "Farbame"
+    },
+    {
+      "id": 52119,
+      "enslaved_id": 52119,
+      "documented_name": "Fartar"
+    },
+    {
+      "id": 52120,
+      "enslaved_id": 52120,
+      "documented_name": "Sarvatine"
+    },
+    {
+      "id": 52121,
+      "enslaved_id": 52121,
+      "documented_name": "Mahlawah"
+    },
+    {
+      "id": 52122,
+      "enslaved_id": 52122,
+      "documented_name": "Farmekoo"
+    },
+    {
+      "id": 52123,
+      "enslaved_id": 52123,
+      "documented_name": "Ahootala"
+    },
+    {
+      "id": 52124,
+      "enslaved_id": 52124,
+      "documented_name": "Copahlah"
+    },
+    {
+      "id": 52125,
+      "enslaved_id": 52125,
+      "documented_name": "Ahsobeye"
+    },
+    {
+      "id": 52126,
+      "enslaved_id": 52126,
+      "documented_name": "Odah"
+    },
+    {
+      "id": 52127,
+      "enslaved_id": 52127,
+      "documented_name": "Mahloya"
+    },
+    {
+      "id": 52128,
+      "enslaved_id": 52128,
+      "documented_name": "Ahbadinah"
+    },
+    {
+      "id": 52129,
+      "enslaved_id": 52129,
+      "documented_name": "Oyebah"
+    },
+    {
+      "id": 52130,
+      "enslaved_id": 52130,
+      "documented_name": "Chodapah"
+    },
+    {
+      "id": 52131,
+      "enslaved_id": 52131,
+      "documented_name": "Ahkooloo"
+    },
+    {
+      "id": 52132,
+      "enslaved_id": 52132,
+      "documented_name": "Ochardepah"
+    },
+    {
+      "id": 52133,
+      "enslaved_id": 52133,
+      "documented_name": "Opogee"
+    },
+    {
+      "id": 52134,
+      "enslaved_id": 52134,
+      "documented_name": "Ahsooday"
+    },
+    {
+      "id": 52135,
+      "enslaved_id": 52135,
+      "documented_name": "Ahwoo"
+    },
+    {
+      "id": 52136,
+      "enslaved_id": 52136,
+      "documented_name": "Fartomarmee"
+    },
+    {
+      "id": 52137,
+      "enslaved_id": 52137,
+      "documented_name": "Ahkabetar"
+    },
+    {
+      "id": 52138,
+      "enslaved_id": 52138,
+      "documented_name": "Okoomeda"
+    },
+    {
+      "id": 52139,
+      "enslaved_id": 52139,
+      "documented_name": "Ahkilla"
+    },
+    {
+      "id": 52140,
+      "enslaved_id": 52140,
+      "documented_name": "Farlebah"
+    },
+    {
+      "id": 52141,
+      "enslaved_id": 52141,
+      "documented_name": "Ogootarcha"
+    },
+    {
+      "id": 52142,
+      "enslaved_id": 52142,
+      "documented_name": "Osobah"
+    },
+    {
+      "id": 52143,
+      "enslaved_id": 52143,
+      "documented_name": "Ahbillolah"
+    },
+    {
+      "id": 52144,
+      "enslaved_id": 52144,
+      "documented_name": "Dosollah"
+    },
+    {
+      "id": 52145,
+      "enslaved_id": 52145,
+      "documented_name": "Fahdoka"
+    },
+    {
+      "id": 52146,
+      "enslaved_id": 52146,
+      "documented_name": "Onee"
+    },
+    {
+      "id": 52147,
+      "enslaved_id": 52147,
+      "documented_name": "Fardoka"
+    },
+    {
+      "id": 52148,
+      "enslaved_id": 52148,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 52149,
+      "enslaved_id": 52149,
+      "documented_name": "Fardequah"
+    },
+    {
+      "id": 52150,
+      "enslaved_id": 52150,
+      "documented_name": "Abatoe"
+    },
+    {
+      "id": 52151,
+      "enslaved_id": 52151,
+      "documented_name": "Doowoo"
+    },
+    {
+      "id": 52152,
+      "enslaved_id": 52152,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 52153,
+      "enslaved_id": 52153,
+      "documented_name": "Atooloo"
+    },
+    {
+      "id": 52154,
+      "enslaved_id": 52154,
+      "documented_name": "Ahchaloo"
+    },
+    {
+      "id": 52155,
+      "enslaved_id": 52155,
+      "documented_name": "Farchoobah"
+    },
+    {
+      "id": 52156,
+      "enslaved_id": 52156,
+      "documented_name": "Ahjalarma"
+    },
+    {
+      "id": 52157,
+      "enslaved_id": 52157,
+      "documented_name": "Mahtecoo"
+    },
+    {
+      "id": 52158,
+      "enslaved_id": 52158,
+      "documented_name": "Ahjie"
+    },
+    {
+      "id": 52159,
+      "enslaved_id": 52159,
+      "documented_name": "Oricharmomiwah"
+    },
+    {
+      "id": 52160,
+      "enslaved_id": 52160,
+      "documented_name": "Marjarba"
+    },
+    {
+      "id": 52161,
+      "enslaved_id": 52161,
+      "documented_name": "Farchoratan"
+    }
+  ],
+  "voyage_crew": {
+    "id": 2639,
+    "crew_voyage_outset": 39,
+    "crew_departure_last_port": null,
+    "crew_first_landing": null,
+    "crew_return_begin": null,
+    "crew_end_voyage": null,
+    "unspecified_crew": null,
+    "crew_died_before_first_trade": null,
+    "crew_died_while_ship_african": null,
+    "crew_died_middle_passage": null,
+    "crew_died_in_americas": null,
+    "crew_died_on_return_voyage": null,
+    "crew_died_complete_voyage": null,
+    "crew_deserted": null,
+    "voyage": 2691
+  },
+  "voyage_ship": {
+    "id": 2639,
+    "rig_of_vessel": null,
+    "imputed_nationality": {
+      "id": 1,
+      "name": "Portugal / Brazil",
+      "value": 6
+    },
+    "nationality_ship": {
+      "id": 2,
+      "name": "Portugal",
+      "value": 4
+    },
+    "ton_type": {
+      "id": 2,
+      "name": "Portuguese",
+      "value": 1
+    },
+    "vessel_construction_place": null,
+    "vessel_construction_region": null,
+    "registered_place": null,
+    "registered_region": null,
+    "ship_name": "Josefina",
+    "tonnage": 160,
+    "guns_mounted": null,
+    "year_of_construction": null,
+    "registered_year": null,
+    "tonnage_mod": 160.0,
+    "voyage": 2691
+  },
+  "voyage_slaves_numbers": {
+    "id": 2639,
+    "slave_deaths_before_africa": null,
+    "slave_deaths_between_africa_america": 1,
+    "slave_deaths_between_arrival_and_sale": null,
+    "num_slaves_intended_first_port": null,
+    "num_slaves_intended_second_port": null,
+    "num_slaves_carried_first_port": null,
+    "num_slaves_carried_second_port": null,
+    "num_slaves_carried_third_port": null,
+    "total_num_slaves_purchased": null,
+    "total_num_slaves_dep_last_slaving_port": 291,
+    "total_num_slaves_arr_first_port_embark": 290,
+    "num_slaves_disembark_first_place": null,
+    "num_slaves_disembark_second_place": null,
+    "num_slaves_disembark_third_place": null,
+    "imp_total_num_slaves_embarked": 291,
+    "imp_total_num_slaves_disembarked": 290,
+    "imp_jamaican_cash_price": null,
+    "imp_mortality_during_voyage": 1,
+    "num_men_embark_first_port_purchase": 169,
+    "num_women_embark_first_port_purchase": null,
+    "num_boy_embark_first_port_purchase": 121,
+    "num_girl_embark_first_port_purchase": null,
+    "num_adult_embark_first_port_purchase": null,
+    "num_child_embark_first_port_purchase": null,
+    "num_infant_embark_first_port_purchase": null,
+    "num_males_embark_first_port_purchase": null,
+    "num_females_embark_first_port_purchase": null,
+    "num_men_died_middle_passage": null,
+    "num_women_died_middle_passage": null,
+    "num_boy_died_middle_passage": null,
+    "num_girl_died_middle_passage": null,
+    "num_adult_died_middle_passage": null,
+    "num_child_died_middle_passage": null,
+    "num_infant_died_middle_passage": null,
+    "num_males_died_middle_passage": null,
+    "num_females_died_middle_passage": null,
+    "num_men_disembark_first_landing": null,
+    "num_women_disembark_first_landing": null,
+    "num_boy_disembark_first_landing": null,
+    "num_girl_disembark_first_landing": null,
+    "num_adult_disembark_first_landing": null,
+    "num_child_disembark_first_landing": null,
+    "num_infant_disembark_first_landing": null,
+    "num_males_disembark_first_landing": null,
+    "num_females_disembark_first_landing": null,
+    "num_men_embark_second_port_purchase": null,
+    "num_women_embark_second_port_purchase": null,
+    "num_boy_embark_second_port_purchase": null,
+    "num_girl_embark_second_port_purchase": null,
+    "num_adult_embark_second_port_purchase": null,
+    "num_child_embark_second_port_purchase": null,
+    "num_infant_embark_second_port_purchase": null,
+    "num_males_embark_second_port_purchase": null,
+    "num_females_embark_second_port_purchase": null,
+    "num_men_embark_third_port_purchase": null,
+    "num_women_embark_third_port_purchase": null,
+    "num_boy_embark_third_port_purchase": null,
+    "num_girl_embark_third_port_purchase": null,
+    "num_adult_embark_third_port_purchase": null,
+    "num_child_embark_third_port_purchase": null,
+    "num_infant_embark_third_port_purchase": null,
+    "num_males_embark_third_port_purchase": null,
+    "num_females_embark_third_port_purchase": null,
+    "num_men_disembark_second_landing": null,
+    "num_women_disembark_second_landing": null,
+    "num_boy_disembark_second_landing": null,
+    "num_girl_disembark_second_landing": null,
+    "num_adult_disembark_second_landing": null,
+    "num_child_disembark_second_landing": null,
+    "num_infant_disembark_second_landing": null,
+    "num_males_disembark_second_landing": null,
+    "num_females_disembark_second_landing": null,
+    "imp_num_adult_embarked": 169,
+    "imp_num_children_embarked": 121,
+    "imp_num_male_embarked": 290,
+    "imp_num_female_embarked": 0,
+    "total_slaves_embarked_age_identified": 290,
+    "total_slaves_embarked_gender_identified": 290,
+    "imp_adult_death_middle_passage": null,
+    "imp_child_death_middle_passage": null,
+    "imp_male_death_middle_passage": null,
+    "imp_female_death_middle_passage": null,
+    "imp_num_adult_landed": null,
+    "imp_num_child_landed": null,
+    "imp_num_male_landed": null,
+    "imp_num_female_landed": null,
+    "total_slaves_landed_age_identified": null,
+    "total_slaves_landed_gender_identified": null,
+    "total_slaves_dept_or_arr_age_identified": 290,
+    "total_slaves_dept_or_arr_gender_identified": 290,
+    "imp_slaves_embarked_for_mortality": 291,
+    "imp_num_men_total": 169,
+    "imp_num_women_total": 0,
+    "imp_num_boy_total": 121,
+    "imp_num_girl_total": 0,
+    "imp_num_adult_total": 169,
+    "imp_num_child_total": 121,
+    "imp_num_males_total": 290,
+    "imp_num_females_total": 0,
+    "total_slaves_embarked_age_gender_identified": 290,
+    "total_slaves_by_age_gender_identified_among_landed": null,
+    "total_slaves_by_age_gender_identified_departure_or_arrival": 290,
+    "percentage_boys_among_embarked_slaves": 0.41724,
+    "child_ratio_among_embarked_slaves": 0.41724,
+    "percentage_girls_among_embarked_slaves": 0.0,
+    "male_ratio_among_embarked_slaves": 1.0,
+    "percentage_men_among_embarked_slaves": 0.582758621,
+    "percentage_women_among_embarked_slaves": 0.0,
+    "percentage_boys_among_landed_slaves": null,
+    "child_ratio_among_landed_slaves": null,
+    "percentage_girls_among_landed_slaves": null,
+    "male_ratio_among_landed_slaves": null,
+    "percentage_men_among_landed_slaves": null,
+    "percentage_women_among_landed_slaves": null,
+    "percentage_men": 0.58276,
+    "percentage_women": 0.0,
+    "percentage_boy": 0.41724,
+    "percentage_girl": 0.0,
+    "percentage_male": 1.0,
+    "percentage_child": 0.41724,
+    "percentage_adult": 0.58276,
+    "percentage_female": 0.0,
+    "imp_mortality_ratio": 0.0,
+    "voyage": 2691
+  },
+  "voyage_outcome": {
+    "id": 2639,
+    "outcome_owner": {
+      "id": 2,
+      "name": "Original goal thwarted (human agency)",
+      "value": 3
+    },
+    "outcome_slaves": {
+      "id": 5,
+      "name": "Slaves disembarked in Old World",
+      "value": 3
+    },
+    "particular_outcome": {
+      "id": 19,
+      "name": "Court of Mixed Commission, Sierra Leone, condemned",
+      "value": 120
+    },
+    "resistance": null,
+    "vessel_captured_outcome": {
+      "id": 4,
+      "name": "British",
+      "value": 3
+    },
+    "voyage": 2691
+  },
+  "voyage_groupings": {
+    "id": 33,
+    "name": "B. of Benin, post-1800",
+    "value": 112
+  },
+  "cargo": [],
+  "african_info": [],
+  "linked_voyages": [],
+  "voyage_id": 2691,
+  "voyage_in_cd_rom": true,
+  "last_update": "2023-11-03T22:24:48.312493Z",
+  "human_reviewed": false,
+  "dataset": 0,
+  "comments": null
+}

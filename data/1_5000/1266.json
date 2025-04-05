@@ -1,0 +1,3002 @@
+{
+  "id": 1266,
+  "sources": [
+    {
+      "id": 1364,
+      "page_ranges": [
+        "FO313/58,ff.117-38",
+        "FO313/59,ff.1-29",
+        null,
+        null
+      ],
+      "short_ref": {
+        "id": 561,
+        "name": "FO"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">&#x201C;Foreign Office and Foreign and Commonwealth Office Records from 1782.&#x201D; Kew, UK, n.d. British National Archives. https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "B92UI8D2",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/B92UI8D2",
+      "title": "Foreign Office and Foreign and Commonwealth Office records from 1782",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:38.698823Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: <p><em>TNA</em> (Kew)</p>\\DOC TYPE: Documentary source",
+      "order_in_shortref": null,
+      "source_type": 1,
+      "date": 12347
+    },
+    {
+      "id": 1564,
+      "page_ranges": [
+        "IUP,ST,13/A3/27-31",
+        null
+      ],
+      "short_ref": {
+        "id": 760,
+        "name": "IUP,ST"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\"><i>Irish University Press Series of British Parliamentary Papers: Slave Trade</i>. Shannon, Irish University Press, n.d.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "E7432857",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/E7432857",
+      "title": "Irish University Press Series of British Parliamentary Papers: Slave Trade",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:37.947153Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: Great Britain, <i>Irish University Press Series of British Parliamentary Papers: Slave Trade</i>, vols. 1-90 (Shannon, 1969-74).\\DOC TYPE: Published source",
+      "order_in_shortref": null,
+      "source_type": 4,
+      "date": 12152
+    },
+    {
+      "id": 1996,
+      "page_ranges": [
+        "PP,1845,XLIX:593-633",
+        null
+      ],
+      "short_ref": {
+        "id": 1189,
+        "name": "PP"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\"><i>Great Britain, <span style=\"font-style:normal;\">Parliamentary Papers</span>:&#xA0; 1777, Accounts and Papers, No 9 1788, XXII&#xA0; 1789, XXIV, XXV, XXVI 1790, XXIX, XXX, XXXI 1790-91, XXXIV 1792, XXXV 1795-96, XLII&#xA0; 1798-99, XLVIII 1799 XLVIII 1801-2, IV&#xA0; 1803-4, X 1806, XII 1813-14, XII 181</i>, n.d.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "X6N58B3D",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/X6N58B3D",
+      "title": "Great Britain, <i>Parliamentary Papers</i>:  1777, Accounts and Papers, No 9 1788, XXII  1789, XXIV, XXV, XXVI 1790, XXIX, XXX, XXXI 1790-91, XXXIV 1792, XXXV 1795-96, XLII  1798-99, XLVIII 1799 XLVIII 1801-2, IV  1803-4, X 1806, XII 1813-14, XII 181",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:36.309527Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: Great Britain, <i>Parliamentary Papers</i>:  1777, Accounts and Papers, No 9 1788, XXII  1789, XXIV, XXV, XXVI 1790, XXIX, XXX, XXXI 1790-91, XXXIV 1792, XXXV 1795-96, XLII  1798-99, XLVIII 1799 XLVIII 1801-2, IV  1803-4, X 1806, XII 1813-14, XII 1816, VII 1823, XIX 1825, XXVII, XXIX  1826, XXIX 1826-7, XXII, XXVI 1828, XXVI 1829, XXVI  1830, X 1831, XIX 1831-32, XLVII 1842, XLIV 1845,XLIX 1847-8, XXII 1852-3, XXXIX\\DOC TYPE: Published source",
+      "order_in_shortref": null,
+      "source_type": 4,
+      "date": 11727
+    }
+  ],
+  "voyage_itinerary": {
+    "id": 1249,
+    "port_of_departure": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_first_port_emb": null,
+    "int_second_port_emb": null,
+    "int_first_region_purchase_slaves": null,
+    "int_second_region_purchase_slaves": null,
+    "int_first_port_dis": {
+      "id": 1148,
+      "uuid": "b5a915b8-e66f-4edf-aea4-99450dae199c",
+      "name": "Cuba, port unspecified",
+      "longitude": -79.221991,
+      "latitude": 22.39915,
+      "value": 31399,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_second_port_dis": null,
+    "int_first_region_slave_landing": {
+      "id": 53,
+      "uuid": "ed2b7ecb-f9db-45d7-944a-2894772ae9dd",
+      "name": "Cuba",
+      "longitude": -79.127686,
+      "latitude": 23.115613,
+      "value": 31300,
+      "parent": 3,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_principal_region_slave_dis": {
+      "id": 53,
+      "uuid": "ed2b7ecb-f9db-45d7-944a-2894772ae9dd",
+      "name": "Cuba",
+      "longitude": -79.127686,
+      "latitude": 23.115613,
+      "value": 31300,
+      "parent": 3,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "int_second_place_region_slave_landing": null,
+    "first_place_slave_purchase": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "second_place_slave_purchase": null,
+    "third_place_slave_purchase": null,
+    "first_region_slave_emb": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "second_region_slave_emb": null,
+    "third_region_slave_emb": null,
+    "port_of_call_before_atl_crossing": null,
+    "first_landing_place": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "second_landing_place": null,
+    "third_landing_place": null,
+    "first_landing_region": {
+      "id": 53,
+      "uuid": "ed2b7ecb-f9db-45d7-944a-2894772ae9dd",
+      "name": "Cuba",
+      "longitude": -79.127686,
+      "latitude": 23.115613,
+      "value": 31300,
+      "parent": 3,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "second_landing_region": null,
+    "third_landing_region": null,
+    "place_voyage_ended": null,
+    "region_of_return": null,
+    "broad_region_of_return": null,
+    "imp_port_voyage_begin": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_region_voyage_begin": {
+      "id": 53,
+      "uuid": "ed2b7ecb-f9db-45d7-944a-2894772ae9dd",
+      "name": "Cuba",
+      "longitude": -79.127686,
+      "latitude": 23.115613,
+      "value": 31300,
+      "parent": 3,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_broad_region_voyage_begin": {
+      "id": 3,
+      "uuid": "5d8cf062-c542-4674-adab-2447f6597532",
+      "name": "Caribbean",
+      "longitude": -66.237461,
+      "latitude": 14.501708,
+      "value": 30000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "principal_place_of_slave_purchase": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_place_of_slave_purchase": {
+      "id": 1715,
+      "uuid": "350eabc6-fadd-4b49-b8a8-9b529ac7713e",
+      "name": "Whydah, Ouidah",
+      "longitude": 2.08333,
+      "latitude": 6.36667,
+      "value": 60515,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_region_of_slave_purchase": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_broad_region_of_slave_purchase": {
+      "id": 6,
+      "uuid": "31fbfb92-a521-4d83-a9a4-316ff7f56515",
+      "name": "Africa",
+      "longitude": 9.343897,
+      "latitude": 0.054033,
+      "value": 60000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "principal_port_of_slave_dis": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_port_slave_dis": {
+      "id": 1126,
+      "uuid": "1f5fcbd3-22d9-4a9b-a901-a806729417a5",
+      "name": "Havana",
+      "longitude": -82.36417,
+      "latitude": 23.13194,
+      "value": 31312,
+      "parent": 53,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_broad_region_slave_dis": {
+      "id": 3,
+      "uuid": "5d8cf062-c542-4674-adab-2447f6597532",
+      "name": "Caribbean",
+      "longitude": -66.237461,
+      "latitude": 14.501708,
+      "value": 30000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "int_third_port_dis": null,
+    "int_fourth_port_dis": null,
+    "int_third_place_region_slave_landing": null,
+    "int_fourth_place_region_slave_landing": null,
+    "ports_called_buying_slaves": null,
+    "number_of_ports_of_call": null,
+    "voyage": 1266
+  },
+  "voyage_dates": {
+    "id": 1249,
+    "voyage_began_sparsedate": {
+      "id": 6330,
+      "day": 17,
+      "month": 6,
+      "year": 1832
+    },
+    "slave_purchase_began_sparsedate": null,
+    "vessel_left_port_sparsedate": {
+      "id": 6331,
+      "day": 20,
+      "month": 10,
+      "year": 1832
+    },
+    "first_dis_of_slaves_sparsedate": {
+      "id": 6332,
+      "day": 11,
+      "month": 12,
+      "year": 1832
+    },
+    "date_departed_africa_sparsedate": {
+      "id": 6333,
+      "day": 20,
+      "month": 10,
+      "year": 1832
+    },
+    "arrival_at_second_place_landing_sparsedate": null,
+    "third_dis_of_slaves_sparsedate": null,
+    "departure_last_place_of_landing_sparsedate": null,
+    "voyage_completed_sparsedate": null,
+    "imp_voyage_began_sparsedate": {
+      "id": 6334,
+      "day": null,
+      "month": null,
+      "year": 1832
+    },
+    "imp_departed_africa_sparsedate": {
+      "id": 6335,
+      "day": null,
+      "month": null,
+      "year": 1832
+    },
+    "imp_arrival_at_port_of_dis_sparsedate": {
+      "id": 6336,
+      "day": null,
+      "month": null,
+      "year": 1832
+    },
+    "length_middle_passage_days": null,
+    "imp_length_home_to_disembark": 177,
+    "imp_length_leaving_africa_to_disembark": 52,
+    "voyage": 1266
+  },
+  "enslavers": [
+    {
+      "roles": "Captain",
+      "enslaver": {
+        "id": 1005013,
+        "birth_place": null,
+        "death_place": null,
+        "principal_location": null,
+        "principal_alias": "Sarria, Francisco Antonio",
+        "birth_year": null,
+        "birth_month": null,
+        "birth_day": null,
+        "death_year": null,
+        "death_month": null,
+        "death_day": null,
+        "father_name": null,
+        "father_occupation": null,
+        "mother_name": null,
+        "probate_date": null,
+        "will_value_pounds": null,
+        "will_value_dollars": null,
+        "will_court": null,
+        "notes": null,
+        "is_natural_person": true,
+        "last_updated": "2023-11-04T02:28:56.662027Z",
+        "number_enslaved_people": null,
+        "human_reviewed": false,
+        "legacy_id": 1005013
+      }
+    }
+  ],
+  "named_enslaved_people": [
+    {
+      "id": 73709,
+      "enslaved_id": 73709,
+      "documented_name": "Us\u00edn"
+    },
+    {
+      "id": 73710,
+      "enslaved_id": 73710,
+      "documented_name": "Bos\u00fa"
+    },
+    {
+      "id": 73711,
+      "enslaved_id": 73711,
+      "documented_name": "Aquojo"
+    },
+    {
+      "id": 73712,
+      "enslaved_id": 73712,
+      "documented_name": "Aque"
+    },
+    {
+      "id": 73713,
+      "enslaved_id": 73713,
+      "documented_name": "Quind\u00f3"
+    },
+    {
+      "id": 73714,
+      "enslaved_id": 73714,
+      "documented_name": "Ledome"
+    },
+    {
+      "id": 73715,
+      "enslaved_id": 73715,
+      "documented_name": "Cos\u00fa"
+    },
+    {
+      "id": 73716,
+      "enslaved_id": 73716,
+      "documented_name": "Guaraq\u00fc\u00e9"
+    },
+    {
+      "id": 73717,
+      "enslaved_id": 73717,
+      "documented_name": "Aqui\u00f3"
+    },
+    {
+      "id": 73718,
+      "enslaved_id": 73718,
+      "documented_name": "Cholo"
+    },
+    {
+      "id": 73719,
+      "enslaved_id": 73719,
+      "documented_name": "G\u00fces\u00fa"
+    },
+    {
+      "id": 73720,
+      "enslaved_id": 73720,
+      "documented_name": "G\u00fcis\u00fa"
+    },
+    {
+      "id": 73721,
+      "enslaved_id": 73721,
+      "documented_name": "Buc\u00e1"
+    },
+    {
+      "id": 73722,
+      "enslaved_id": 73722,
+      "documented_name": "Mid\u00e9"
+    },
+    {
+      "id": 73723,
+      "enslaved_id": 73723,
+      "documented_name": "Ch\u00e1la"
+    },
+    {
+      "id": 73724,
+      "enslaved_id": 73724,
+      "documented_name": "Bocoia"
+    },
+    {
+      "id": 73725,
+      "enslaved_id": 73725,
+      "documented_name": "Dos\u00fa"
+    },
+    {
+      "id": 73726,
+      "enslaved_id": 73726,
+      "documented_name": "E\u00f1amacoro"
+    },
+    {
+      "id": 73727,
+      "enslaved_id": 73727,
+      "documented_name": "Bos\u00fa"
+    },
+    {
+      "id": 73728,
+      "enslaved_id": 73728,
+      "documented_name": "Queseme"
+    },
+    {
+      "id": 73729,
+      "enslaved_id": 73729,
+      "documented_name": "Buc\u00f3"
+    },
+    {
+      "id": 73730,
+      "enslaved_id": 73730,
+      "documented_name": "Dos\u00fa"
+    },
+    {
+      "id": 73731,
+      "enslaved_id": 73731,
+      "documented_name": "Duca"
+    },
+    {
+      "id": 73732,
+      "enslaved_id": 73732,
+      "documented_name": "Busu"
+    },
+    {
+      "id": 73733,
+      "enslaved_id": 73733,
+      "documented_name": "Boc\u00f3"
+    },
+    {
+      "id": 73734,
+      "enslaved_id": 73734,
+      "documented_name": "Domusa"
+    },
+    {
+      "id": 73735,
+      "enslaved_id": 73735,
+      "documented_name": "Bi\u00e1"
+    },
+    {
+      "id": 73736,
+      "enslaved_id": 73736,
+      "documented_name": "Jes\u00fa"
+    },
+    {
+      "id": 73737,
+      "enslaved_id": 73737,
+      "documented_name": "Cundo"
+    },
+    {
+      "id": 73738,
+      "enslaved_id": 73738,
+      "documented_name": "Boc\u00f3"
+    },
+    {
+      "id": 73739,
+      "enslaved_id": 73739,
+      "documented_name": "Quaq\u00fa"
+    },
+    {
+      "id": 73740,
+      "enslaved_id": 73740,
+      "documented_name": "Boco\u00f1o"
+    },
+    {
+      "id": 73741,
+      "enslaved_id": 73741,
+      "documented_name": "Sus\u00fa"
+    },
+    {
+      "id": 73742,
+      "enslaved_id": 73742,
+      "documented_name": "Boq\u00fceb\u00ed"
+    },
+    {
+      "id": 73743,
+      "enslaved_id": 73743,
+      "documented_name": "Cocoe"
+    },
+    {
+      "id": 73744,
+      "enslaved_id": 73744,
+      "documented_name": "Alib\u00f3"
+    },
+    {
+      "id": 73745,
+      "enslaved_id": 73745,
+      "documented_name": "Dog\u00fc\u00e9"
+    },
+    {
+      "id": 73746,
+      "enslaved_id": 73746,
+      "documented_name": "G\u00fcevi"
+    },
+    {
+      "id": 73747,
+      "enslaved_id": 73747,
+      "documented_name": "Iesa"
+    },
+    {
+      "id": 73748,
+      "enslaved_id": 73748,
+      "documented_name": "Bal"
+    },
+    {
+      "id": 73749,
+      "enslaved_id": 73749,
+      "documented_name": "Sonbari"
+    },
+    {
+      "id": 73750,
+      "enslaved_id": 73750,
+      "documented_name": "Usom\u00ed"
+    },
+    {
+      "id": 73751,
+      "enslaved_id": 73751,
+      "documented_name": "Acol\u00ed"
+    },
+    {
+      "id": 73752,
+      "enslaved_id": 73752,
+      "documented_name": "Debu\u00e9"
+    },
+    {
+      "id": 73753,
+      "enslaved_id": 73753,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73754,
+      "enslaved_id": 73754,
+      "documented_name": "Ay\u00e9mbol\u00fa"
+    },
+    {
+      "id": 73755,
+      "enslaved_id": 73755,
+      "documented_name": "Ayu\u00e1"
+    },
+    {
+      "id": 73756,
+      "enslaved_id": 73756,
+      "documented_name": "Sail\u00fa (Lail\u00fa)"
+    },
+    {
+      "id": 73757,
+      "enslaved_id": 73757,
+      "documented_name": "Olind\u00e9"
+    },
+    {
+      "id": 73758,
+      "enslaved_id": 73758,
+      "documented_name": "Comol\u00fa"
+    },
+    {
+      "id": 73759,
+      "enslaved_id": 73759,
+      "documented_name": "Belloc\u00fa"
+    },
+    {
+      "id": 73760,
+      "enslaved_id": 73760,
+      "documented_name": "Ati\u00f3l\u00e1"
+    },
+    {
+      "id": 73761,
+      "enslaved_id": 73761,
+      "documented_name": "Atiliser"
+    },
+    {
+      "id": 73762,
+      "enslaved_id": 73762,
+      "documented_name": "Opogu"
+    },
+    {
+      "id": 73763,
+      "enslaved_id": 73763,
+      "documented_name": "Oyer\u00f3"
+    },
+    {
+      "id": 73764,
+      "enslaved_id": 73764,
+      "documented_name": "Oquerim\u00ed"
+    },
+    {
+      "id": 73765,
+      "enslaved_id": 73765,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73766,
+      "enslaved_id": 73766,
+      "documented_name": "Guadaer\u00fa"
+    },
+    {
+      "id": 73767,
+      "enslaved_id": 73767,
+      "documented_name": "C\u00f3le"
+    },
+    {
+      "id": 73768,
+      "enslaved_id": 73768,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73769,
+      "enslaved_id": 73769,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 73770,
+      "enslaved_id": 73770,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73771,
+      "enslaved_id": 73771,
+      "documented_name": "Ailequ\u00e9"
+    },
+    {
+      "id": 73772,
+      "enslaved_id": 73772,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73773,
+      "enslaved_id": 73773,
+      "documented_name": "Ladap\u00f3"
+    },
+    {
+      "id": 73774,
+      "enslaved_id": 73774,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73775,
+      "enslaved_id": 73775,
+      "documented_name": "Ogur\u00f3"
+    },
+    {
+      "id": 73776,
+      "enslaved_id": 73776,
+      "documented_name": "Orubellu"
+    },
+    {
+      "id": 73777,
+      "enslaved_id": 73777,
+      "documented_name": "Modi"
+    },
+    {
+      "id": 73778,
+      "enslaved_id": 73778,
+      "documented_name": "Olumal\u00ed"
+    },
+    {
+      "id": 73779,
+      "enslaved_id": 73779,
+      "documented_name": "Olucad\u00e9"
+    },
+    {
+      "id": 73780,
+      "enslaved_id": 73780,
+      "documented_name": "Oses\u00fa"
+    },
+    {
+      "id": 73781,
+      "enslaved_id": 73781,
+      "documented_name": "Ob\u00e9"
+    },
+    {
+      "id": 73782,
+      "enslaved_id": 73782,
+      "documented_name": "Ocola"
+    },
+    {
+      "id": 73783,
+      "enslaved_id": 73783,
+      "documented_name": "Cucul\u00ed"
+    },
+    {
+      "id": 73784,
+      "enslaved_id": 73784,
+      "documented_name": "Ay\u00e9villi"
+    },
+    {
+      "id": 73785,
+      "enslaved_id": 73785,
+      "documented_name": "Ogullav\u00ed"
+    },
+    {
+      "id": 73786,
+      "enslaved_id": 73786,
+      "documented_name": "Somuti"
+    },
+    {
+      "id": 73787,
+      "enslaved_id": 73787,
+      "documented_name": "Od\u00fa"
+    },
+    {
+      "id": 73788,
+      "enslaved_id": 73788,
+      "documented_name": "Och\u00f3lleve"
+    },
+    {
+      "id": 73789,
+      "enslaved_id": 73789,
+      "documented_name": "Lequelle"
+    },
+    {
+      "id": 73790,
+      "enslaved_id": 73790,
+      "documented_name": "Og\u00faol\u00fa"
+    },
+    {
+      "id": 73791,
+      "enslaved_id": 73791,
+      "documented_name": "Oluch\u00e9"
+    },
+    {
+      "id": 73792,
+      "enslaved_id": 73792,
+      "documented_name": "Quich\u00f3u"
+    },
+    {
+      "id": 73793,
+      "enslaved_id": 73793,
+      "documented_name": "Chovelle"
+    },
+    {
+      "id": 73794,
+      "enslaved_id": 73794,
+      "documented_name": "Pel\u00fa"
+    },
+    {
+      "id": 73795,
+      "enslaved_id": 73795,
+      "documented_name": "Ogu\u00e9l\u00e9"
+    },
+    {
+      "id": 73796,
+      "enslaved_id": 73796,
+      "documented_name": "Ed\u00fan"
+    },
+    {
+      "id": 73797,
+      "enslaved_id": 73797,
+      "documented_name": "Or\u00e9bor\u00e9"
+    },
+    {
+      "id": 73798,
+      "enslaved_id": 73798,
+      "documented_name": "Aya\u00ed"
+    },
+    {
+      "id": 73799,
+      "enslaved_id": 73799,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 73800,
+      "enslaved_id": 73800,
+      "documented_name": "Amap\u00e9"
+    },
+    {
+      "id": 73801,
+      "enslaved_id": 73801,
+      "documented_name": "Cus\u00ed"
+    },
+    {
+      "id": 73802,
+      "enslaved_id": 73802,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73803,
+      "enslaved_id": 73803,
+      "documented_name": "Paboal\u00e9"
+    },
+    {
+      "id": 73804,
+      "enslaved_id": 73804,
+      "documented_name": "Ed\u00fam"
+    },
+    {
+      "id": 73805,
+      "enslaved_id": 73805,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73806,
+      "enslaved_id": 73806,
+      "documented_name": "Adeog\u00fa"
+    },
+    {
+      "id": 73807,
+      "enslaved_id": 73807,
+      "documented_name": "Adebo"
+    },
+    {
+      "id": 73808,
+      "enslaved_id": 73808,
+      "documented_name": "Desoll\u00e9"
+    },
+    {
+      "id": 73809,
+      "enslaved_id": 73809,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73810,
+      "enslaved_id": 73810,
+      "documented_name": "Igu\u00e9"
+    },
+    {
+      "id": 73811,
+      "enslaved_id": 73811,
+      "documented_name": "Fabo\u00e9"
+    },
+    {
+      "id": 73812,
+      "enslaved_id": 73812,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73813,
+      "enslaved_id": 73813,
+      "documented_name": "Y\u00faal\u00e9"
+    },
+    {
+      "id": 73814,
+      "enslaved_id": 73814,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 73815,
+      "enslaved_id": 73815,
+      "documented_name": "Aquilad\u00e9"
+    },
+    {
+      "id": 73816,
+      "enslaved_id": 73816,
+      "documented_name": "Ayal\u00e1"
+    },
+    {
+      "id": 73817,
+      "enslaved_id": 73817,
+      "documented_name": "Alad\u00f3"
+    },
+    {
+      "id": 73818,
+      "enslaved_id": 73818,
+      "documented_name": "Orunam\u00e9"
+    },
+    {
+      "id": 73819,
+      "enslaved_id": 73819,
+      "documented_name": "Ayavi"
+    },
+    {
+      "id": 73820,
+      "enslaved_id": 73820,
+      "documented_name": "Edum"
+    },
+    {
+      "id": 73821,
+      "enslaved_id": 73821,
+      "documented_name": "Oyegu\u00f3"
+    },
+    {
+      "id": 73822,
+      "enslaved_id": 73822,
+      "documented_name": "Boc\u00fa"
+    },
+    {
+      "id": 73823,
+      "enslaved_id": 73823,
+      "documented_name": "Ed\u00fam"
+    },
+    {
+      "id": 73824,
+      "enslaved_id": 73824,
+      "documented_name": "Quabur\u00e9"
+    },
+    {
+      "id": 73825,
+      "enslaved_id": 73825,
+      "documented_name": "Ochota"
+    },
+    {
+      "id": 73826,
+      "enslaved_id": 73826,
+      "documented_name": "Fond\u00e9"
+    },
+    {
+      "id": 73827,
+      "enslaved_id": 73827,
+      "documented_name": "Ob\u00f3"
+    },
+    {
+      "id": 73828,
+      "enslaved_id": 73828,
+      "documented_name": "Aque\u00fas\u00e9"
+    },
+    {
+      "id": 73829,
+      "enslaved_id": 73829,
+      "documented_name": "Choc\u00f3lol\u00e1"
+    },
+    {
+      "id": 73830,
+      "enslaved_id": 73830,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73831,
+      "enslaved_id": 73831,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73832,
+      "enslaved_id": 73832,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73833,
+      "enslaved_id": 73833,
+      "documented_name": "A\u00f3le"
+    },
+    {
+      "id": 73834,
+      "enslaved_id": 73834,
+      "documented_name": "Uquellevi"
+    },
+    {
+      "id": 73835,
+      "enslaved_id": 73835,
+      "documented_name": "Ayen\u00f3"
+    },
+    {
+      "id": 73836,
+      "enslaved_id": 73836,
+      "documented_name": "Aquisoll\u00e1"
+    },
+    {
+      "id": 73837,
+      "enslaved_id": 73837,
+      "documented_name": "Agon\u00f3"
+    },
+    {
+      "id": 73838,
+      "enslaved_id": 73838,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73839,
+      "enslaved_id": 73839,
+      "documented_name": "Eul\u00f3"
+    },
+    {
+      "id": 73840,
+      "enslaved_id": 73840,
+      "documented_name": "Facho\u00ed"
+    },
+    {
+      "id": 73841,
+      "enslaved_id": 73841,
+      "documented_name": "Adev\u00ed"
+    },
+    {
+      "id": 73842,
+      "enslaved_id": 73842,
+      "documented_name": "Lusarad\u00e1"
+    },
+    {
+      "id": 73843,
+      "enslaved_id": 73843,
+      "documented_name": "Ag\u00f3le"
+    },
+    {
+      "id": 73844,
+      "enslaved_id": 73844,
+      "documented_name": "Aegol\u00e1"
+    },
+    {
+      "id": 73845,
+      "enslaved_id": 73845,
+      "documented_name": "Aviva"
+    },
+    {
+      "id": 73846,
+      "enslaved_id": 73846,
+      "documented_name": "Ayend\u00e9"
+    },
+    {
+      "id": 73847,
+      "enslaved_id": 73847,
+      "documented_name": "Fao"
+    },
+    {
+      "id": 73848,
+      "enslaved_id": 73848,
+      "documented_name": "Obayom\u00ed"
+    },
+    {
+      "id": 73849,
+      "enslaved_id": 73849,
+      "documented_name": "Alaya"
+    },
+    {
+      "id": 73850,
+      "enslaved_id": 73850,
+      "documented_name": "Bola"
+    },
+    {
+      "id": 73851,
+      "enslaved_id": 73851,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73852,
+      "enslaved_id": 73852,
+      "documented_name": "Ayeded\u00fa"
+    },
+    {
+      "id": 73853,
+      "enslaved_id": 73853,
+      "documented_name": "Adeq\u00fcev\u00e1"
+    },
+    {
+      "id": 73854,
+      "enslaved_id": 73854,
+      "documented_name": "Ayavi"
+    },
+    {
+      "id": 73855,
+      "enslaved_id": 73855,
+      "documented_name": "Erubilli"
+    },
+    {
+      "id": 73856,
+      "enslaved_id": 73856,
+      "documented_name": "San\u00f3"
+    },
+    {
+      "id": 73857,
+      "enslaved_id": 73857,
+      "documented_name": "Aquiode"
+    },
+    {
+      "id": 73858,
+      "enslaved_id": 73858,
+      "documented_name": "Aquiol\u00e1"
+    },
+    {
+      "id": 73859,
+      "enslaved_id": 73859,
+      "documented_name": "Ocud\u00e9"
+    },
+    {
+      "id": 73860,
+      "enslaved_id": 73860,
+      "documented_name": "Ayal\u00e1"
+    },
+    {
+      "id": 73861,
+      "enslaved_id": 73861,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73862,
+      "enslaved_id": 73862,
+      "documented_name": "Subad\u00e9"
+    },
+    {
+      "id": 73863,
+      "enslaved_id": 73863,
+      "documented_name": "Ullor\u00f3"
+    },
+    {
+      "id": 73864,
+      "enslaved_id": 73864,
+      "documented_name": "A\u00fdn\u00f3"
+    },
+    {
+      "id": 73865,
+      "enslaved_id": 73865,
+      "documented_name": "Sobo"
+    },
+    {
+      "id": 73866,
+      "enslaved_id": 73866,
+      "documented_name": "Igu\u00e9"
+    },
+    {
+      "id": 73867,
+      "enslaved_id": 73867,
+      "documented_name": "Jail\u00e1"
+    },
+    {
+      "id": 73868,
+      "enslaved_id": 73868,
+      "documented_name": "Og\u00fa"
+    },
+    {
+      "id": 73869,
+      "enslaved_id": 73869,
+      "documented_name": "Ogui\u00e9mogu\u00f3"
+    },
+    {
+      "id": 73870,
+      "enslaved_id": 73870,
+      "documented_name": "Aquibolu"
+    },
+    {
+      "id": 73871,
+      "enslaved_id": 73871,
+      "documented_name": "Churumb\u00e9"
+    },
+    {
+      "id": 73872,
+      "enslaved_id": 73872,
+      "documented_name": "Vivic\u00f3n"
+    },
+    {
+      "id": 73873,
+      "enslaved_id": 73873,
+      "documented_name": "Ed\u00fam"
+    },
+    {
+      "id": 73874,
+      "enslaved_id": 73874,
+      "documented_name": "Cumaqua\u00ed"
+    },
+    {
+      "id": 73875,
+      "enslaved_id": 73875,
+      "documented_name": "Acom\u00fan"
+    },
+    {
+      "id": 73876,
+      "enslaved_id": 73876,
+      "documented_name": "Oyolol\u00e1"
+    },
+    {
+      "id": 73877,
+      "enslaved_id": 73877,
+      "documented_name": "Oquibol\u00fa"
+    },
+    {
+      "id": 73878,
+      "enslaved_id": 73878,
+      "documented_name": "Chovand\u00e9"
+    },
+    {
+      "id": 73879,
+      "enslaved_id": 73879,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 73880,
+      "enslaved_id": 73880,
+      "documented_name": "Odob\u00fa"
+    },
+    {
+      "id": 73881,
+      "enslaved_id": 73881,
+      "documented_name": "Oluci"
+    },
+    {
+      "id": 73882,
+      "enslaved_id": 73882,
+      "documented_name": "Aguac\u00f3n"
+    },
+    {
+      "id": 73883,
+      "enslaved_id": 73883,
+      "documented_name": "V\u00f3le"
+    },
+    {
+      "id": 73884,
+      "enslaved_id": 73884,
+      "documented_name": "Olu\u00edell\u00fa"
+    },
+    {
+      "id": 73885,
+      "enslaved_id": 73885,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 73886,
+      "enslaved_id": 73886,
+      "documented_name": "Og\u00falelle"
+    },
+    {
+      "id": 73887,
+      "enslaved_id": 73887,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 73888,
+      "enslaved_id": 73888,
+      "documented_name": "Bambos\u00e9"
+    },
+    {
+      "id": 73889,
+      "enslaved_id": 73889,
+      "documented_name": "Aquib\u00e9"
+    },
+    {
+      "id": 73890,
+      "enslaved_id": 73890,
+      "documented_name": "Lagud\u00e9"
+    },
+    {
+      "id": 73891,
+      "enslaved_id": 73891,
+      "documented_name": "Aco\u00f1u"
+    },
+    {
+      "id": 73892,
+      "enslaved_id": 73892,
+      "documented_name": "Llegol\u00f3"
+    },
+    {
+      "id": 73893,
+      "enslaved_id": 73893,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73894,
+      "enslaved_id": 73894,
+      "documented_name": "Aileso"
+    },
+    {
+      "id": 73895,
+      "enslaved_id": 73895,
+      "documented_name": "\u00c1yala"
+    },
+    {
+      "id": 73896,
+      "enslaved_id": 73896,
+      "documented_name": "Somusti"
+    },
+    {
+      "id": 73897,
+      "enslaved_id": 73897,
+      "documented_name": "Chogul\u00e9"
+    },
+    {
+      "id": 73898,
+      "enslaved_id": 73898,
+      "documented_name": "Alad\u00f3"
+    },
+    {
+      "id": 73899,
+      "enslaved_id": 73899,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 73900,
+      "enslaved_id": 73900,
+      "documented_name": "Oy\u00e1"
+    },
+    {
+      "id": 73901,
+      "enslaved_id": 73901,
+      "documented_name": "Egol\u00fa"
+    },
+    {
+      "id": 73902,
+      "enslaved_id": 73902,
+      "documented_name": "Aribit\u00f3"
+    },
+    {
+      "id": 73903,
+      "enslaved_id": 73903,
+      "documented_name": "Laleye"
+    },
+    {
+      "id": 73904,
+      "enslaved_id": 73904,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73905,
+      "enslaved_id": 73905,
+      "documented_name": "Oculaf\u00fa"
+    },
+    {
+      "id": 73906,
+      "enslaved_id": 73906,
+      "documented_name": "Laund\u00ed"
+    },
+    {
+      "id": 73907,
+      "enslaved_id": 73907,
+      "documented_name": "Egullovi"
+    },
+    {
+      "id": 73908,
+      "enslaved_id": 73908,
+      "documented_name": "Iguech\u00fa"
+    },
+    {
+      "id": 73909,
+      "enslaved_id": 73909,
+      "documented_name": "Olaniyon\u00fa"
+    },
+    {
+      "id": 73910,
+      "enslaved_id": 73910,
+      "documented_name": "Aguiad\u00e9"
+    },
+    {
+      "id": 73911,
+      "enslaved_id": 73911,
+      "documented_name": "Egluol\u00e1"
+    },
+    {
+      "id": 73912,
+      "enslaved_id": 73912,
+      "documented_name": "Alamad\u00e9"
+    },
+    {
+      "id": 73913,
+      "enslaved_id": 73913,
+      "documented_name": "Chec\u00fa"
+    },
+    {
+      "id": 73914,
+      "enslaved_id": 73914,
+      "documented_name": "Cholot\u00f3n"
+    },
+    {
+      "id": 73915,
+      "enslaved_id": 73915,
+      "documented_name": "Aquinumi"
+    },
+    {
+      "id": 73916,
+      "enslaved_id": 73916,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73917,
+      "enslaved_id": 73917,
+      "documented_name": "Olud\u00e9"
+    },
+    {
+      "id": 73918,
+      "enslaved_id": 73918,
+      "documented_name": "Vitoye"
+    },
+    {
+      "id": 73919,
+      "enslaved_id": 73919,
+      "documented_name": "Abiono"
+    },
+    {
+      "id": 73920,
+      "enslaved_id": 73920,
+      "documented_name": "Bolumad\u00e9"
+    },
+    {
+      "id": 73921,
+      "enslaved_id": 73921,
+      "documented_name": "Ay\u00e1"
+    },
+    {
+      "id": 73922,
+      "enslaved_id": 73922,
+      "documented_name": "Aen\u00f3"
+    },
+    {
+      "id": 73923,
+      "enslaved_id": 73923,
+      "documented_name": "Ulucino"
+    },
+    {
+      "id": 73924,
+      "enslaved_id": 73924,
+      "documented_name": "Och\u00ed"
+    },
+    {
+      "id": 73925,
+      "enslaved_id": 73925,
+      "documented_name": "Ayevorisa"
+    },
+    {
+      "id": 73926,
+      "enslaved_id": 73926,
+      "documented_name": "Aad\u00e9"
+    },
+    {
+      "id": 73927,
+      "enslaved_id": 73927,
+      "documented_name": "Od\u00fa"
+    },
+    {
+      "id": 73928,
+      "enslaved_id": 73928,
+      "documented_name": "Nofomo"
+    },
+    {
+      "id": 73929,
+      "enslaved_id": 73929,
+      "documented_name": "Oduoga"
+    },
+    {
+      "id": 73930,
+      "enslaved_id": 73930,
+      "documented_name": "Choyal\u00fa"
+    },
+    {
+      "id": 73931,
+      "enslaved_id": 73931,
+      "documented_name": "Aboisade"
+    },
+    {
+      "id": 73932,
+      "enslaved_id": 73932,
+      "documented_name": "Achade"
+    },
+    {
+      "id": 73933,
+      "enslaved_id": 73933,
+      "documented_name": "Oliqueille"
+    },
+    {
+      "id": 73934,
+      "enslaved_id": 73934,
+      "documented_name": "Ayl\u00e1"
+    },
+    {
+      "id": 73935,
+      "enslaved_id": 73935,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73936,
+      "enslaved_id": 73936,
+      "documented_name": "Otayom\u00ed"
+    },
+    {
+      "id": 73937,
+      "enslaved_id": 73937,
+      "documented_name": "Ocusono"
+    },
+    {
+      "id": 73938,
+      "enslaved_id": 73938,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73939,
+      "enslaved_id": 73939,
+      "documented_name": "Orruton"
+    },
+    {
+      "id": 73940,
+      "enslaved_id": 73940,
+      "documented_name": "Bancol\u00e9"
+    },
+    {
+      "id": 73941,
+      "enslaved_id": 73941,
+      "documented_name": "Obayom\u00ed"
+    },
+    {
+      "id": 73942,
+      "enslaved_id": 73942,
+      "documented_name": "Chol\u00e1"
+    },
+    {
+      "id": 73943,
+      "enslaved_id": 73943,
+      "documented_name": "Ay\u00edv\u00ed"
+    },
+    {
+      "id": 73944,
+      "enslaved_id": 73944,
+      "documented_name": "Oyecolu"
+    },
+    {
+      "id": 73945,
+      "enslaved_id": 73945,
+      "documented_name": "Adi\u00f3"
+    },
+    {
+      "id": 73946,
+      "enslaved_id": 73946,
+      "documented_name": "Aquiol\u00fa"
+    },
+    {
+      "id": 73947,
+      "enslaved_id": 73947,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 73948,
+      "enslaved_id": 73948,
+      "documented_name": "Ayl\u00e1"
+    },
+    {
+      "id": 73949,
+      "enslaved_id": 73949,
+      "documented_name": "Aret\u00ed"
+    },
+    {
+      "id": 73950,
+      "enslaved_id": 73950,
+      "documented_name": "Iav\u00ed"
+    },
+    {
+      "id": 73951,
+      "enslaved_id": 73951,
+      "documented_name": "Onechisu"
+    },
+    {
+      "id": 73952,
+      "enslaved_id": 73952,
+      "documented_name": "Cunum\u00ed"
+    },
+    {
+      "id": 73953,
+      "enslaved_id": 73953,
+      "documented_name": "Coul\u00fa"
+    },
+    {
+      "id": 73954,
+      "enslaved_id": 73954,
+      "documented_name": "Od\u00e9"
+    },
+    {
+      "id": 73955,
+      "enslaved_id": 73955,
+      "documented_name": "Yevorisa"
+    },
+    {
+      "id": 73956,
+      "enslaved_id": 73956,
+      "documented_name": "Suleye"
+    },
+    {
+      "id": 73957,
+      "enslaved_id": 73957,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 73958,
+      "enslaved_id": 73958,
+      "documented_name": "Amanilla"
+    },
+    {
+      "id": 73959,
+      "enslaved_id": 73959,
+      "documented_name": "Abati"
+    },
+    {
+      "id": 73960,
+      "enslaved_id": 73960,
+      "documented_name": "Bambos\u00e9"
+    },
+    {
+      "id": 73961,
+      "enslaved_id": 73961,
+      "documented_name": "Loband\u00e9"
+    },
+    {
+      "id": 73962,
+      "enslaved_id": 73962,
+      "documented_name": "Mama"
+    },
+    {
+      "id": 73963,
+      "enslaved_id": 73963,
+      "documented_name": "Oyenua"
+    },
+    {
+      "id": 73964,
+      "enslaved_id": 73964,
+      "documented_name": "Somad\u00ed"
+    },
+    {
+      "id": 73965,
+      "enslaved_id": 73965,
+      "documented_name": "Ed\u00fam"
+    },
+    {
+      "id": 73966,
+      "enslaved_id": 73966,
+      "documented_name": "Oduto"
+    },
+    {
+      "id": 73967,
+      "enslaved_id": 73967,
+      "documented_name": "Edog\u00fa"
+    },
+    {
+      "id": 73968,
+      "enslaved_id": 73968,
+      "documented_name": "Aribito"
+    },
+    {
+      "id": 73969,
+      "enslaved_id": 73969,
+      "documented_name": "Edum"
+    },
+    {
+      "id": 73970,
+      "enslaved_id": 73970,
+      "documented_name": "Machoqui"
+    },
+    {
+      "id": 73971,
+      "enslaved_id": 73971,
+      "documented_name": "Lefotev\u00ed"
+    },
+    {
+      "id": 73972,
+      "enslaved_id": 73972,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 73973,
+      "enslaved_id": 73973,
+      "documented_name": "Ogufuavi"
+    },
+    {
+      "id": 73974,
+      "enslaved_id": 73974,
+      "documented_name": "Olimbu"
+    },
+    {
+      "id": 73975,
+      "enslaved_id": 73975,
+      "documented_name": "Dad\u00e1"
+    },
+    {
+      "id": 73976,
+      "enslaved_id": 73976,
+      "documented_name": "Asubii"
+    },
+    {
+      "id": 73977,
+      "enslaved_id": 73977,
+      "documented_name": "Fabii"
+    },
+    {
+      "id": 73978,
+      "enslaved_id": 73978,
+      "documented_name": "Ogullen\u00fa"
+    },
+    {
+      "id": 73979,
+      "enslaved_id": 73979,
+      "documented_name": "Tab\u00ed"
+    },
+    {
+      "id": 73980,
+      "enslaved_id": 73980,
+      "documented_name": "Demag\u00e1"
+    },
+    {
+      "id": 73981,
+      "enslaved_id": 73981,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 73982,
+      "enslaved_id": 73982,
+      "documented_name": "Aen\u00f3"
+    },
+    {
+      "id": 73983,
+      "enslaved_id": 73983,
+      "documented_name": "Padipe"
+    },
+    {
+      "id": 73984,
+      "enslaved_id": 73984,
+      "documented_name": "Luche"
+    },
+    {
+      "id": 73985,
+      "enslaved_id": 73985,
+      "documented_name": "Egunllovi"
+    },
+    {
+      "id": 73986,
+      "enslaved_id": 73986,
+      "documented_name": "Ocuninde"
+    },
+    {
+      "id": 73987,
+      "enslaved_id": 73987,
+      "documented_name": "Horay\u00fa"
+    },
+    {
+      "id": 73988,
+      "enslaved_id": 73988,
+      "documented_name": "Ayno"
+    },
+    {
+      "id": 73989,
+      "enslaved_id": 73989,
+      "documented_name": "Ilo"
+    },
+    {
+      "id": 73990,
+      "enslaved_id": 73990,
+      "documented_name": "Igne"
+    },
+    {
+      "id": 73991,
+      "enslaved_id": 73991,
+      "documented_name": "Ayn\u00f3"
+    },
+    {
+      "id": 73992,
+      "enslaved_id": 73992,
+      "documented_name": "Fela"
+    },
+    {
+      "id": 73993,
+      "enslaved_id": 73993,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 73994,
+      "enslaved_id": 73994,
+      "documented_name": "Ogub\u00ed"
+    },
+    {
+      "id": 73995,
+      "enslaved_id": 73995,
+      "documented_name": "Oyec\u00f3"
+    },
+    {
+      "id": 73996,
+      "enslaved_id": 73996,
+      "documented_name": "Aqu\u00eddipe"
+    },
+    {
+      "id": 73997,
+      "enslaved_id": 73997,
+      "documented_name": "Ocul\u00ed"
+    },
+    {
+      "id": 73998,
+      "enslaved_id": 73998,
+      "documented_name": "Ayn\u00f3"
+    },
+    {
+      "id": 73999,
+      "enslaved_id": 73999,
+      "documented_name": "Falola"
+    },
+    {
+      "id": 74000,
+      "enslaved_id": 74000,
+      "documented_name": "Ogub\u00ed"
+    },
+    {
+      "id": 74001,
+      "enslaved_id": 74001,
+      "documented_name": "Odueicun"
+    },
+    {
+      "id": 74002,
+      "enslaved_id": 74002,
+      "documented_name": "Aquisolla"
+    },
+    {
+      "id": 74003,
+      "enslaved_id": 74003,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 74004,
+      "enslaved_id": 74004,
+      "documented_name": "Lanilla"
+    },
+    {
+      "id": 74005,
+      "enslaved_id": 74005,
+      "documented_name": "Ogunumi"
+    },
+    {
+      "id": 74006,
+      "enslaved_id": 74006,
+      "documented_name": "Aquiad\u00f3"
+    },
+    {
+      "id": 74007,
+      "enslaved_id": 74007,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 74008,
+      "enslaved_id": 74008,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 74009,
+      "enslaved_id": 74009,
+      "documented_name": "Lacorum"
+    },
+    {
+      "id": 74010,
+      "enslaved_id": 74010,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 74011,
+      "enslaved_id": 74011,
+      "documented_name": "Ocunday\u00f3"
+    },
+    {
+      "id": 74012,
+      "enslaved_id": 74012,
+      "documented_name": "Fel\u00e1"
+    },
+    {
+      "id": 74013,
+      "enslaved_id": 74013,
+      "documented_name": "Ucoton"
+    },
+    {
+      "id": 74014,
+      "enslaved_id": 74014,
+      "documented_name": "Ogutade"
+    },
+    {
+      "id": 74015,
+      "enslaved_id": 74015,
+      "documented_name": "Ibod\u00e9"
+    },
+    {
+      "id": 74016,
+      "enslaved_id": 74016,
+      "documented_name": "Aquis\u00e9"
+    },
+    {
+      "id": 74017,
+      "enslaved_id": 74017,
+      "documented_name": "Ayae"
+    },
+    {
+      "id": 74018,
+      "enslaved_id": 74018,
+      "documented_name": "Oquol\u00e1"
+    },
+    {
+      "id": 74019,
+      "enslaved_id": 74019,
+      "documented_name": "Somaqui"
+    },
+    {
+      "id": 74020,
+      "enslaved_id": 74020,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 74021,
+      "enslaved_id": 74021,
+      "documented_name": "Salac\u00f3"
+    },
+    {
+      "id": 74022,
+      "enslaved_id": 74022,
+      "documented_name": "Och\u00f3la"
+    },
+    {
+      "id": 74023,
+      "enslaved_id": 74023,
+      "documented_name": "Locod\u00f3"
+    },
+    {
+      "id": 74024,
+      "enslaved_id": 74024,
+      "documented_name": "Lub\u00ed"
+    },
+    {
+      "id": 74025,
+      "enslaved_id": 74025,
+      "documented_name": "Ogulal\u00e1"
+    },
+    {
+      "id": 74026,
+      "enslaved_id": 74026,
+      "documented_name": "Och\u00f3"
+    },
+    {
+      "id": 74027,
+      "enslaved_id": 74027,
+      "documented_name": "Onoch\u00ed"
+    },
+    {
+      "id": 74028,
+      "enslaved_id": 74028,
+      "documented_name": "Alecuyon\u00fa"
+    },
+    {
+      "id": 74029,
+      "enslaved_id": 74029,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 74030,
+      "enslaved_id": 74030,
+      "documented_name": "Fallol\u00e9"
+    },
+    {
+      "id": 74031,
+      "enslaved_id": 74031,
+      "documented_name": "Ia\u00e9"
+    },
+    {
+      "id": 74032,
+      "enslaved_id": 74032,
+      "documented_name": "Cu\u00e9l\u00e9"
+    },
+    {
+      "id": 74033,
+      "enslaved_id": 74033,
+      "documented_name": "Alad\u00e9"
+    },
+    {
+      "id": 74034,
+      "enslaved_id": 74034,
+      "documented_name": "Ayan\u00f3"
+    },
+    {
+      "id": 74035,
+      "enslaved_id": 74035,
+      "documented_name": "Ique"
+    },
+    {
+      "id": 74036,
+      "enslaved_id": 74036,
+      "documented_name": "Adeville"
+    },
+    {
+      "id": 74037,
+      "enslaved_id": 74037,
+      "documented_name": "Ayn\u00f3"
+    },
+    {
+      "id": 74038,
+      "enslaved_id": 74038,
+      "documented_name": "Adi\u00f3"
+    },
+    {
+      "id": 74039,
+      "enslaved_id": 74039,
+      "documented_name": "Olubay\u00ed"
+    },
+    {
+      "id": 74040,
+      "enslaved_id": 74040,
+      "documented_name": "Dad\u00e1"
+    },
+    {
+      "id": 74041,
+      "enslaved_id": 74041,
+      "documented_name": "Dufora"
+    },
+    {
+      "id": 74042,
+      "enslaved_id": 74042,
+      "documented_name": "Cuarecon\u00fa"
+    },
+    {
+      "id": 74043,
+      "enslaved_id": 74043,
+      "documented_name": "Alam\u00fa"
+    },
+    {
+      "id": 74044,
+      "enslaved_id": 74044,
+      "documented_name": "Agu\u00eda"
+    },
+    {
+      "id": 74045,
+      "enslaved_id": 74045,
+      "documented_name": "Aquilato"
+    },
+    {
+      "id": 74046,
+      "enslaved_id": 74046,
+      "documented_name": "Dad\u00e1"
+    },
+    {
+      "id": 74047,
+      "enslaved_id": 74047,
+      "documented_name": "Ayn\u00f3"
+    },
+    {
+      "id": 74048,
+      "enslaved_id": 74048,
+      "documented_name": "Dad\u00e1"
+    },
+    {
+      "id": 74049,
+      "enslaved_id": 74049,
+      "documented_name": "Choco"
+    },
+    {
+      "id": 74050,
+      "enslaved_id": 74050,
+      "documented_name": "Oy\u00f3"
+    },
+    {
+      "id": 74051,
+      "enslaved_id": 74051,
+      "documented_name": "On\u00ed"
+    },
+    {
+      "id": 74052,
+      "enslaved_id": 74052,
+      "documented_name": "Achade"
+    },
+    {
+      "id": 74053,
+      "enslaved_id": 74053,
+      "documented_name": "Ogudin\u00f3"
+    },
+    {
+      "id": 74054,
+      "enslaved_id": 74054,
+      "documented_name": "Adesol\u00fa"
+    },
+    {
+      "id": 74055,
+      "enslaved_id": 74055,
+      "documented_name": "Ochoc\u00f3"
+    },
+    {
+      "id": 74056,
+      "enslaved_id": 74056,
+      "documented_name": "Ogudiqu\u00e9"
+    },
+    {
+      "id": 74057,
+      "enslaved_id": 74057,
+      "documented_name": "Oyer\u00f3"
+    },
+    {
+      "id": 74058,
+      "enslaved_id": 74058,
+      "documented_name": "Ilo"
+    },
+    {
+      "id": 74059,
+      "enslaved_id": 74059,
+      "documented_name": "Anecollia"
+    },
+    {
+      "id": 74060,
+      "enslaved_id": 74060,
+      "documented_name": "Orosolla"
+    },
+    {
+      "id": 74061,
+      "enslaved_id": 74061,
+      "documented_name": "Adevi"
+    },
+    {
+      "id": 74062,
+      "enslaved_id": 74062,
+      "documented_name": "Aquibami"
+    },
+    {
+      "id": 74063,
+      "enslaved_id": 74063,
+      "documented_name": "Alag\u00fc\u00e9"
+    },
+    {
+      "id": 74064,
+      "enslaved_id": 74064,
+      "documented_name": "Agobol\u00e1"
+    },
+    {
+      "id": 74065,
+      "enslaved_id": 74065,
+      "documented_name": "Amor\u00ed"
+    },
+    {
+      "id": 74066,
+      "enslaved_id": 74066,
+      "documented_name": "Dog\u00fa"
+    },
+    {
+      "id": 74067,
+      "enslaved_id": 74067,
+      "documented_name": "Abiora"
+    },
+    {
+      "id": 74068,
+      "enslaved_id": 74068,
+      "documented_name": "Oyer\u00f3"
+    },
+    {
+      "id": 74069,
+      "enslaved_id": 74069,
+      "documented_name": "Cosibi"
+    },
+    {
+      "id": 74070,
+      "enslaved_id": 74070,
+      "documented_name": "Oguol\u00fa"
+    },
+    {
+      "id": 74071,
+      "enslaved_id": 74071,
+      "documented_name": "Aquibil\u00e9"
+    },
+    {
+      "id": 74072,
+      "enslaved_id": 74072,
+      "documented_name": "Abiod\u00fam"
+    },
+    {
+      "id": 74073,
+      "enslaved_id": 74073,
+      "documented_name": "Allevorisa"
+    },
+    {
+      "id": 74074,
+      "enslaved_id": 74074,
+      "documented_name": "Aya\u00ed"
+    },
+    {
+      "id": 74075,
+      "enslaved_id": 74075,
+      "documented_name": "Aquid\u00e9"
+    },
+    {
+      "id": 74076,
+      "enslaved_id": 74076,
+      "documented_name": "Ag\u00fcel\u00e9"
+    },
+    {
+      "id": 74077,
+      "enslaved_id": 74077,
+      "documented_name": "Mot\u00fan"
+    },
+    {
+      "id": 74078,
+      "enslaved_id": 74078,
+      "documented_name": "Lemileco"
+    },
+    {
+      "id": 74079,
+      "enslaved_id": 74079,
+      "documented_name": "Ign\u00e9"
+    },
+    {
+      "id": 74080,
+      "enslaved_id": 74080,
+      "documented_name": "Enil\u00e9"
+    },
+    {
+      "id": 74081,
+      "enslaved_id": 74081,
+      "documented_name": "Eduvita"
+    },
+    {
+      "id": 74082,
+      "enslaved_id": 74082,
+      "documented_name": "Viteco"
+    },
+    {
+      "id": 74083,
+      "enslaved_id": 74083,
+      "documented_name": "Oduville"
+    },
+    {
+      "id": 74084,
+      "enslaved_id": 74084,
+      "documented_name": "Igue"
+    },
+    {
+      "id": 74085,
+      "enslaved_id": 74085,
+      "documented_name": "Villel\u00fa"
+    },
+    {
+      "id": 74086,
+      "enslaved_id": 74086,
+      "documented_name": "Ai\u00e9que"
+    },
+    {
+      "id": 74087,
+      "enslaved_id": 74087,
+      "documented_name": "Villango"
+    },
+    {
+      "id": 74088,
+      "enslaved_id": 74088,
+      "documented_name": "Oloy\u00f3"
+    },
+    {
+      "id": 74089,
+      "enslaved_id": 74089,
+      "documented_name": "Adegual\u00e9"
+    },
+    {
+      "id": 74090,
+      "enslaved_id": 74090,
+      "documented_name": "Adeguala"
+    },
+    {
+      "id": 74091,
+      "enslaved_id": 74091,
+      "documented_name": "O\u00f1\u00facol\u00e1"
+    },
+    {
+      "id": 74092,
+      "enslaved_id": 74092,
+      "documented_name": "Aviola"
+    },
+    {
+      "id": 74093,
+      "enslaved_id": 74093,
+      "documented_name": "Uqu\u00e1nton"
+    },
+    {
+      "id": 74094,
+      "enslaved_id": 74094,
+      "documented_name": "Sublad\u00e9"
+    },
+    {
+      "id": 74095,
+      "enslaved_id": 74095,
+      "documented_name": "Ayoade"
+    },
+    {
+      "id": 74096,
+      "enslaved_id": 74096,
+      "documented_name": "Yesind\u00e9"
+    },
+    {
+      "id": 74097,
+      "enslaved_id": 74097,
+      "documented_name": "Yelemi"
+    },
+    {
+      "id": 74098,
+      "enslaved_id": 74098,
+      "documented_name": "Ayen\u00f3"
+    },
+    {
+      "id": 74099,
+      "enslaved_id": 74099,
+      "documented_name": "Sesil\u00f3"
+    },
+    {
+      "id": 74100,
+      "enslaved_id": 74100,
+      "documented_name": "Duf\u00f3up\u00e9"
+    },
+    {
+      "id": 74101,
+      "enslaved_id": 74101,
+      "documented_name": "Od\u00fa"
+    },
+    {
+      "id": 74102,
+      "enslaved_id": 74102,
+      "documented_name": "Mulad\u00e9"
+    },
+    {
+      "id": 74103,
+      "enslaved_id": 74103,
+      "documented_name": "Mulay\u00e9"
+    },
+    {
+      "id": 74104,
+      "enslaved_id": 74104,
+      "documented_name": "Faquelle"
+    },
+    {
+      "id": 74105,
+      "enslaved_id": 74105,
+      "documented_name": "Ecusum\u00ed"
+    },
+    {
+      "id": 74106,
+      "enslaved_id": 74106,
+      "documented_name": "Desam\u00e9"
+    },
+    {
+      "id": 74107,
+      "enslaved_id": 74107,
+      "documented_name": "F\u00e1u"
+    },
+    {
+      "id": 74108,
+      "enslaved_id": 74108,
+      "documented_name": "Odu"
+    },
+    {
+      "id": 74109,
+      "enslaved_id": 74109,
+      "documented_name": "Aya\u00ed"
+    },
+    {
+      "id": 74110,
+      "enslaved_id": 74110,
+      "documented_name": "Fayoqu\u00e9"
+    },
+    {
+      "id": 74111,
+      "enslaved_id": 74111,
+      "documented_name": "Efuiyom\u00ed"
+    },
+    {
+      "id": 74112,
+      "enslaved_id": 74112,
+      "documented_name": "Amaque"
+    },
+    {
+      "id": 74113,
+      "enslaved_id": 74113,
+      "documented_name": "Odumbac\u00fa"
+    },
+    {
+      "id": 74114,
+      "enslaved_id": 74114,
+      "documented_name": "Efutad\u00ed"
+    },
+    {
+      "id": 74115,
+      "enslaved_id": 74115,
+      "documented_name": "Mafibi"
+    },
+    {
+      "id": 74116,
+      "enslaved_id": 74116,
+      "documented_name": "Epup\u00e1no"
+    },
+    {
+      "id": 74117,
+      "enslaved_id": 74117,
+      "documented_name": "Efudipe"
+    },
+    {
+      "id": 74118,
+      "enslaved_id": 74118,
+      "documented_name": "Igue"
+    },
+    {
+      "id": 74119,
+      "enslaved_id": 74119,
+      "documented_name": "Lafemigu\u00e1"
+    },
+    {
+      "id": 74120,
+      "enslaved_id": 74120,
+      "documented_name": "Egullo\u00fa"
+    },
+    {
+      "id": 74121,
+      "enslaved_id": 74121,
+      "documented_name": "Ogull\u00ed"
+    },
+    {
+      "id": 74122,
+      "enslaved_id": 74122,
+      "documented_name": "Avid\u00f3"
+    },
+    {
+      "id": 74123,
+      "enslaved_id": 74123,
+      "documented_name": "Mariundia"
+    },
+    {
+      "id": 74124,
+      "enslaved_id": 74124,
+      "documented_name": "Adeg\u00fcemi"
+    },
+    {
+      "id": 74125,
+      "enslaved_id": 74125,
+      "documented_name": "Barunl\u00e1"
+    },
+    {
+      "id": 74126,
+      "enslaved_id": 74126,
+      "documented_name": "Oyeoguad\u00e9"
+    },
+    {
+      "id": 74127,
+      "enslaved_id": 74127,
+      "documented_name": "Lanilla"
+    },
+    {
+      "id": 74128,
+      "enslaved_id": 74128,
+      "documented_name": "Chiboc\u00fa"
+    },
+    {
+      "id": 74129,
+      "enslaved_id": 74129,
+      "documented_name": "Ebuchit\u00f3"
+    },
+    {
+      "id": 74130,
+      "enslaved_id": 74130,
+      "documented_name": "Ejuyem\u00ed"
+    },
+    {
+      "id": 74131,
+      "enslaved_id": 74131,
+      "documented_name": "Igue"
+    },
+    {
+      "id": 74132,
+      "enslaved_id": 74132,
+      "documented_name": "Bangual\u00e1"
+    },
+    {
+      "id": 74133,
+      "enslaved_id": 74133,
+      "documented_name": "Ayn\u00f3"
+    },
+    {
+      "id": 74134,
+      "enslaved_id": 74134,
+      "documented_name": "Eulom\u00ed"
+    },
+    {
+      "id": 74135,
+      "enslaved_id": 74135,
+      "documented_name": "Acono"
+    },
+    {
+      "id": 74136,
+      "enslaved_id": 74136,
+      "documented_name": "Odusol\u00e1"
+    },
+    {
+      "id": 74137,
+      "enslaved_id": 74137,
+      "documented_name": "Dad\u00e1"
+    },
+    {
+      "id": 74138,
+      "enslaved_id": 74138,
+      "documented_name": "Ecosumi"
+    },
+    {
+      "id": 74139,
+      "enslaved_id": 74139,
+      "documented_name": "Ocunum\u00ed"
+    },
+    {
+      "id": 74140,
+      "enslaved_id": 74140,
+      "documented_name": "Aqu\u00e9"
+    },
+    {
+      "id": 74141,
+      "enslaved_id": 74141,
+      "documented_name": "Fidemogu\u00e1"
+    },
+    {
+      "id": 74142,
+      "enslaved_id": 74142,
+      "documented_name": "Aya\u00ed"
+    },
+    {
+      "id": 74143,
+      "enslaved_id": 74143,
+      "documented_name": "Efu\u00f1ad\u00fa"
+    },
+    {
+      "id": 74144,
+      "enslaved_id": 74144,
+      "documented_name": "Arieg\u00fce"
+    },
+    {
+      "id": 74145,
+      "enslaved_id": 74145,
+      "documented_name": "Aquiv\u00e1"
+    },
+    {
+      "id": 74146,
+      "enslaved_id": 74146,
+      "documented_name": "Ani\u00f3l\u00e1"
+    },
+    {
+      "id": 74147,
+      "enslaved_id": 74147,
+      "documented_name": "Lamon\u00e9"
+    },
+    {
+      "id": 74148,
+      "enslaved_id": 74148,
+      "documented_name": "Efull\u00e9"
+    },
+    {
+      "id": 74149,
+      "enslaved_id": 74149,
+      "documented_name": "Malirig\u00fa"
+    },
+    {
+      "id": 74150,
+      "enslaved_id": 74150,
+      "documented_name": "Eus\u00fa"
+    },
+    {
+      "id": 74151,
+      "enslaved_id": 74151,
+      "documented_name": "Macall\u00fa"
+    },
+    {
+      "id": 74152,
+      "enslaved_id": 74152,
+      "documented_name": "Sabilli"
+    },
+    {
+      "id": 74153,
+      "enslaved_id": 74153,
+      "documented_name": "Lucubi"
+    },
+    {
+      "id": 74154,
+      "enslaved_id": 74154,
+      "documented_name": "Ays\u00ed"
+    },
+    {
+      "id": 74155,
+      "enslaved_id": 74155,
+      "documented_name": "Ayofec\u00fa"
+    },
+    {
+      "id": 74156,
+      "enslaved_id": 74156,
+      "documented_name": "Elecund\u00ed"
+    },
+    {
+      "id": 74157,
+      "enslaved_id": 74157,
+      "documented_name": "Orub\u00e1moc\u00f3"
+    },
+    {
+      "id": 74158,
+      "enslaved_id": 74158,
+      "documented_name": "Ay\u00edl\u00e9"
+    },
+    {
+      "id": 74159,
+      "enslaved_id": 74159,
+      "documented_name": "Omiraalli"
+    },
+    {
+      "id": 74160,
+      "enslaved_id": 74160,
+      "documented_name": "Odureco"
+    },
+    {
+      "id": 74161,
+      "enslaved_id": 74161,
+      "documented_name": "Ladim\u00fa"
+    },
+    {
+      "id": 74162,
+      "enslaved_id": 74162,
+      "documented_name": "Baulloco"
+    },
+    {
+      "id": 74163,
+      "enslaved_id": 74163,
+      "documented_name": "Oyenille"
+    },
+    {
+      "id": 74164,
+      "enslaved_id": 74164,
+      "documented_name": "Faboqu\u00e9"
+    },
+    {
+      "id": 74165,
+      "enslaved_id": 74165,
+      "documented_name": "Achac\u00fa"
+    },
+    {
+      "id": 74166,
+      "enslaved_id": 74166,
+      "documented_name": "Taro"
+    },
+    {
+      "id": 74167,
+      "enslaved_id": 74167,
+      "documented_name": "Fallel\u00fa"
+    },
+    {
+      "id": 74168,
+      "enslaved_id": 74168,
+      "documented_name": "Lagoll\u00ed"
+    },
+    {
+      "id": 74169,
+      "enslaved_id": 74169,
+      "documented_name": "Lacul\u00e9"
+    },
+    {
+      "id": 74170,
+      "enslaved_id": 74170,
+      "documented_name": "Eus\u00fa"
+    },
+    {
+      "id": 74171,
+      "enslaved_id": 74171,
+      "documented_name": "Mafull\u00fa"
+    },
+    {
+      "id": 74172,
+      "enslaved_id": 74172,
+      "documented_name": "Cudelli"
+    },
+    {
+      "id": 74173,
+      "enslaved_id": 74173,
+      "documented_name": "Ballom\u00ed"
+    },
+    {
+      "id": 74174,
+      "enslaved_id": 74174,
+      "documented_name": "Mataallo"
+    },
+    {
+      "id": 74175,
+      "enslaved_id": 74175,
+      "documented_name": "Oliquelle"
+    },
+    {
+      "id": 74176,
+      "enslaved_id": 74176,
+      "documented_name": "Fug\u00fco"
+    },
+    {
+      "id": 74177,
+      "enslaved_id": 74177,
+      "documented_name": "Mellegu\u00e9"
+    },
+    {
+      "id": 74178,
+      "enslaved_id": 74178,
+      "documented_name": "Baquelle"
+    },
+    {
+      "id": 74179,
+      "enslaved_id": 74179,
+      "documented_name": "Viade"
+    },
+    {
+      "id": 74180,
+      "enslaved_id": 74180,
+      "documented_name": "Aquilabi"
+    },
+    {
+      "id": 74181,
+      "enslaved_id": 74181,
+      "documented_name": "Odu"
+    },
+    {
+      "id": 74182,
+      "enslaved_id": 74182,
+      "documented_name": "Omoc\u00f3"
+    },
+    {
+      "id": 74183,
+      "enslaved_id": 74183,
+      "documented_name": "Fisico"
+    },
+    {
+      "id": 74184,
+      "enslaved_id": 74184,
+      "documented_name": "Jama"
+    },
+    {
+      "id": 74185,
+      "enslaved_id": 74185,
+      "documented_name": "Bucari"
+    }
+  ],
+  "voyage_crew": {
+    "id": 1249,
+    "crew_voyage_outset": 30,
+    "crew_departure_last_port": null,
+    "crew_first_landing": null,
+    "crew_return_begin": null,
+    "crew_end_voyage": null,
+    "unspecified_crew": null,
+    "crew_died_before_first_trade": null,
+    "crew_died_while_ship_african": null,
+    "crew_died_middle_passage": null,
+    "crew_died_in_americas": null,
+    "crew_died_on_return_voyage": null,
+    "crew_died_complete_voyage": null,
+    "crew_deserted": null,
+    "voyage": 1266
+  },
+  "voyage_ship": {
+    "id": 1249,
+    "rig_of_vessel": {
+      "id": 4,
+      "name": "Brig",
+      "value": 1
+    },
+    "imputed_nationality": {
+      "id": 5,
+      "name": "Spain / Uruguay",
+      "value": 3
+    },
+    "nationality_ship": {
+      "id": 6,
+      "name": "Spain",
+      "value": 1
+    },
+    "ton_type": null,
+    "vessel_construction_place": null,
+    "vessel_construction_region": null,
+    "registered_place": null,
+    "registered_region": null,
+    "ship_name": "Negrito",
+    "tonnage": null,
+    "guns_mounted": null,
+    "year_of_construction": null,
+    "registered_year": null,
+    "tonnage_mod": null,
+    "voyage": 1266
+  },
+  "voyage_slaves_numbers": {
+    "id": 1249,
+    "slave_deaths_before_africa": null,
+    "slave_deaths_between_africa_america": 46,
+    "slave_deaths_between_arrival_and_sale": null,
+    "num_slaves_intended_first_port": null,
+    "num_slaves_intended_second_port": null,
+    "num_slaves_carried_first_port": null,
+    "num_slaves_carried_second_port": null,
+    "num_slaves_carried_third_port": null,
+    "total_num_slaves_purchased": null,
+    "total_num_slaves_dep_last_slaving_port": 534,
+    "total_num_slaves_arr_first_port_embark": 490,
+    "num_slaves_disembark_first_place": null,
+    "num_slaves_disembark_second_place": null,
+    "num_slaves_disembark_third_place": null,
+    "imp_total_num_slaves_embarked": 534,
+    "imp_total_num_slaves_disembarked": 488,
+    "imp_jamaican_cash_price": null,
+    "imp_mortality_during_voyage": 46,
+    "num_men_embark_first_port_purchase": null,
+    "num_women_embark_first_port_purchase": null,
+    "num_boy_embark_first_port_purchase": null,
+    "num_girl_embark_first_port_purchase": null,
+    "num_adult_embark_first_port_purchase": null,
+    "num_child_embark_first_port_purchase": null,
+    "num_infant_embark_first_port_purchase": null,
+    "num_males_embark_first_port_purchase": null,
+    "num_females_embark_first_port_purchase": null,
+    "num_men_died_middle_passage": null,
+    "num_women_died_middle_passage": null,
+    "num_boy_died_middle_passage": null,
+    "num_girl_died_middle_passage": null,
+    "num_adult_died_middle_passage": null,
+    "num_child_died_middle_passage": null,
+    "num_infant_died_middle_passage": null,
+    "num_males_died_middle_passage": null,
+    "num_females_died_middle_passage": null,
+    "num_men_disembark_first_landing": 269,
+    "num_women_disembark_first_landing": 87,
+    "num_boy_disembark_first_landing": 97,
+    "num_girl_disembark_first_landing": 24,
+    "num_adult_disembark_first_landing": null,
+    "num_child_disembark_first_landing": null,
+    "num_infant_disembark_first_landing": null,
+    "num_males_disembark_first_landing": null,
+    "num_females_disembark_first_landing": null,
+    "num_men_embark_second_port_purchase": null,
+    "num_women_embark_second_port_purchase": null,
+    "num_boy_embark_second_port_purchase": null,
+    "num_girl_embark_second_port_purchase": null,
+    "num_adult_embark_second_port_purchase": null,
+    "num_child_embark_second_port_purchase": null,
+    "num_infant_embark_second_port_purchase": null,
+    "num_males_embark_second_port_purchase": null,
+    "num_females_embark_second_port_purchase": null,
+    "num_men_embark_third_port_purchase": null,
+    "num_women_embark_third_port_purchase": null,
+    "num_boy_embark_third_port_purchase": null,
+    "num_girl_embark_third_port_purchase": null,
+    "num_adult_embark_third_port_purchase": null,
+    "num_child_embark_third_port_purchase": null,
+    "num_infant_embark_third_port_purchase": null,
+    "num_males_embark_third_port_purchase": null,
+    "num_females_embark_third_port_purchase": null,
+    "num_men_disembark_second_landing": null,
+    "num_women_disembark_second_landing": null,
+    "num_boy_disembark_second_landing": null,
+    "num_girl_disembark_second_landing": null,
+    "num_adult_disembark_second_landing": null,
+    "num_child_disembark_second_landing": null,
+    "num_infant_disembark_second_landing": null,
+    "num_males_disembark_second_landing": null,
+    "num_females_disembark_second_landing": null,
+    "imp_num_adult_embarked": null,
+    "imp_num_children_embarked": null,
+    "imp_num_male_embarked": null,
+    "imp_num_female_embarked": null,
+    "total_slaves_embarked_age_identified": null,
+    "total_slaves_embarked_gender_identified": null,
+    "imp_adult_death_middle_passage": null,
+    "imp_child_death_middle_passage": null,
+    "imp_male_death_middle_passage": null,
+    "imp_female_death_middle_passage": null,
+    "imp_num_adult_landed": 356,
+    "imp_num_child_landed": 121,
+    "imp_num_male_landed": 366,
+    "imp_num_female_landed": 111,
+    "total_slaves_landed_age_identified": 477,
+    "total_slaves_landed_gender_identified": 477,
+    "total_slaves_dept_or_arr_age_identified": 477,
+    "total_slaves_dept_or_arr_gender_identified": 477,
+    "imp_slaves_embarked_for_mortality": 534,
+    "imp_num_men_total": 269,
+    "imp_num_women_total": 87,
+    "imp_num_boy_total": 97,
+    "imp_num_girl_total": 24,
+    "imp_num_adult_total": 356,
+    "imp_num_child_total": 121,
+    "imp_num_males_total": 366,
+    "imp_num_females_total": 111,
+    "total_slaves_embarked_age_gender_identified": null,
+    "total_slaves_by_age_gender_identified_among_landed": 477,
+    "total_slaves_by_age_gender_identified_departure_or_arrival": 477,
+    "percentage_boys_among_embarked_slaves": null,
+    "child_ratio_among_embarked_slaves": null,
+    "percentage_girls_among_embarked_slaves": null,
+    "male_ratio_among_embarked_slaves": null,
+    "percentage_men_among_embarked_slaves": null,
+    "percentage_women_among_embarked_slaves": null,
+    "percentage_boys_among_landed_slaves": 0.20335,
+    "child_ratio_among_landed_slaves": 0.25367,
+    "percentage_girls_among_landed_slaves": 0.05031,
+    "male_ratio_among_landed_slaves": 0.7673,
+    "percentage_men_among_landed_slaves": 0.56394,
+    "percentage_women_among_landed_slaves": 0.18239,
+    "percentage_men": 0.56394,
+    "percentage_women": 0.18239,
+    "percentage_boy": 0.20335,
+    "percentage_girl": 0.05031,
+    "percentage_male": 0.7673,
+    "percentage_child": 0.25367,
+    "percentage_adult": 0.7463299999999999,
+    "percentage_female": 0.23270000000000002,
+    "imp_mortality_ratio": 0.09,
+    "voyage": 1266
+  },
+  "voyage_outcome": {
+    "id": 1249,
+    "outcome_owner": {
+      "id": 2,
+      "name": "Original goal thwarted (human agency)",
+      "value": 3
+    },
+    "outcome_slaves": {
+      "id": 1,
+      "name": "Slaves disembarked in Americas",
+      "value": 1
+    },
+    "particular_outcome": {
+      "id": 15,
+      "name": "Court of Mixed Commission, Havana, condemned",
+      "value": 122
+    },
+    "resistance": null,
+    "vessel_captured_outcome": {
+      "id": 4,
+      "name": "British",
+      "value": 3
+    },
+    "voyage": 1266
+  },
+  "voyage_groupings": {
+    "id": 25,
+    "name": "Brig, 1826-50",
+    "value": 20
+  },
+  "cargo": [],
+  "african_info": [],
+  "linked_voyages": [],
+  "voyage_id": 1266,
+  "voyage_in_cd_rom": true,
+  "last_update": "2023-11-03T22:20:52.560348Z",
+  "human_reviewed": false,
+  "dataset": 0,
+  "comments": null
+}

@@ -1,0 +1,3080 @@
+{
+  "id": 3489,
+  "sources": [
+    {
+      "id": 1366,
+      "page_ranges": [
+        "FO84/612,Adm,45.12.30,enc",
+        null
+      ],
+      "short_ref": {
+        "id": 563,
+        "name": "FO84"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">&#x201C;Foreign Office and Foreign and Commonwealth Office Records from 1782.&#x201D; Kew, UK, n.d. British National Archives. https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/foreign-commonwealth-correspondence-and-records-from-1782/.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "KJRB2T9N",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/KJRB2T9N",
+      "title": "Foreign Office and Foreign and Commonwealth Office records from 1782",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:38.695139Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: <p><em>British National Archives</em> (Kew), Foreign Office</p>\\DOC TYPE: Documentary source",
+      "order_in_shortref": null,
+      "source_type": 1,
+      "date": 12346
+    },
+    {
+      "id": 1564,
+      "page_ranges": [
+        "IUP,ST,29/315",
+        "IUP,ST,35/B/241",
+        "IUP,ST,47/A/15",
+        "IUP,ST,6/221,364",
+        null,
+        null,
+        null,
+        null
+      ],
+      "short_ref": {
+        "id": 760,
+        "name": "IUP,ST"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\"><i>Irish University Press Series of British Parliamentary Papers: Slave Trade</i>. Shannon, Irish University Press, n.d.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "E7432857",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/E7432857",
+      "title": "Irish University Press Series of British Parliamentary Papers: Slave Trade",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:37.947153Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: Great Britain, <i>Irish University Press Series of British Parliamentary Papers: Slave Trade</i>, vols. 1-90 (Shannon, 1969-74).\\DOC TYPE: Published source",
+      "order_in_shortref": null,
+      "source_type": 4,
+      "date": 12152
+    },
+    {
+      "id": 1787,
+      "page_ranges": [
+        "Meyer-Heiselberg,51",
+        null
+      ],
+      "short_ref": {
+        "id": 982,
+        "name": "Meyer-Heiselberg"
+      },
+      "item_url": null,
+      "thumbnail": null,
+      "bib": "<div class=\"csl-bib-body\" style=\"line-height: 1.35; padding-left: 1em; text-indent:-1em;\">\n  <div class=\"csl-entry\">Meyer-Heiselberg, Richard. <i>Notes from the Liberated African Department in the Archives at Fourah Bay College, Freetown, Sierra Leone</i>. Uppsala, SE: The Scandinavian Institute of African Studies, 1967. http://www.slaveryimages.org/s/slaveryimages/item/4037.</div>\n</div>",
+      "manifest_content": null,
+      "zotero_group_id": 4708800,
+      "zotero_item_id": "SG3NSUX8",
+      "zotero_grouplibrary_name": "sv-docs",
+      "zotero_url": "https://www.zotero.org/groups/sv-docs/items/SG3NSUX8",
+      "title": "Notes from the Liberated African Department in the Archives at Fourah Bay College, Freetown, Sierra Leone",
+      "is_british_library": false,
+      "last_updated": "2024-11-14T15:27:37.109791Z",
+      "human_reviewed": null,
+      "has_published_manifest": false,
+      "notes": "FULL REF: Meyer-Heiselberg, R., <i>Notes from the Liberated African Department in the Archives at Fourah Bay College, Freetown, Sierra Leone</i> (Uppsala, 1967).\\DOC TYPE: Published source",
+      "order_in_shortref": null,
+      "source_type": 4,
+      "date": 11933
+    }
+  ],
+  "voyage_itinerary": {
+    "id": 3302,
+    "port_of_departure": {
+      "id": 1440,
+      "uuid": "3edd28dc-9270-49e7-bf02-f1532984081d",
+      "name": "Bahia, place unspecified",
+      "longitude": -38.51083,
+      "latitude": -12.97111,
+      "value": 50299,
+      "parent": 91,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_first_port_emb": null,
+    "int_second_port_emb": null,
+    "int_first_region_purchase_slaves": null,
+    "int_second_region_purchase_slaves": null,
+    "int_first_port_dis": {
+      "id": 1440,
+      "uuid": "3edd28dc-9270-49e7-bf02-f1532984081d",
+      "name": "Bahia, place unspecified",
+      "longitude": -38.51083,
+      "latitude": -12.97111,
+      "value": 50299,
+      "parent": 91,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "int_second_port_dis": null,
+    "int_first_region_slave_landing": {
+      "id": 91,
+      "uuid": "8ac331e8-3e43-48c8-90fa-cbc8531c7651",
+      "name": "Bahia",
+      "longitude": -38.516667,
+      "latitude": -12.983333,
+      "value": 50200,
+      "parent": 5,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_principal_region_slave_dis": {
+      "id": 96,
+      "uuid": "3d8d483e-4229-4117-a968-abfc5f9f3209",
+      "name": "Sierra Leone",
+      "longitude": -13.67,
+      "latitude": 8.1,
+      "value": 60200,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "int_second_place_region_slave_landing": null,
+    "first_place_slave_purchase": {
+      "id": 1717,
+      "uuid": "3e294f29-3a61-4fa1-b4c0-81c0d3684f13",
+      "name": "Lagos, Onim",
+      "longitude": 3.39583,
+      "latitude": 6.45306,
+      "value": 60517,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "second_place_slave_purchase": null,
+    "third_place_slave_purchase": null,
+    "first_region_slave_emb": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "second_region_slave_emb": null,
+    "third_region_slave_emb": null,
+    "port_of_call_before_atl_crossing": null,
+    "first_landing_place": {
+      "id": 1584,
+      "uuid": "833e7c5e-9f72-44c4-af8a-cd0cabbb70da",
+      "name": "Freetown",
+      "longitude": -13.23,
+      "latitude": 8.49,
+      "value": 60207,
+      "parent": 96,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "second_landing_place": null,
+    "third_landing_place": null,
+    "first_landing_region": {
+      "id": 96,
+      "uuid": "3d8d483e-4229-4117-a968-abfc5f9f3209",
+      "name": "Sierra Leone",
+      "longitude": -13.67,
+      "latitude": 8.1,
+      "value": 60200,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "second_landing_region": null,
+    "third_landing_region": null,
+    "place_voyage_ended": null,
+    "region_of_return": null,
+    "broad_region_of_return": null,
+    "imp_port_voyage_begin": {
+      "id": 1440,
+      "uuid": "3edd28dc-9270-49e7-bf02-f1532984081d",
+      "name": "Bahia, place unspecified",
+      "longitude": -38.51083,
+      "latitude": -12.97111,
+      "value": 50299,
+      "parent": 91,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_region_voyage_begin": {
+      "id": 91,
+      "uuid": "8ac331e8-3e43-48c8-90fa-cbc8531c7651",
+      "name": "Bahia",
+      "longitude": -38.516667,
+      "latitude": -12.983333,
+      "value": 50200,
+      "parent": 5,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_broad_region_voyage_begin": {
+      "id": 5,
+      "uuid": "18b02ee5-a63b-4438-bb26-706704d269af",
+      "name": "Brazil",
+      "longitude": -39.75489,
+      "latitude": -18.864582,
+      "value": 50000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "principal_place_of_slave_purchase": {
+      "id": 1717,
+      "uuid": "3e294f29-3a61-4fa1-b4c0-81c0d3684f13",
+      "name": "Lagos, Onim",
+      "longitude": 3.39583,
+      "latitude": 6.45306,
+      "value": 60517,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_place_of_slave_purchase": {
+      "id": 1717,
+      "uuid": "3e294f29-3a61-4fa1-b4c0-81c0d3684f13",
+      "name": "Lagos, Onim",
+      "longitude": 3.39583,
+      "latitude": 6.45306,
+      "value": 60517,
+      "parent": 99,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_region_of_slave_purchase": {
+      "id": 99,
+      "uuid": "ecae66b8-3656-4480-adc8-472cd3b81ed4",
+      "name": "Bight of Benin",
+      "longitude": 2.33,
+      "latitude": 5.27,
+      "value": 60500,
+      "parent": 6,
+      "location_type": 2,
+      "spatial_extent": null
+    },
+    "imp_broad_region_of_slave_purchase": {
+      "id": 6,
+      "uuid": "31fbfb92-a521-4d83-a9a4-316ff7f56515",
+      "name": "Africa",
+      "longitude": 9.343897,
+      "latitude": 0.054033,
+      "value": 60000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "principal_port_of_slave_dis": {
+      "id": 1584,
+      "uuid": "833e7c5e-9f72-44c4-af8a-cd0cabbb70da",
+      "name": "Freetown",
+      "longitude": -13.23,
+      "latitude": 8.49,
+      "value": 60207,
+      "parent": 96,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_principal_port_slave_dis": {
+      "id": 1584,
+      "uuid": "833e7c5e-9f72-44c4-af8a-cd0cabbb70da",
+      "name": "Freetown",
+      "longitude": -13.23,
+      "latitude": 8.49,
+      "value": 60207,
+      "parent": 96,
+      "location_type": 3,
+      "spatial_extent": null
+    },
+    "imp_broad_region_slave_dis": {
+      "id": 6,
+      "uuid": "31fbfb92-a521-4d83-a9a4-316ff7f56515",
+      "name": "Africa",
+      "longitude": 9.343897,
+      "latitude": 0.054033,
+      "value": 60000,
+      "parent": null,
+      "location_type": 1,
+      "spatial_extent": null
+    },
+    "int_third_port_dis": null,
+    "int_fourth_port_dis": null,
+    "int_third_place_region_slave_landing": null,
+    "int_fourth_place_region_slave_landing": null,
+    "ports_called_buying_slaves": null,
+    "number_of_ports_of_call": null,
+    "voyage": 3489
+  },
+  "voyage_dates": {
+    "id": 3302,
+    "voyage_began_sparsedate": null,
+    "slave_purchase_began_sparsedate": null,
+    "vessel_left_port_sparsedate": {
+      "id": 16732,
+      "day": 31,
+      "month": 7,
+      "year": 1845
+    },
+    "first_dis_of_slaves_sparsedate": {
+      "id": 16733,
+      "day": null,
+      "month": 8,
+      "year": 1845
+    },
+    "date_departed_africa_sparsedate": {
+      "id": 16734,
+      "day": 31,
+      "month": 7,
+      "year": 1845
+    },
+    "arrival_at_second_place_landing_sparsedate": null,
+    "third_dis_of_slaves_sparsedate": null,
+    "departure_last_place_of_landing_sparsedate": null,
+    "voyage_completed_sparsedate": null,
+    "imp_voyage_began_sparsedate": {
+      "id": 16735,
+      "day": null,
+      "month": null,
+      "year": 1845
+    },
+    "imp_departed_africa_sparsedate": {
+      "id": 16736,
+      "day": null,
+      "month": null,
+      "year": 1845
+    },
+    "imp_arrival_at_port_of_dis_sparsedate": {
+      "id": 16737,
+      "day": null,
+      "month": null,
+      "year": 1845
+    },
+    "length_middle_passage_days": 20,
+    "imp_length_home_to_disembark": null,
+    "imp_length_leaving_africa_to_disembark": 20,
+    "voyage": 3489
+  },
+  "enslavers": [
+    {
+      "roles": "Captain, Investor",
+      "enslaver": {
+        "id": 1022874,
+        "birth_place": null,
+        "death_place": null,
+        "principal_location": null,
+        "principal_alias": "Silveira, Andre Pinto da",
+        "birth_year": null,
+        "birth_month": null,
+        "birth_day": null,
+        "death_year": null,
+        "death_month": null,
+        "death_day": null,
+        "father_name": null,
+        "father_occupation": null,
+        "mother_name": null,
+        "probate_date": null,
+        "will_value_pounds": null,
+        "will_value_dollars": null,
+        "will_court": null,
+        "notes": null,
+        "is_natural_person": true,
+        "last_updated": "2023-11-04T02:36:18.300920Z",
+        "number_enslaved_people": null,
+        "human_reviewed": false,
+        "legacy_id": 1022874
+      }
+    },
+    {
+      "roles": "Captain",
+      "enslaver": {
+        "id": 1023128,
+        "birth_place": null,
+        "death_place": null,
+        "principal_location": null,
+        "principal_alias": "Silva, J B da",
+        "birth_year": null,
+        "birth_month": null,
+        "birth_day": null,
+        "death_year": null,
+        "death_month": null,
+        "death_day": null,
+        "father_name": null,
+        "father_occupation": null,
+        "mother_name": null,
+        "probate_date": null,
+        "will_value_pounds": null,
+        "will_value_dollars": null,
+        "will_court": null,
+        "notes": null,
+        "is_natural_person": true,
+        "last_updated": "2023-11-04T02:36:24.508330Z",
+        "number_enslaved_people": null,
+        "human_reviewed": false,
+        "legacy_id": 1023128
+      }
+    }
+  ],
+  "named_enslaved_people": [
+    {
+      "id": 176000,
+      "enslaved_id": 176000,
+      "documented_name": "Quarnee"
+    },
+    {
+      "id": 176001,
+      "enslaved_id": 176001,
+      "documented_name": "Larbordae"
+    },
+    {
+      "id": 176002,
+      "enslaved_id": 176002,
+      "documented_name": "Arcartee"
+    },
+    {
+      "id": 176003,
+      "enslaved_id": 176003,
+      "documented_name": "Arjai"
+    },
+    {
+      "id": 176004,
+      "enslaved_id": 176004,
+      "documented_name": "Goosee"
+    },
+    {
+      "id": 176005,
+      "enslaved_id": 176005,
+      "documented_name": "Danganor"
+    },
+    {
+      "id": 176006,
+      "enslaved_id": 176006,
+      "documented_name": "Osesarpar"
+    },
+    {
+      "id": 176007,
+      "enslaved_id": 176007,
+      "documented_name": "Arcumetor"
+    },
+    {
+      "id": 176008,
+      "enslaved_id": 176008,
+      "documented_name": "Arjai"
+    },
+    {
+      "id": 176009,
+      "enslaved_id": 176009,
+      "documented_name": "Ochoe"
+    },
+    {
+      "id": 176010,
+      "enslaved_id": 176010,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176011,
+      "enslaved_id": 176011,
+      "documented_name": "Arjebosee"
+    },
+    {
+      "id": 176012,
+      "enslaved_id": 176012,
+      "documented_name": "Arjebuloo"
+    },
+    {
+      "id": 176013,
+      "enslaved_id": 176013,
+      "documented_name": "Melaryae"
+    },
+    {
+      "id": 176014,
+      "enslaved_id": 176014,
+      "documented_name": "Darconar"
+    },
+    {
+      "id": 176015,
+      "enslaved_id": 176015,
+      "documented_name": "Arjice"
+    },
+    {
+      "id": 176016,
+      "enslaved_id": 176016,
+      "documented_name": "Efarsae"
+    },
+    {
+      "id": 176017,
+      "enslaved_id": 176017,
+      "documented_name": "Arkedalar"
+    },
+    {
+      "id": 176018,
+      "enslaved_id": 176018,
+      "documented_name": "Ardoobur"
+    },
+    {
+      "id": 176019,
+      "enslaved_id": 176019,
+      "documented_name": "Ogufalarchor"
+    },
+    {
+      "id": 176020,
+      "enslaved_id": 176020,
+      "documented_name": "Ochorfoo"
+    },
+    {
+      "id": 176021,
+      "enslaved_id": 176021,
+      "documented_name": "Cutarogee"
+    },
+    {
+      "id": 176023,
+      "enslaved_id": 176023,
+      "documented_name": "Abooduliar"
+    },
+    {
+      "id": 176024,
+      "enslaved_id": 176024,
+      "documented_name": "Artae"
+    },
+    {
+      "id": 176025,
+      "enslaved_id": 176025,
+      "documented_name": "Ecarloo"
+    },
+    {
+      "id": 176026,
+      "enslaved_id": 176026,
+      "documented_name": "Okebegee"
+    },
+    {
+      "id": 176027,
+      "enslaved_id": 176027,
+      "documented_name": "Kubasbae"
+    },
+    {
+      "id": 176028,
+      "enslaved_id": 176028,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176029,
+      "enslaved_id": 176029,
+      "documented_name": "Ogusartor"
+    },
+    {
+      "id": 176030,
+      "enslaved_id": 176030,
+      "documented_name": "Omolubebar"
+    },
+    {
+      "id": 176031,
+      "enslaved_id": 176031,
+      "documented_name": "Ochocoo"
+    },
+    {
+      "id": 176032,
+      "enslaved_id": 176032,
+      "documented_name": "Shoror"
+    },
+    {
+      "id": 176033,
+      "enslaved_id": 176033,
+      "documented_name": "Onee"
+    },
+    {
+      "id": 176034,
+      "enslaved_id": 176034,
+      "documented_name": "Orjae"
+    },
+    {
+      "id": 176035,
+      "enslaved_id": 176035,
+      "documented_name": "Dowoo"
+    },
+    {
+      "id": 176036,
+      "enslaved_id": 176036,
+      "documented_name": "Omulee"
+    },
+    {
+      "id": 176037,
+      "enslaved_id": 176037,
+      "documented_name": "Owodenee"
+    },
+    {
+      "id": 176038,
+      "enslaved_id": 176038,
+      "documented_name": "Orunar"
+    },
+    {
+      "id": 176039,
+      "enslaved_id": 176039,
+      "documented_name": "Farboro"
+    },
+    {
+      "id": 176040,
+      "enslaved_id": 176040,
+      "documented_name": "Lartamagee"
+    },
+    {
+      "id": 176041,
+      "enslaved_id": 176041,
+      "documented_name": "Egecaleh"
+    },
+    {
+      "id": 176042,
+      "enslaved_id": 176042,
+      "documented_name": "Musarmoo"
+    },
+    {
+      "id": 176043,
+      "enslaved_id": 176043,
+      "documented_name": "Fargecoo"
+    },
+    {
+      "id": 176044,
+      "enslaved_id": 176044,
+      "documented_name": "Ologubee"
+    },
+    {
+      "id": 176045,
+      "enslaved_id": 176045,
+      "documented_name": "Doworjoo"
+    },
+    {
+      "id": 176046,
+      "enslaved_id": 176046,
+      "documented_name": "Larlortar"
+    },
+    {
+      "id": 176047,
+      "enslaved_id": 176047,
+      "documented_name": "Ocubar"
+    },
+    {
+      "id": 176048,
+      "enslaved_id": 176048,
+      "documented_name": "Adalogoo"
+    },
+    {
+      "id": 176049,
+      "enslaved_id": 176049,
+      "documented_name": "Chodupeh"
+    },
+    {
+      "id": 176050,
+      "enslaved_id": 176050,
+      "documented_name": "Oyacoo"
+    },
+    {
+      "id": 176051,
+      "enslaved_id": 176051,
+      "documented_name": "Fartagor"
+    },
+    {
+      "id": 176052,
+      "enslaved_id": 176052,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176053,
+      "enslaved_id": 176053,
+      "documented_name": "Ardawoso"
+    },
+    {
+      "id": 176054,
+      "enslaved_id": 176054,
+      "documented_name": "Charguwar"
+    },
+    {
+      "id": 176055,
+      "enslaved_id": 176055,
+      "documented_name": "Jarloo"
+    },
+    {
+      "id": 176056,
+      "enslaved_id": 176056,
+      "documented_name": "Sumana"
+    },
+    {
+      "id": 176057,
+      "enslaved_id": 176057,
+      "documented_name": "Tamelochar"
+    },
+    {
+      "id": 176058,
+      "enslaved_id": 176058,
+      "documented_name": "Sargobeyee"
+    },
+    {
+      "id": 176059,
+      "enslaved_id": 176059,
+      "documented_name": "Dartardoe"
+    },
+    {
+      "id": 176060,
+      "enslaved_id": 176060,
+      "documented_name": "Marmar"
+    },
+    {
+      "id": 176061,
+      "enslaved_id": 176061,
+      "documented_name": "Orjea"
+    },
+    {
+      "id": 176062,
+      "enslaved_id": 176062,
+      "documented_name": "Ochor"
+    },
+    {
+      "id": 176063,
+      "enslaved_id": 176063,
+      "documented_name": "Marbalur"
+    },
+    {
+      "id": 176064,
+      "enslaved_id": 176064,
+      "documented_name": "Arkesurroo"
+    },
+    {
+      "id": 176065,
+      "enslaved_id": 176065,
+      "documented_name": "Sargee"
+    },
+    {
+      "id": 176066,
+      "enslaved_id": 176066,
+      "documented_name": "Argea"
+    },
+    {
+      "id": 176067,
+      "enslaved_id": 176067,
+      "documented_name": "Suchajoo"
+    },
+    {
+      "id": 176068,
+      "enslaved_id": 176068,
+      "documented_name": "Asar"
+    },
+    {
+      "id": 176069,
+      "enslaved_id": 176069,
+      "documented_name": "Ardarbejoo"
+    },
+    {
+      "id": 176070,
+      "enslaved_id": 176070,
+      "documented_name": "Ocosular"
+    },
+    {
+      "id": 176071,
+      "enslaved_id": 176071,
+      "documented_name": "Arubarmee"
+    },
+    {
+      "id": 176072,
+      "enslaved_id": 176072,
+      "documented_name": "Ogulorlar"
+    },
+    {
+      "id": 176073,
+      "enslaved_id": 176073,
+      "documented_name": "Ogoosoryar"
+    },
+    {
+      "id": 176074,
+      "enslaved_id": 176074,
+      "documented_name": "Ogooyorkor"
+    },
+    {
+      "id": 176075,
+      "enslaved_id": 176075,
+      "documented_name": "Ochor"
+    },
+    {
+      "id": 176076,
+      "enslaved_id": 176076,
+      "documented_name": "Ardailarboo"
+    },
+    {
+      "id": 176077,
+      "enslaved_id": 176077,
+      "documented_name": "Catecoo"
+    },
+    {
+      "id": 176078,
+      "enslaved_id": 176078,
+      "documented_name": "Capalusee"
+    },
+    {
+      "id": 176079,
+      "enslaved_id": 176079,
+      "documented_name": "Marbarocu"
+    },
+    {
+      "id": 176080,
+      "enslaved_id": 176080,
+      "documented_name": "Marmar"
+    },
+    {
+      "id": 176081,
+      "enslaved_id": 176081,
+      "documented_name": "Ochor"
+    },
+    {
+      "id": 176082,
+      "enslaved_id": 176082,
+      "documented_name": "Ayetarmorbee"
+    },
+    {
+      "id": 176083,
+      "enslaved_id": 176083,
+      "documented_name": "Ardaobar"
+    },
+    {
+      "id": 176084,
+      "enslaved_id": 176084,
+      "documented_name": "Dargea"
+    },
+    {
+      "id": 176085,
+      "enslaved_id": 176085,
+      "documented_name": "Orofoadae"
+    },
+    {
+      "id": 176086,
+      "enslaved_id": 176086,
+      "documented_name": "Dargornar"
+    },
+    {
+      "id": 176087,
+      "enslaved_id": 176087,
+      "documented_name": "Egefarboco"
+    },
+    {
+      "id": 176088,
+      "enslaved_id": 176088,
+      "documented_name": "Carwojuar"
+    },
+    {
+      "id": 176089,
+      "enslaved_id": 176089,
+      "documented_name": "Arcarsae"
+    },
+    {
+      "id": 176090,
+      "enslaved_id": 176090,
+      "documented_name": "Arsetarsolae"
+    },
+    {
+      "id": 176091,
+      "enslaved_id": 176091,
+      "documented_name": "Marmar"
+    },
+    {
+      "id": 176092,
+      "enslaved_id": 176092,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176093,
+      "enslaved_id": 176093,
+      "documented_name": "Akoneyae"
+    },
+    {
+      "id": 176094,
+      "enslaved_id": 176094,
+      "documented_name": "Arsubar"
+    },
+    {
+      "id": 176095,
+      "enslaved_id": 176095,
+      "documented_name": "Moneagoo"
+    },
+    {
+      "id": 176096,
+      "enslaved_id": 176096,
+      "documented_name": "Esasu"
+    },
+    {
+      "id": 176097,
+      "enslaved_id": 176097,
+      "documented_name": "Arsardoo"
+    },
+    {
+      "id": 176098,
+      "enslaved_id": 176098,
+      "documented_name": "Oparmaku"
+    },
+    {
+      "id": 176099,
+      "enslaved_id": 176099,
+      "documented_name": "Garnee"
+    },
+    {
+      "id": 176100,
+      "enslaved_id": 176100,
+      "documented_name": "Farnenee"
+    },
+    {
+      "id": 176101,
+      "enslaved_id": 176101,
+      "documented_name": "Tefarsar"
+    },
+    {
+      "id": 176102,
+      "enslaved_id": 176102,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176103,
+      "enslaved_id": 176103,
+      "documented_name": "Carbar"
+    },
+    {
+      "id": 176104,
+      "enslaved_id": 176104,
+      "documented_name": "Fordayarmoo"
+    },
+    {
+      "id": 176105,
+      "enslaved_id": 176105,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176106,
+      "enslaved_id": 176106,
+      "documented_name": "Ardarwoo"
+    },
+    {
+      "id": 176107,
+      "enslaved_id": 176107,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176108,
+      "enslaved_id": 176108,
+      "documented_name": "Ardayorcor"
+    },
+    {
+      "id": 176109,
+      "enslaved_id": 176109,
+      "documented_name": "Arbeodoo"
+    },
+    {
+      "id": 176110,
+      "enslaved_id": 176110,
+      "documented_name": "Osoo"
+    },
+    {
+      "id": 176111,
+      "enslaved_id": 176111,
+      "documented_name": "Arlawoo"
+    },
+    {
+      "id": 176112,
+      "enslaved_id": 176112,
+      "documented_name": "Mecardae"
+    },
+    {
+      "id": 176113,
+      "enslaved_id": 176113,
+      "documented_name": "Conuorcoo"
+    },
+    {
+      "id": 176114,
+      "enslaved_id": 176114,
+      "documented_name": "Arwodoo"
+    },
+    {
+      "id": 176115,
+      "enslaved_id": 176115,
+      "documented_name": "Oncordae"
+    },
+    {
+      "id": 176116,
+      "enslaved_id": 176116,
+      "documented_name": "Dangarnor"
+    },
+    {
+      "id": 176117,
+      "enslaved_id": 176117,
+      "documented_name": "Andangee"
+    },
+    {
+      "id": 176118,
+      "enslaved_id": 176118,
+      "documented_name": "Arbardae"
+    },
+    {
+      "id": 176119,
+      "enslaved_id": 176119,
+      "documented_name": "Oleshor"
+    },
+    {
+      "id": 176120,
+      "enslaved_id": 176120,
+      "documented_name": "Bremah"
+    },
+    {
+      "id": 176121,
+      "enslaved_id": 176121,
+      "documented_name": "Challar"
+    },
+    {
+      "id": 176122,
+      "enslaved_id": 176122,
+      "documented_name": "Argacolee"
+    },
+    {
+      "id": 176123,
+      "enslaved_id": 176123,
+      "documented_name": "Ardamayor"
+    },
+    {
+      "id": 176124,
+      "enslaved_id": 176124,
+      "documented_name": "Fardayoe"
+    },
+    {
+      "id": 176125,
+      "enslaved_id": 176125,
+      "documented_name": "Semcayae"
+    },
+    {
+      "id": 176126,
+      "enslaved_id": 176126,
+      "documented_name": "Artae"
+    },
+    {
+      "id": 176127,
+      "enslaved_id": 176127,
+      "documented_name": "Arlandae"
+    },
+    {
+      "id": 176128,
+      "enslaved_id": 176128,
+      "documented_name": "Farrogoo"
+    },
+    {
+      "id": 176129,
+      "enslaved_id": 176129,
+      "documented_name": "Once"
+    },
+    {
+      "id": 176130,
+      "enslaved_id": 176130,
+      "documented_name": "Furamocoo"
+    },
+    {
+      "id": 176131,
+      "enslaved_id": 176131,
+      "documented_name": "Colae"
+    },
+    {
+      "id": 176132,
+      "enslaved_id": 176132,
+      "documented_name": "Lawoonee"
+    },
+    {
+      "id": 176133,
+      "enslaved_id": 176133,
+      "documented_name": "Lameyor"
+    },
+    {
+      "id": 176134,
+      "enslaved_id": 176134,
+      "documented_name": "Artarra"
+    },
+    {
+      "id": 176135,
+      "enslaved_id": 176135,
+      "documented_name": "Dayarwar"
+    },
+    {
+      "id": 176136,
+      "enslaved_id": 176136,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176137,
+      "enslaved_id": 176137,
+      "documented_name": "Budunar"
+    },
+    {
+      "id": 176138,
+      "enslaved_id": 176138,
+      "documented_name": "Artae"
+    },
+    {
+      "id": 176139,
+      "enslaved_id": 176139,
+      "documented_name": "Amucomar"
+    },
+    {
+      "id": 176140,
+      "enslaved_id": 176140,
+      "documented_name": "Larlamor"
+    },
+    {
+      "id": 176141,
+      "enslaved_id": 176141,
+      "documented_name": "Owor"
+    },
+    {
+      "id": 176142,
+      "enslaved_id": 176142,
+      "documented_name": "Quarree"
+    },
+    {
+      "id": 176143,
+      "enslaved_id": 176143,
+      "documented_name": "Tapalek"
+    },
+    {
+      "id": 176144,
+      "enslaved_id": 176144,
+      "documented_name": "Orwoloo"
+    },
+    {
+      "id": 176145,
+      "enslaved_id": 176145,
+      "documented_name": "Omoneyou"
+    },
+    {
+      "id": 176146,
+      "enslaved_id": 176146,
+      "documented_name": "Esheye"
+    },
+    {
+      "id": 176147,
+      "enslaved_id": 176147,
+      "documented_name": "Ochor"
+    },
+    {
+      "id": 176148,
+      "enslaved_id": 176148,
+      "documented_name": "Osenar"
+    },
+    {
+      "id": 176149,
+      "enslaved_id": 176149,
+      "documented_name": "Farlordoe"
+    },
+    {
+      "id": 176150,
+      "enslaved_id": 176150,
+      "documented_name": "Molekae"
+    },
+    {
+      "id": 176151,
+      "enslaved_id": 176151,
+      "documented_name": "Artae"
+    },
+    {
+      "id": 176152,
+      "enslaved_id": 176152,
+      "documented_name": "Oboo"
+    },
+    {
+      "id": 176153,
+      "enslaved_id": 176153,
+      "documented_name": "Ayawoo"
+    },
+    {
+      "id": 176154,
+      "enslaved_id": 176154,
+      "documented_name": "Arkarbee"
+    },
+    {
+      "id": 176155,
+      "enslaved_id": 176155,
+      "documented_name": "Edowoo"
+    },
+    {
+      "id": 176156,
+      "enslaved_id": 176156,
+      "documented_name": "Marlojoe"
+    },
+    {
+      "id": 176157,
+      "enslaved_id": 176157,
+      "documented_name": "Goolarnar"
+    },
+    {
+      "id": 176158,
+      "enslaved_id": 176158,
+      "documented_name": "Barlacoo"
+    },
+    {
+      "id": 176159,
+      "enslaved_id": 176159,
+      "documented_name": "Arbeolek"
+    },
+    {
+      "id": 176160,
+      "enslaved_id": 176160,
+      "documented_name": "Odecudar"
+    },
+    {
+      "id": 176161,
+      "enslaved_id": 176161,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176162,
+      "enslaved_id": 176162,
+      "documented_name": "Ashoo"
+    },
+    {
+      "id": 176163,
+      "enslaved_id": 176163,
+      "documented_name": "Ayarbar"
+    },
+    {
+      "id": 176164,
+      "enslaved_id": 176164,
+      "documented_name": "Oludae"
+    },
+    {
+      "id": 176165,
+      "enslaved_id": 176165,
+      "documented_name": "Tarmormor"
+    },
+    {
+      "id": 176166,
+      "enslaved_id": 176166,
+      "documented_name": "Olabaju"
+    },
+    {
+      "id": 176167,
+      "enslaved_id": 176167,
+      "documented_name": "Arjae"
+    },
+    {
+      "id": 176168,
+      "enslaved_id": 176168,
+      "documented_name": "Oruguawoo"
+    },
+    {
+      "id": 176169,
+      "enslaved_id": 176169,
+      "documented_name": "Opewoomae"
+    },
+    {
+      "id": 176171,
+      "enslaved_id": 176171,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176172,
+      "enslaved_id": 176172,
+      "documented_name": "Yehbar"
+    },
+    {
+      "id": 176173,
+      "enslaved_id": 176173,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176174,
+      "enslaved_id": 176174,
+      "documented_name": "Saloso"
+    },
+    {
+      "id": 176175,
+      "enslaved_id": 176175,
+      "documented_name": "Soyar"
+    },
+    {
+      "id": 176176,
+      "enslaved_id": 176176,
+      "documented_name": "Majolafon"
+    },
+    {
+      "id": 176177,
+      "enslaved_id": 176177,
+      "documented_name": "Borlokar"
+    },
+    {
+      "id": 176178,
+      "enslaved_id": 176178,
+      "documented_name": "Ardocoo"
+    },
+    {
+      "id": 176179,
+      "enslaved_id": 176179,
+      "documented_name": "Amtaloo"
+    },
+    {
+      "id": 176180,
+      "enslaved_id": 176180,
+      "documented_name": "Farlocor"
+    },
+    {
+      "id": 176181,
+      "enslaved_id": 176181,
+      "documented_name": "Dargugoo"
+    },
+    {
+      "id": 176182,
+      "enslaved_id": 176182,
+      "documented_name": "Jebokee"
+    },
+    {
+      "id": 176183,
+      "enslaved_id": 176183,
+      "documented_name": "Asu"
+    },
+    {
+      "id": 176184,
+      "enslaved_id": 176184,
+      "documented_name": "Bancolae"
+    },
+    {
+      "id": 176185,
+      "enslaved_id": 176185,
+      "documented_name": "Narsame"
+    },
+    {
+      "id": 176186,
+      "enslaved_id": 176186,
+      "documented_name": "Eshau"
+    },
+    {
+      "id": 176187,
+      "enslaved_id": 176187,
+      "documented_name": "Corbor"
+    },
+    {
+      "id": 176188,
+      "enslaved_id": 176188,
+      "documented_name": "Oloju"
+    },
+    {
+      "id": 176189,
+      "enslaved_id": 176189,
+      "documented_name": "Odea"
+    },
+    {
+      "id": 176190,
+      "enslaved_id": 176190,
+      "documented_name": "Arluinbour"
+    },
+    {
+      "id": 176191,
+      "enslaved_id": 176191,
+      "documented_name": "Solua"
+    },
+    {
+      "id": 176192,
+      "enslaved_id": 176192,
+      "documented_name": "Corbosu"
+    },
+    {
+      "id": 176193,
+      "enslaved_id": 176193,
+      "documented_name": "Adoo"
+    },
+    {
+      "id": 176194,
+      "enslaved_id": 176194,
+      "documented_name": "Durdeh"
+    },
+    {
+      "id": 176195,
+      "enslaved_id": 176195,
+      "documented_name": "Soluboo"
+    },
+    {
+      "id": 176196,
+      "enslaved_id": 176196,
+      "documented_name": "Bambosa"
+    },
+    {
+      "id": 176197,
+      "enslaved_id": 176197,
+      "documented_name": "Ogutordae"
+    },
+    {
+      "id": 176198,
+      "enslaved_id": 176198,
+      "documented_name": "Arbarcobase"
+    },
+    {
+      "id": 176199,
+      "enslaved_id": 176199,
+      "documented_name": "Ashor"
+    },
+    {
+      "id": 176200,
+      "enslaved_id": 176200,
+      "documented_name": "Aryaarsur"
+    },
+    {
+      "id": 176201,
+      "enslaved_id": 176201,
+      "documented_name": "Ochor"
+    },
+    {
+      "id": 176202,
+      "enslaved_id": 176202,
+      "documented_name": "Arcwolue"
+    },
+    {
+      "id": 176203,
+      "enslaved_id": 176203,
+      "documented_name": "Bulambor"
+    },
+    {
+      "id": 176218,
+      "enslaved_id": 176218,
+      "documented_name": "Fanny Smith"
+    },
+    {
+      "id": 176219,
+      "enslaved_id": 176219,
+      "documented_name": "Arjae"
+    },
+    {
+      "id": 176220,
+      "enslaved_id": 176220,
+      "documented_name": "Ardawooya"
+    },
+    {
+      "id": 176221,
+      "enslaved_id": 176221,
+      "documented_name": "Farsamoryee"
+    },
+    {
+      "id": 176222,
+      "enslaved_id": 176222,
+      "documented_name": "Larmee"
+    },
+    {
+      "id": 176223,
+      "enslaved_id": 176223,
+      "documented_name": "Adajaju"
+    },
+    {
+      "id": 176224,
+      "enslaved_id": 176224,
+      "documented_name": "Egay"
+    },
+    {
+      "id": 176225,
+      "enslaved_id": 176225,
+      "documented_name": "Farlardae"
+    },
+    {
+      "id": 176226,
+      "enslaved_id": 176226,
+      "documented_name": "Equbalor"
+    },
+    {
+      "id": 176227,
+      "enslaved_id": 176227,
+      "documented_name": "Farsofoe"
+    },
+    {
+      "id": 176228,
+      "enslaved_id": 176228,
+      "documented_name": "Aryacbaryae"
+    },
+    {
+      "id": 176229,
+      "enslaved_id": 176229,
+      "documented_name": "Mayecu"
+    },
+    {
+      "id": 176230,
+      "enslaved_id": 176230,
+      "documented_name": "Larpormee"
+    },
+    {
+      "id": 176231,
+      "enslaved_id": 176231,
+      "documented_name": "Omonyae"
+    },
+    {
+      "id": 176232,
+      "enslaved_id": 176232,
+      "documented_name": "Oumoryae"
+    },
+    {
+      "id": 176233,
+      "enslaved_id": 176233,
+      "documented_name": "Etamacoo"
+    },
+    {
+      "id": 176234,
+      "enslaved_id": 176234,
+      "documented_name": "Aoewor"
+    },
+    {
+      "id": 176235,
+      "enslaved_id": 176235,
+      "documented_name": "Cavoar"
+    },
+    {
+      "id": 176236,
+      "enslaved_id": 176236,
+      "documented_name": "Larsewar"
+    },
+    {
+      "id": 176237,
+      "enslaved_id": 176237,
+      "documented_name": "Sobordae"
+    },
+    {
+      "id": 176238,
+      "enslaved_id": 176238,
+      "documented_name": "Oruarbar"
+    },
+    {
+      "id": 176239,
+      "enslaved_id": 176239,
+      "documented_name": "Osayee"
+    },
+    {
+      "id": 176240,
+      "enslaved_id": 176240,
+      "documented_name": "Osuberne"
+    },
+    {
+      "id": 176241,
+      "enslaved_id": 176241,
+      "documented_name": "Oguweh"
+    },
+    {
+      "id": 176242,
+      "enslaved_id": 176242,
+      "documented_name": "Eqay"
+    },
+    {
+      "id": 176243,
+      "enslaved_id": 176243,
+      "documented_name": "Osarterkee"
+    },
+    {
+      "id": 176244,
+      "enslaved_id": 176244,
+      "documented_name": "Arjai"
+    },
+    {
+      "id": 176245,
+      "enslaved_id": 176245,
+      "documented_name": "Warree"
+    },
+    {
+      "id": 176246,
+      "enslaved_id": 176246,
+      "documented_name": "Fardepeh"
+    },
+    {
+      "id": 176247,
+      "enslaved_id": 176247,
+      "documented_name": "Omorbardar"
+    },
+    {
+      "id": 176248,
+      "enslaved_id": 176248,
+      "documented_name": "Awoo"
+    },
+    {
+      "id": 176249,
+      "enslaved_id": 176249,
+      "documented_name": "Onee"
+    },
+    {
+      "id": 176250,
+      "enslaved_id": 176250,
+      "documented_name": "Yaryarbar"
+    },
+    {
+      "id": 176251,
+      "enslaved_id": 176251,
+      "documented_name": "Fartamar"
+    },
+    {
+      "id": 176252,
+      "enslaved_id": 176252,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176253,
+      "enslaved_id": 176253,
+      "documented_name": "Moneyapay"
+    },
+    {
+      "id": 176254,
+      "enslaved_id": 176254,
+      "documented_name": "Ardayasmee"
+    },
+    {
+      "id": 176255,
+      "enslaved_id": 176255,
+      "documented_name": "Oresardarae"
+    },
+    {
+      "id": 176256,
+      "enslaved_id": 176256,
+      "documented_name": "Moroubardae"
+    },
+    {
+      "id": 176257,
+      "enslaved_id": 176257,
+      "documented_name": "Osabamee"
+    },
+    {
+      "id": 176258,
+      "enslaved_id": 176258,
+      "documented_name": "Marbumetee"
+    },
+    {
+      "id": 176259,
+      "enslaved_id": 176259,
+      "documented_name": "Farjero"
+    },
+    {
+      "id": 176260,
+      "enslaved_id": 176260,
+      "documented_name": "Ogubumbee"
+    },
+    {
+      "id": 176261,
+      "enslaved_id": 176261,
+      "documented_name": "Adacame"
+    },
+    {
+      "id": 176262,
+      "enslaved_id": 176262,
+      "documented_name": "Arsartoo"
+    },
+    {
+      "id": 176263,
+      "enslaved_id": 176263,
+      "documented_name": "Ocutaryor"
+    },
+    {
+      "id": 176264,
+      "enslaved_id": 176264,
+      "documented_name": "Arjoncar"
+    },
+    {
+      "id": 176265,
+      "enslaved_id": 176265,
+      "documented_name": "Barlajoco"
+    },
+    {
+      "id": 176266,
+      "enslaved_id": 176266,
+      "documented_name": "Lebartee"
+    },
+    {
+      "id": 176267,
+      "enslaved_id": 176267,
+      "documented_name": "Artombee"
+    },
+    {
+      "id": 176268,
+      "enslaved_id": 176268,
+      "documented_name": "Anner"
+    },
+    {
+      "id": 176269,
+      "enslaved_id": 176269,
+      "documented_name": "Anubacoo"
+    },
+    {
+      "id": 176270,
+      "enslaved_id": 176270,
+      "documented_name": "Morloryar"
+    },
+    {
+      "id": 176271,
+      "enslaved_id": 176271,
+      "documented_name": "Aalornebae"
+    },
+    {
+      "id": 176272,
+      "enslaved_id": 176272,
+      "documented_name": "Arsupae"
+    },
+    {
+      "id": 176273,
+      "enslaved_id": 176273,
+      "documented_name": "Omoryae"
+    },
+    {
+      "id": 176274,
+      "enslaved_id": 176274,
+      "documented_name": "Anoo"
+    },
+    {
+      "id": 176275,
+      "enslaved_id": 176275,
+      "documented_name": "Anoosbellee"
+    },
+    {
+      "id": 176276,
+      "enslaved_id": 176276,
+      "documented_name": "Jarmolu"
+    },
+    {
+      "id": 176277,
+      "enslaved_id": 176277,
+      "documented_name": "Annsoo"
+    },
+    {
+      "id": 176278,
+      "enslaved_id": 176278,
+      "documented_name": "Oguteber"
+    },
+    {
+      "id": 176279,
+      "enslaved_id": 176279,
+      "documented_name": "Fartuca"
+    },
+    {
+      "id": 176280,
+      "enslaved_id": 176280,
+      "documented_name": "Moloo"
+    },
+    {
+      "id": 176281,
+      "enslaved_id": 176281,
+      "documented_name": "Annee"
+    },
+    {
+      "id": 176282,
+      "enslaved_id": 176282,
+      "documented_name": "Ocujerpeh"
+    },
+    {
+      "id": 176283,
+      "enslaved_id": 176283,
+      "documented_name": "Odubee"
+    },
+    {
+      "id": 176284,
+      "enslaved_id": 176284,
+      "documented_name": "Osutooweh"
+    },
+    {
+      "id": 176285,
+      "enslaved_id": 176285,
+      "documented_name": "Ockatae"
+    },
+    {
+      "id": 176286,
+      "enslaved_id": 176286,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176287,
+      "enslaved_id": 176287,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176288,
+      "enslaved_id": 176288,
+      "documented_name": "Annumee"
+    },
+    {
+      "id": 176289,
+      "enslaved_id": 176289,
+      "documented_name": "Larmee"
+    },
+    {
+      "id": 176290,
+      "enslaved_id": 176290,
+      "documented_name": "Tuaoo"
+    },
+    {
+      "id": 176291,
+      "enslaved_id": 176291,
+      "documented_name": "Arbor"
+    },
+    {
+      "id": 176292,
+      "enslaved_id": 176292,
+      "documented_name": "Farweh"
+    },
+    {
+      "id": 176293,
+      "enslaved_id": 176293,
+      "documented_name": "Faryemecoo"
+    },
+    {
+      "id": 176295,
+      "enslaved_id": 176295,
+      "documented_name": "Dabamcar"
+    },
+    {
+      "id": 176296,
+      "enslaved_id": 176296,
+      "documented_name": "Oguhucor"
+    },
+    {
+      "id": 176297,
+      "enslaved_id": 176297,
+      "documented_name": "Annue"
+    },
+    {
+      "id": 176298,
+      "enslaved_id": 176298,
+      "documented_name": "Arsatoo"
+    },
+    {
+      "id": 176299,
+      "enslaved_id": 176299,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176300,
+      "enslaved_id": 176300,
+      "documented_name": "Farsapar"
+    },
+    {
+      "id": 176301,
+      "enslaved_id": 176301,
+      "documented_name": "Farobee"
+    },
+    {
+      "id": 176302,
+      "enslaved_id": 176302,
+      "documented_name": "Annue"
+    },
+    {
+      "id": 176303,
+      "enslaved_id": 176303,
+      "documented_name": "Mosee"
+    },
+    {
+      "id": 176304,
+      "enslaved_id": 176304,
+      "documented_name": "Larnoo"
+    },
+    {
+      "id": 176305,
+      "enslaved_id": 176305,
+      "documented_name": "Omoyee"
+    },
+    {
+      "id": 176306,
+      "enslaved_id": 176306,
+      "documented_name": "Sear"
+    },
+    {
+      "id": 176307,
+      "enslaved_id": 176307,
+      "documented_name": "Ocuomee"
+    },
+    {
+      "id": 176308,
+      "enslaved_id": 176308,
+      "documented_name": "Anosaree"
+    },
+    {
+      "id": 176309,
+      "enslaved_id": 176309,
+      "documented_name": "Dowoo"
+    },
+    {
+      "id": 176310,
+      "enslaved_id": 176310,
+      "documented_name": "Farcoasee"
+    },
+    {
+      "id": 176311,
+      "enslaved_id": 176311,
+      "documented_name": "Mortunubar"
+    },
+    {
+      "id": 176312,
+      "enslaved_id": 176312,
+      "documented_name": "Larmartoo"
+    },
+    {
+      "id": 176313,
+      "enslaved_id": 176313,
+      "documented_name": "Annoo"
+    },
+    {
+      "id": 176314,
+      "enslaved_id": 176314,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176315,
+      "enslaved_id": 176315,
+      "documented_name": "Fayorlar"
+    },
+    {
+      "id": 176316,
+      "enslaved_id": 176316,
+      "documented_name": "Oyasaro"
+    },
+    {
+      "id": 176317,
+      "enslaved_id": 176317,
+      "documented_name": "Faroo"
+    },
+    {
+      "id": 176318,
+      "enslaved_id": 176318,
+      "documented_name": "Sartupeh"
+    },
+    {
+      "id": 176319,
+      "enslaved_id": 176319,
+      "documented_name": "Edowoo"
+    },
+    {
+      "id": 176320,
+      "enslaved_id": 176320,
+      "documented_name": "Arjae"
+    },
+    {
+      "id": 176321,
+      "enslaved_id": 176321,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176322,
+      "enslaved_id": 176322,
+      "documented_name": "Molocoo"
+    },
+    {
+      "id": 176323,
+      "enslaved_id": 176323,
+      "documented_name": "Moneapae"
+    },
+    {
+      "id": 176324,
+      "enslaved_id": 176324,
+      "documented_name": "Jemafor"
+    },
+    {
+      "id": 176325,
+      "enslaved_id": 176325,
+      "documented_name": "Artocar"
+    },
+    {
+      "id": 176326,
+      "enslaved_id": 176326,
+      "documented_name": "Osbeomee"
+    },
+    {
+      "id": 176328,
+      "enslaved_id": 176328,
+      "documented_name": "Sargolargar"
+    },
+    {
+      "id": 176329,
+      "enslaved_id": 176329,
+      "documented_name": "Larbar"
+    },
+    {
+      "id": 176330,
+      "enslaved_id": 176330,
+      "documented_name": "Sartutor"
+    },
+    {
+      "id": 176331,
+      "enslaved_id": 176331,
+      "documented_name": "Waloboloo"
+    },
+    {
+      "id": 176332,
+      "enslaved_id": 176332,
+      "documented_name": "Osarwar"
+    },
+    {
+      "id": 176333,
+      "enslaved_id": 176333,
+      "documented_name": "Langemee"
+    },
+    {
+      "id": 176334,
+      "enslaved_id": 176334,
+      "documented_name": "Ojorcar"
+    },
+    {
+      "id": 176335,
+      "enslaved_id": 176335,
+      "documented_name": "Ajoanee"
+    },
+    {
+      "id": 176336,
+      "enslaved_id": 176336,
+      "documented_name": "Mojor"
+    },
+    {
+      "id": 176337,
+      "enslaved_id": 176337,
+      "documented_name": "Fartoncar"
+    },
+    {
+      "id": 176338,
+      "enslaved_id": 176338,
+      "documented_name": "Satobeh"
+    },
+    {
+      "id": 176339,
+      "enslaved_id": 176339,
+      "documented_name": "Ogufuncar"
+    },
+    {
+      "id": 176340,
+      "enslaved_id": 176340,
+      "documented_name": "Balamba"
+    },
+    {
+      "id": 176341,
+      "enslaved_id": 176341,
+      "documented_name": "Farwar"
+    },
+    {
+      "id": 176342,
+      "enslaved_id": 176342,
+      "documented_name": "Ocarlojeh"
+    },
+    {
+      "id": 176343,
+      "enslaved_id": 176343,
+      "documented_name": "Ocumwar"
+    },
+    {
+      "id": 176344,
+      "enslaved_id": 176344,
+      "documented_name": "Tamee"
+    },
+    {
+      "id": 176345,
+      "enslaved_id": 176345,
+      "documented_name": "Shebu"
+    },
+    {
+      "id": 176346,
+      "enslaved_id": 176346,
+      "documented_name": "Asyordalae"
+    },
+    {
+      "id": 176347,
+      "enslaved_id": 176347,
+      "documented_name": "Afuneyae"
+    },
+    {
+      "id": 176348,
+      "enslaved_id": 176348,
+      "documented_name": "Osubarcu"
+    },
+    {
+      "id": 176349,
+      "enslaved_id": 176349,
+      "documented_name": "Fargarcar"
+    },
+    {
+      "id": 176351,
+      "enslaved_id": 176351,
+      "documented_name": "Ardutebar"
+    },
+    {
+      "id": 176352,
+      "enslaved_id": 176352,
+      "documented_name": "Olumloo"
+    },
+    {
+      "id": 176353,
+      "enslaved_id": 176353,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176354,
+      "enslaved_id": 176354,
+      "documented_name": "Massor"
+    },
+    {
+      "id": 176355,
+      "enslaved_id": 176355,
+      "documented_name": "Sombalee"
+    },
+    {
+      "id": 176356,
+      "enslaved_id": 176356,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176357,
+      "enslaved_id": 176357,
+      "documented_name": "Farcuyumee"
+    },
+    {
+      "id": 176358,
+      "enslaved_id": 176358,
+      "documented_name": "Yadar"
+    },
+    {
+      "id": 176359,
+      "enslaved_id": 176359,
+      "documented_name": "Bebowar"
+    },
+    {
+      "id": 176360,
+      "enslaved_id": 176360,
+      "documented_name": "Warbamebar"
+    },
+    {
+      "id": 176361,
+      "enslaved_id": 176361,
+      "documented_name": "Awodoo"
+    },
+    {
+      "id": 176362,
+      "enslaved_id": 176362,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176363,
+      "enslaved_id": 176363,
+      "documented_name": "Copulue"
+    },
+    {
+      "id": 176364,
+      "enslaved_id": 176364,
+      "documented_name": "Megetoe"
+    },
+    {
+      "id": 176365,
+      "enslaved_id": 176365,
+      "documented_name": "Acardoe"
+    },
+    {
+      "id": 176366,
+      "enslaved_id": 176366,
+      "documented_name": "Arsardae"
+    },
+    {
+      "id": 176367,
+      "enslaved_id": 176367,
+      "documented_name": "Jocotodo"
+    },
+    {
+      "id": 176368,
+      "enslaved_id": 176368,
+      "documented_name": "Oshor"
+    },
+    {
+      "id": 176369,
+      "enslaved_id": 176369,
+      "documented_name": "Edartar"
+    },
+    {
+      "id": 176370,
+      "enslaved_id": 176370,
+      "documented_name": "Marbarbee"
+    },
+    {
+      "id": 176371,
+      "enslaved_id": 176371,
+      "documented_name": "Bamcolae"
+    },
+    {
+      "id": 176372,
+      "enslaved_id": 176372,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176373,
+      "enslaved_id": 176373,
+      "documented_name": "Oduladae"
+    },
+    {
+      "id": 176374,
+      "enslaved_id": 176374,
+      "documented_name": "Jarsado"
+    },
+    {
+      "id": 176375,
+      "enslaved_id": 176375,
+      "documented_name": "Arlarmasee"
+    },
+    {
+      "id": 176376,
+      "enslaved_id": 176376,
+      "documented_name": "Darcano"
+    },
+    {
+      "id": 176377,
+      "enslaved_id": 176377,
+      "documented_name": "Cumogee"
+    },
+    {
+      "id": 176378,
+      "enslaved_id": 176378,
+      "documented_name": "Coodursee"
+    },
+    {
+      "id": 176379,
+      "enslaved_id": 176379,
+      "documented_name": "Owoobarpeh"
+    },
+    {
+      "id": 176380,
+      "enslaved_id": 176380,
+      "documented_name": "Asacoo"
+    },
+    {
+      "id": 176381,
+      "enslaved_id": 176381,
+      "documented_name": "Arcwandae"
+    },
+    {
+      "id": 176382,
+      "enslaved_id": 176382,
+      "documented_name": "Oshor"
+    },
+    {
+      "id": 176383,
+      "enslaved_id": 176383,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176384,
+      "enslaved_id": 176384,
+      "documented_name": "Ogumolortee"
+    },
+    {
+      "id": 176385,
+      "enslaved_id": 176385,
+      "documented_name": "Onee"
+    },
+    {
+      "id": 176386,
+      "enslaved_id": 176386,
+      "documented_name": "Ardeyemee"
+    },
+    {
+      "id": 176387,
+      "enslaved_id": 176387,
+      "documented_name": "Obonoo"
+    },
+    {
+      "id": 176388,
+      "enslaved_id": 176388,
+      "documented_name": "Farboo"
+    },
+    {
+      "id": 176389,
+      "enslaved_id": 176389,
+      "documented_name": "Atemecoo"
+    },
+    {
+      "id": 176390,
+      "enslaved_id": 176390,
+      "documented_name": "Jarbamee"
+    },
+    {
+      "id": 176391,
+      "enslaved_id": 176391,
+      "documented_name": "Abajee"
+    },
+    {
+      "id": 176392,
+      "enslaved_id": 176392,
+      "documented_name": "Owoyamee"
+    },
+    {
+      "id": 176393,
+      "enslaved_id": 176393,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176394,
+      "enslaved_id": 176394,
+      "documented_name": "Masalor"
+    },
+    {
+      "id": 176395,
+      "enslaved_id": 176395,
+      "documented_name": "Awodargae"
+    },
+    {
+      "id": 176396,
+      "enslaved_id": 176396,
+      "documented_name": "Edewoo"
+    },
+    {
+      "id": 176397,
+      "enslaved_id": 176397,
+      "documented_name": "Oshor"
+    },
+    {
+      "id": 176398,
+      "enslaved_id": 176398,
+      "documented_name": "Darjar"
+    },
+    {
+      "id": 176399,
+      "enslaved_id": 176399,
+      "documented_name": "Asogor"
+    },
+    {
+      "id": 176400,
+      "enslaved_id": 176400,
+      "documented_name": "Ocumbae"
+    },
+    {
+      "id": 176401,
+      "enslaved_id": 176401,
+      "documented_name": "Arcremanoo"
+    },
+    {
+      "id": 176402,
+      "enslaved_id": 176402,
+      "documented_name": "Arceemboe"
+    },
+    {
+      "id": 176403,
+      "enslaved_id": 176403,
+      "documented_name": "Ombumee"
+    },
+    {
+      "id": 176404,
+      "enslaved_id": 176404,
+      "documented_name": "Opawasdu"
+    },
+    {
+      "id": 176405,
+      "enslaved_id": 176405,
+      "documented_name": "Asbedeh"
+    },
+    {
+      "id": 176406,
+      "enslaved_id": 176406,
+      "documented_name": "Obamudae"
+    },
+    {
+      "id": 176407,
+      "enslaved_id": 176407,
+      "documented_name": "Mejar"
+    },
+    {
+      "id": 176408,
+      "enslaved_id": 176408,
+      "documented_name": "Arbarsee"
+    },
+    {
+      "id": 176409,
+      "enslaved_id": 176409,
+      "documented_name": "Latosar"
+    },
+    {
+      "id": 176410,
+      "enslaved_id": 176410,
+      "documented_name": "Ovelegee"
+    },
+    {
+      "id": 176411,
+      "enslaved_id": 176411,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176412,
+      "enslaved_id": 176412,
+      "documented_name": "Songodar"
+    },
+    {
+      "id": 176413,
+      "enslaved_id": 176413,
+      "documented_name": "Ogumolatee"
+    },
+    {
+      "id": 176414,
+      "enslaved_id": 176414,
+      "documented_name": "Ortunu"
+    },
+    {
+      "id": 176415,
+      "enslaved_id": 176415,
+      "documented_name": "Agumatenee"
+    },
+    {
+      "id": 176416,
+      "enslaved_id": 176416,
+      "documented_name": "Fardum"
+    },
+    {
+      "id": 176417,
+      "enslaved_id": 176417,
+      "documented_name": "Faror"
+    },
+    {
+      "id": 176418,
+      "enslaved_id": 176418,
+      "documented_name": "Ogutee"
+    },
+    {
+      "id": 176419,
+      "enslaved_id": 176419,
+      "documented_name": "Ochor"
+    },
+    {
+      "id": 176420,
+      "enslaved_id": 176420,
+      "documented_name": "Darupar"
+    },
+    {
+      "id": 176421,
+      "enslaved_id": 176421,
+      "documented_name": "Adepae"
+    },
+    {
+      "id": 176422,
+      "enslaved_id": 176422,
+      "documented_name": "Artae"
+    },
+    {
+      "id": 176423,
+      "enslaved_id": 176423,
+      "documented_name": "Fardeme"
+    },
+    {
+      "id": 176424,
+      "enslaved_id": 176424,
+      "documented_name": "Fardobu"
+    },
+    {
+      "id": 176425,
+      "enslaved_id": 176425,
+      "documented_name": "Farwoshur"
+    },
+    {
+      "id": 176426,
+      "enslaved_id": 176426,
+      "documented_name": "Mesar"
+    },
+    {
+      "id": 176427,
+      "enslaved_id": 176427,
+      "documented_name": "Omoreawar"
+    },
+    {
+      "id": 176428,
+      "enslaved_id": 176428,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176429,
+      "enslaved_id": 176429,
+      "documented_name": "Arjea"
+    },
+    {
+      "id": 176430,
+      "enslaved_id": 176430,
+      "documented_name": "Ajardae"
+    },
+    {
+      "id": 176431,
+      "enslaved_id": 176431,
+      "documented_name": "Alu"
+    },
+    {
+      "id": 176432,
+      "enslaved_id": 176432,
+      "documented_name": "Owebamee"
+    },
+    {
+      "id": 176433,
+      "enslaved_id": 176433,
+      "documented_name": "Yaryardar"
+    },
+    {
+      "id": 176434,
+      "enslaved_id": 176434,
+      "documented_name": "Alarpidadue"
+    },
+    {
+      "id": 176435,
+      "enslaved_id": 176435,
+      "documented_name": "Enpolayee"
+    },
+    {
+      "id": 176436,
+      "enslaved_id": 176436,
+      "documented_name": "Ayea"
+    },
+    {
+      "id": 176448,
+      "enslaved_id": 176448,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176449,
+      "enslaved_id": 176449,
+      "documented_name": "Osarbemee"
+    },
+    {
+      "id": 176450,
+      "enslaved_id": 176450,
+      "documented_name": "Olar"
+    },
+    {
+      "id": 176451,
+      "enslaved_id": 176451,
+      "documented_name": "Cardoo"
+    },
+    {
+      "id": 176452,
+      "enslaved_id": 176452,
+      "documented_name": "Farmoboo"
+    },
+    {
+      "id": 176453,
+      "enslaved_id": 176453,
+      "documented_name": "Fasetar"
+    },
+    {
+      "id": 176454,
+      "enslaved_id": 176454,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176455,
+      "enslaved_id": 176455,
+      "documented_name": "Omoyae"
+    },
+    {
+      "id": 176456,
+      "enslaved_id": 176456,
+      "documented_name": "Sawae"
+    },
+    {
+      "id": 176457,
+      "enslaved_id": 176457,
+      "documented_name": "Warmelur"
+    },
+    {
+      "id": 176458,
+      "enslaved_id": 176458,
+      "documented_name": "Ojoe"
+    },
+    {
+      "id": 176459,
+      "enslaved_id": 176459,
+      "documented_name": "Awoo"
+    },
+    {
+      "id": 176460,
+      "enslaved_id": 176460,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176461,
+      "enslaved_id": 176461,
+      "documented_name": "Lanbar"
+    },
+    {
+      "id": 176462,
+      "enslaved_id": 176462,
+      "documented_name": "Ornufulae"
+    },
+    {
+      "id": 176463,
+      "enslaved_id": 176463,
+      "documented_name": "Ojoogorbee"
+    },
+    {
+      "id": 176464,
+      "enslaved_id": 176464,
+      "documented_name": "Osutupa"
+    },
+    {
+      "id": 176465,
+      "enslaved_id": 176465,
+      "documented_name": "Amausa"
+    },
+    {
+      "id": 176466,
+      "enslaved_id": 176466,
+      "documented_name": "Larmee"
+    },
+    {
+      "id": 176467,
+      "enslaved_id": 176467,
+      "documented_name": "Amesae"
+    },
+    {
+      "id": 176468,
+      "enslaved_id": 176468,
+      "documented_name": "Arloo"
+    },
+    {
+      "id": 176469,
+      "enslaved_id": 176469,
+      "documented_name": "Masnoo"
+    },
+    {
+      "id": 176470,
+      "enslaved_id": 176470,
+      "documented_name": "Fastoca"
+    },
+    {
+      "id": 176471,
+      "enslaved_id": 176471,
+      "documented_name": "Lardocuba"
+    },
+    {
+      "id": 176472,
+      "enslaved_id": 176472,
+      "documented_name": "Ogur"
+    },
+    {
+      "id": 176473,
+      "enslaved_id": 176473,
+      "documented_name": "Osuamee"
+    },
+    {
+      "id": 176474,
+      "enslaved_id": 176474,
+      "documented_name": "Bameaboo"
+    },
+    {
+      "id": 176475,
+      "enslaved_id": 176475,
+      "documented_name": "Morlorlar"
+    },
+    {
+      "id": 176476,
+      "enslaved_id": 176476,
+      "documented_name": "Arsardar"
+    },
+    {
+      "id": 176477,
+      "enslaved_id": 176477,
+      "documented_name": "Arsastoo"
+    },
+    {
+      "id": 176478,
+      "enslaved_id": 176478,
+      "documented_name": "Adee"
+    },
+    {
+      "id": 176479,
+      "enslaved_id": 176479,
+      "documented_name": "Osubumee"
+    },
+    {
+      "id": 176480,
+      "enslaved_id": 176480,
+      "documented_name": "Farbamee"
+    },
+    {
+      "id": 176481,
+      "enslaved_id": 176481,
+      "documented_name": "Gobasbae"
+    },
+    {
+      "id": 176482,
+      "enslaved_id": 176482,
+      "documented_name": "Coosee"
+    },
+    {
+      "id": 176483,
+      "enslaved_id": 176483,
+      "documented_name": "Adeosoo"
+    },
+    {
+      "id": 176484,
+      "enslaved_id": 176484,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176485,
+      "enslaved_id": 176485,
+      "documented_name": "Hyena"
+    },
+    {
+      "id": 176486,
+      "enslaved_id": 176486,
+      "documented_name": "Amanecar"
+    },
+    {
+      "id": 176487,
+      "enslaved_id": 176487,
+      "documented_name": "Anedodoo"
+    },
+    {
+      "id": 176488,
+      "enslaved_id": 176488,
+      "documented_name": "Farchur"
+    },
+    {
+      "id": 176489,
+      "enslaved_id": 176489,
+      "documented_name": "Alogeh"
+    },
+    {
+      "id": 176490,
+      "enslaved_id": 176490,
+      "documented_name": "Attoe"
+    },
+    {
+      "id": 176491,
+      "enslaved_id": 176491,
+      "documented_name": "Ogalawoo"
+    },
+    {
+      "id": 176492,
+      "enslaved_id": 176492,
+      "documented_name": "Omopae"
+    },
+    {
+      "id": 176493,
+      "enslaved_id": 176493,
+      "documented_name": "Marwarlae"
+    },
+    {
+      "id": 176494,
+      "enslaved_id": 176494,
+      "documented_name": "Osubumee"
+    },
+    {
+      "id": 176495,
+      "enslaved_id": 176495,
+      "documented_name": "Atosoo"
+    },
+    {
+      "id": 176496,
+      "enslaved_id": 176496,
+      "documented_name": "Docoe"
+    },
+    {
+      "id": 176497,
+      "enslaved_id": 176497,
+      "documented_name": "Bamsatoo"
+    },
+    {
+      "id": 176498,
+      "enslaved_id": 176498,
+      "documented_name": "Afulurwoo"
+    },
+    {
+      "id": 176499,
+      "enslaved_id": 176499,
+      "documented_name": "Faslotoo"
+    },
+    {
+      "id": 176500,
+      "enslaved_id": 176500,
+      "documented_name": "Alobo"
+    },
+    {
+      "id": 176501,
+      "enslaved_id": 176501,
+      "documented_name": "Annoo"
+    },
+    {
+      "id": 176502,
+      "enslaved_id": 176502,
+      "documented_name": "Annoo"
+    },
+    {
+      "id": 176503,
+      "enslaved_id": 176503,
+      "documented_name": "Yar"
+    },
+    {
+      "id": 176504,
+      "enslaved_id": 176504,
+      "documented_name": "Atarparlar"
+    },
+    {
+      "id": 176505,
+      "enslaved_id": 176505,
+      "documented_name": "Arbo"
+    },
+    {
+      "id": 176506,
+      "enslaved_id": 176506,
+      "documented_name": "Armarwoo"
+    },
+    {
+      "id": 176507,
+      "enslaved_id": 176507,
+      "documented_name": "Lametoe"
+    },
+    {
+      "id": 176508,
+      "enslaved_id": 176508,
+      "documented_name": "Chadecer"
+    },
+    {
+      "id": 176509,
+      "enslaved_id": 176509,
+      "documented_name": "Martualur"
+    },
+    {
+      "id": 176510,
+      "enslaved_id": 176510,
+      "documented_name": "Owocabee"
+    },
+    {
+      "id": 176511,
+      "enslaved_id": 176511,
+      "documented_name": "Arsartoo"
+    },
+    {
+      "id": 176512,
+      "enslaved_id": 176512,
+      "documented_name": "Ocutwulambar"
+    },
+    {
+      "id": 176513,
+      "enslaved_id": 176513,
+      "documented_name": "Arjalaitee"
+    },
+    {
+      "id": 176514,
+      "enslaved_id": 176514,
+      "documented_name": "Ojuparlar"
+    },
+    {
+      "id": 176516,
+      "enslaved_id": 176516,
+      "documented_name": "Faspatar"
+    },
+    {
+      "id": 176517,
+      "enslaved_id": 176517,
+      "documented_name": "Oputocasee"
+    }
+  ],
+  "voyage_crew": {
+    "id": 3302,
+    "crew_voyage_outset": null,
+    "crew_departure_last_port": null,
+    "crew_first_landing": null,
+    "crew_return_begin": null,
+    "crew_end_voyage": null,
+    "unspecified_crew": null,
+    "crew_died_before_first_trade": null,
+    "crew_died_while_ship_african": null,
+    "crew_died_middle_passage": null,
+    "crew_died_in_americas": null,
+    "crew_died_on_return_voyage": null,
+    "crew_died_complete_voyage": null,
+    "crew_deserted": null,
+    "voyage": 3489
+  },
+  "voyage_ship": {
+    "id": 3302,
+    "rig_of_vessel": {
+      "id": 4,
+      "name": "Brig",
+      "value": 1
+    },
+    "imputed_nationality": {
+      "id": 1,
+      "name": "Portugal / Brazil",
+      "value": 6
+    },
+    "nationality_ship": null,
+    "ton_type": {
+      "id": 10,
+      "name": "English 3",
+      "value": 15
+    },
+    "vessel_construction_place": null,
+    "vessel_construction_region": null,
+    "registered_place": null,
+    "registered_region": null,
+    "ship_name": "Paquete Africano (a) African",
+    "tonnage": 160,
+    "guns_mounted": null,
+    "year_of_construction": null,
+    "registered_year": null,
+    "tonnage_mod": 248.1,
+    "voyage": 3489
+  },
+  "voyage_slaves_numbers": {
+    "id": 3302,
+    "slave_deaths_before_africa": null,
+    "slave_deaths_between_africa_america": 28,
+    "slave_deaths_between_arrival_and_sale": null,
+    "num_slaves_intended_first_port": null,
+    "num_slaves_intended_second_port": null,
+    "num_slaves_carried_first_port": null,
+    "num_slaves_carried_second_port": null,
+    "num_slaves_carried_third_port": null,
+    "total_num_slaves_purchased": null,
+    "total_num_slaves_dep_last_slaving_port": 590,
+    "total_num_slaves_arr_first_port_embark": 562,
+    "num_slaves_disembark_first_place": null,
+    "num_slaves_disembark_second_place": null,
+    "num_slaves_disembark_third_place": null,
+    "imp_total_num_slaves_embarked": 590,
+    "imp_total_num_slaves_disembarked": 562,
+    "imp_jamaican_cash_price": null,
+    "imp_mortality_during_voyage": 28,
+    "num_men_embark_first_port_purchase": null,
+    "num_women_embark_first_port_purchase": null,
+    "num_boy_embark_first_port_purchase": null,
+    "num_girl_embark_first_port_purchase": null,
+    "num_adult_embark_first_port_purchase": null,
+    "num_child_embark_first_port_purchase": null,
+    "num_infant_embark_first_port_purchase": null,
+    "num_males_embark_first_port_purchase": null,
+    "num_females_embark_first_port_purchase": null,
+    "num_men_died_middle_passage": null,
+    "num_women_died_middle_passage": null,
+    "num_boy_died_middle_passage": null,
+    "num_girl_died_middle_passage": null,
+    "num_adult_died_middle_passage": null,
+    "num_child_died_middle_passage": null,
+    "num_infant_died_middle_passage": null,
+    "num_males_died_middle_passage": null,
+    "num_females_died_middle_passage": null,
+    "num_men_disembark_first_landing": 204,
+    "num_women_disembark_first_landing": 133,
+    "num_boy_disembark_first_landing": 96,
+    "num_girl_disembark_first_landing": 70,
+    "num_adult_disembark_first_landing": null,
+    "num_child_disembark_first_landing": null,
+    "num_infant_disembark_first_landing": null,
+    "num_males_disembark_first_landing": null,
+    "num_females_disembark_first_landing": null,
+    "num_men_embark_second_port_purchase": null,
+    "num_women_embark_second_port_purchase": null,
+    "num_boy_embark_second_port_purchase": null,
+    "num_girl_embark_second_port_purchase": null,
+    "num_adult_embark_second_port_purchase": null,
+    "num_child_embark_second_port_purchase": null,
+    "num_infant_embark_second_port_purchase": null,
+    "num_males_embark_second_port_purchase": null,
+    "num_females_embark_second_port_purchase": null,
+    "num_men_embark_third_port_purchase": null,
+    "num_women_embark_third_port_purchase": null,
+    "num_boy_embark_third_port_purchase": null,
+    "num_girl_embark_third_port_purchase": null,
+    "num_adult_embark_third_port_purchase": null,
+    "num_child_embark_third_port_purchase": null,
+    "num_infant_embark_third_port_purchase": null,
+    "num_males_embark_third_port_purchase": null,
+    "num_females_embark_third_port_purchase": null,
+    "num_men_disembark_second_landing": null,
+    "num_women_disembark_second_landing": null,
+    "num_boy_disembark_second_landing": null,
+    "num_girl_disembark_second_landing": null,
+    "num_adult_disembark_second_landing": null,
+    "num_child_disembark_second_landing": null,
+    "num_infant_disembark_second_landing": null,
+    "num_males_disembark_second_landing": null,
+    "num_females_disembark_second_landing": null,
+    "imp_num_adult_embarked": null,
+    "imp_num_children_embarked": null,
+    "imp_num_male_embarked": null,
+    "imp_num_female_embarked": null,
+    "total_slaves_embarked_age_identified": null,
+    "total_slaves_embarked_gender_identified": null,
+    "imp_adult_death_middle_passage": null,
+    "imp_child_death_middle_passage": null,
+    "imp_male_death_middle_passage": null,
+    "imp_female_death_middle_passage": null,
+    "imp_num_adult_landed": 337,
+    "imp_num_child_landed": 166,
+    "imp_num_male_landed": 300,
+    "imp_num_female_landed": 203,
+    "total_slaves_landed_age_identified": 503,
+    "total_slaves_landed_gender_identified": 503,
+    "total_slaves_dept_or_arr_age_identified": 503,
+    "total_slaves_dept_or_arr_gender_identified": 503,
+    "imp_slaves_embarked_for_mortality": 590,
+    "imp_num_men_total": 204,
+    "imp_num_women_total": 133,
+    "imp_num_boy_total": 96,
+    "imp_num_girl_total": 70,
+    "imp_num_adult_total": 337,
+    "imp_num_child_total": 166,
+    "imp_num_males_total": 300,
+    "imp_num_females_total": 203,
+    "total_slaves_embarked_age_gender_identified": null,
+    "total_slaves_by_age_gender_identified_among_landed": 503,
+    "total_slaves_by_age_gender_identified_departure_or_arrival": 503,
+    "percentage_boys_among_embarked_slaves": null,
+    "child_ratio_among_embarked_slaves": null,
+    "percentage_girls_among_embarked_slaves": null,
+    "male_ratio_among_embarked_slaves": null,
+    "percentage_men_among_embarked_slaves": null,
+    "percentage_women_among_embarked_slaves": null,
+    "percentage_boys_among_landed_slaves": 0.19085,
+    "child_ratio_among_landed_slaves": 0.33002,
+    "percentage_girls_among_landed_slaves": 0.13917,
+    "male_ratio_among_landed_slaves": 0.59642,
+    "percentage_men_among_landed_slaves": 0.40557,
+    "percentage_women_among_landed_slaves": 0.26441,
+    "percentage_men": 0.40557,
+    "percentage_women": 0.26441,
+    "percentage_boy": 0.19085,
+    "percentage_girl": 0.13917,
+    "percentage_male": 0.59642,
+    "percentage_child": 0.33002,
+    "percentage_adult": 0.66998,
+    "percentage_female": 0.40358000000000005,
+    "imp_mortality_ratio": 0.05,
+    "voyage": 3489
+  },
+  "voyage_outcome": {
+    "id": 3302,
+    "outcome_owner": {
+      "id": 2,
+      "name": "Original goal thwarted (human agency)",
+      "value": 3
+    },
+    "outcome_slaves": {
+      "id": 5,
+      "name": "Slaves disembarked in Old World",
+      "value": 3
+    },
+    "particular_outcome": {
+      "id": 38,
+      "name": "Vice-Admiralty Court, Sierra Leone, condemned    ,",
+      "value": 110
+    },
+    "resistance": null,
+    "vessel_captured_outcome": {
+      "id": 4,
+      "name": "British",
+      "value": 3
+    },
+    "voyage": 3489
+  },
+  "voyage_groupings": {
+    "id": 25,
+    "name": "Brig, 1826-50",
+    "value": 20
+  },
+  "cargo": [],
+  "african_info": [],
+  "linked_voyages": [],
+  "voyage_id": 3489,
+  "voyage_in_cd_rom": true,
+  "last_update": "2023-11-03T22:26:35.222330Z",
+  "human_reviewed": false,
+  "dataset": 0,
+  "comments": null
+}
